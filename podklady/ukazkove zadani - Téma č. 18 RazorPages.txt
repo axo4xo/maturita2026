@@ -1,0 +1,26 @@
+Téma č. 18: RazorPages 
+Klíčová slova:
+RazorPages, GET a POST požadavky, bindování dat, návratové metody (Redirect, View), routování, pretty URI.
+
+Zadání praktického úkolu:
+Vytvořte jednoduchou webovou aplikaci v ASP.NET Core pomocí Razor Pages, která bude sloužit jako evidenční formulář pro registraci účastníka kurzu.
+
+1. Na stránce /Register:
+
+Vytvořte formulář pro zadání: jméno, příjmení, e-mail, zvolený kurz (výběr z několika možností).
+
+Formulář zpracujte pomocí POST metody (OnPost) a při správném a úplném vyplnění výsledek přesměrujte na potvrzovací stránku.
+
+Umožněte naplnit formulářový prvek na základě parametru předaného stránce v URL (například předvyplnění e-mailu pomocí parametru email).
+
+2. Na stránce /Confirm:
+
+Zobrazte zadané údaje z předchozího formuláře.
+
+Pro přenos dat mezi stránkami využijte slovník TempData nebo přesměrování s parametry (route values).
+
+3. Otázky k obhajobě:
+
+Vysvětlete, jak v Razor Pages funguje routování a co znamená pojem pretty URI.
+
+Popište rozdíl mezi GET a POST požadavkem v kontextu zpracování formulářů.

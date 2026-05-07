@@ -1,0 +1,30 @@
+﻿Softwarové inženýrství,,
+Délka přípravy: 15 minut,,
+Délka zkoušení: 15 minut,,
+Číslo,Téma,Předmět
+1,Diagramy UML,TED
+2,Algoritmus,ZAL
+3,Reprezentace dat,PRG
+4,"Datové typy, proměnné",PRG
+5,Návrhové vzory,PRG
+6,"Chyby, testování a ladění programu",PRG
+7,Šifrování a kódování ,PRG
+8,Kryptosystémy,PRG
+9,Objektové programování,PRG
+10,Databáze,DBS
+11,Normalizace databáze ,DBS
+12,Jazyk SQL,DBS
+13,Internet,WEB
+14,Návrh a tvorba obsahového webu,WEB
+15,Webová stránka,WEB
+16,CSS kaskáda,WEB
+17,Vlastnosti CSS,WEB
+18,Vývoj aplikací v React,MPA
+19,Webové aplikace,WEB
+20,Ověřování identity v prostředí internetu,WEB
+21,RESTfull,WEB
+,MVVM,PRG
+22,ASP.NET,WEB
+23,Událostmi řízené programování,PRG
+24,Programovací jazyky,PRG
+25,Architektura a komponenty Android aplikací,MPA

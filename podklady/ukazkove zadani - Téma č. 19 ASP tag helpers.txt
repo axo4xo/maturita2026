@@ -1,0 +1,25 @@
+Téma č. 19: ASP tag helpers  
+Výchozí stav:
+K dispozici máte rozpracovaný projekt v ASP.NET Core (Razor Pages). Vaším úkolem je aplikaci zprovoznit a zabezpečit doplněním chybějících Tag Helperů a validačních pravidel.
+
+Zadání praktického úkolu:
+1. Výběr kurzu (Index)
+Na titulní stránce se zobrazuje prvek <select> pro výběr kurzu.
+Po výběru kurzu je uživatel přesměrován na stránku pro přihlášení.
+❗ Úkol: Chybí správné Tag Helpery (asp-for, asp-items) pro zobrazení seznamu kurzů. Doplňte je do příslušného souboru .cshtml.
+
+2. Přihlašovací formulář (Subscribe)
+Na této stránce se uživatel přihlásí pomocí jména a e-mailu.Formulář musí dále předávat i informaci o zvoleném kurzu.
+Úspěšné odeslání uloží přihlášku do databáze a přesměruje na seznam.
+❗ Úkol: Je třeba doplnit asp-* atributy a validační atributy v InputModel, aby fungovalo ověření dat na straně serveru i klienta (např. povinná pole, správný formát e-mailu).
+
+3. Seznam přihlášek (List)
+Zobrazuje všechny odeslané přihlášky.
+U každé položky v seznamu jsou dvě tlačítka:
+	Tlačítko na zobrazení detailních údajů.
+	Tlačítko na smazání záznamu přes příslušný handler.
+❗ Úkol: Doplňte Tag Helpery pro routování na handlery Detail a Delete (např. asp-page-handler, asp-route-id), aby tlačítka prováděla správné akce s konkrétním záznamem.
+
+4. Otázky k obhajobě:
+Vysvětlete k čemu slouží Tag Helpery a jaký je jejich vztah k HTML značkám.
+Jaký je rozdíl mezi validací na straně klienta a na straně serveru? Proč jsou potřeba obě?

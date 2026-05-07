@@ -1,0 +1,2092 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+<meta charset="UTF-8">
+<title>SWI — Maturitní zápisky (komplet)</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#f6f7fb;
+    --paper:#ffffff;
+    --ink:#1f2430;
+    --muted:#5b6478;
+    --accent:#2a52be;        /* SWI navy */
+    --accent-2:#4f7cff;
+    --accent-soft:#e7eefc;
+    --good:#1f8a4c;
+    --bad:#c0392b;
+    --warn:#b37700;
+    --line:#e3e6ef;
+    --code-bg:#0f172a;
+    --code-fg:#e2e8f0;
+    --shadow:0 1px 2px rgba(20,30,60,.05), 0 8px 24px rgba(20,30,60,.06);
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;padding:0}
+  body{
+    font-family:'Inter',system-ui,-apple-system,Segoe UI,Roboto,sans-serif;
+    background:var(--bg); color:var(--ink);
+    line-height:1.55; font-size:15.5px;
+  }
+  .wrap{max-width:980px; margin:0 auto; padding:32px 24px 80px}
+  .cover{
+    background:linear-gradient(135deg,var(--accent) 0%, #6e8bff 100%);
+    color:#fff; border-radius:20px; padding:48px 40px; box-shadow:var(--shadow);
+    margin-bottom:36px;
+  }
+  .cover h1{margin:0 0 8px; font-size:42px; letter-spacing:-.02em}
+  .cover p{margin:0; opacity:.92}
+  .toc{
+    background:var(--paper); border:1px solid var(--line); border-radius:14px;
+    padding:20px 24px; margin-bottom:40px; box-shadow:var(--shadow);
+  }
+  .toc h2{margin:0 0 12px; font-size:18px; color:var(--accent)}
+  .toc ol{margin:0; padding-left:20px; columns:2; column-gap:32px}
+  .toc a{color:var(--ink); text-decoration:none}
+  .toc a:hover{color:var(--accent); text-decoration:underline}
+
+  article.q{
+    background:var(--paper); border:1px solid var(--line); border-radius:16px;
+    padding:32px 36px; margin-bottom:28px; box-shadow:var(--shadow);
+  }
+  article.q h1{
+    margin:0 0 4px; font-size:28px; color:var(--accent); letter-spacing:-.01em;
+    border-bottom:3px solid var(--accent-soft); padding-bottom:10px;
+  }
+  article.q h1 .num{
+    display:inline-block; background:var(--accent); color:#fff;
+    border-radius:8px; padding:2px 10px; font-size:18px; margin-right:10px;
+    vertical-align:middle;
+  }
+  .pitch{
+    background:var(--accent-soft); border-left:4px solid var(--accent);
+    padding:14px 18px; border-radius:0 10px 10px 0; margin:18px 0 22px;
+    font-size:16px;
+  }
+  .pitch::before{
+    content:"💡 Elevator pitch"; display:block; font-size:11px; font-weight:700;
+    letter-spacing:.12em; color:var(--accent); margin-bottom:4px;
+  }
+  h2.section{
+    font-size:16px; margin:24px 0 10px; color:var(--accent);
+    text-transform:uppercase; letter-spacing:.06em;
+  }
+  h2.section::before{content:"▸ "; color:var(--accent-2)}
+  ul.core{margin:0; padding-left:22px}
+  ul.core li{margin-bottom:6px}
+  ul.core li > strong{color:var(--accent)}
+  table{
+    width:100%; border-collapse:collapse; margin:6px 0 12px;
+    font-size:14.5px; background:#fff;
+  }
+  th,td{border:1px solid var(--line); padding:8px 12px; text-align:left; vertical-align:top}
+  th{background:var(--accent-soft); color:var(--accent); font-weight:600}
+  tr:nth-child(even) td{background:#fafbff}
+
+  .usecase{
+    background:#fff8e6; border-left:4px solid var(--warn);
+    padding:14px 18px; border-radius:0 10px 10px 0; margin:8px 0 8px;
+  }
+  .usecase::before{
+    content:"🛠️ Praktický příklad"; display:block; font-size:11px; font-weight:700;
+    letter-spacing:.12em; color:var(--warn); margin-bottom:4px;
+  }
+  .diagram-wrap{
+    background:#fafbff; border:1px dashed var(--accent-2); border-radius:12px;
+    padding:14px 16px; margin:8px 0;
+  }
+  .diagram-wrap::before{
+    content:"✏️ Co nakreslit na potítku"; display:block; font-size:11px; font-weight:700;
+    letter-spacing:.12em; color:var(--accent-2); margin-bottom:8px;
+  }
+  .mermaid{font-family:'Inter',sans-serif; text-align:center}
+  code, pre{font-family:'JetBrains Mono',ui-monospace,Consolas,monospace}
+  code{background:#eef1f8; padding:1px 6px; border-radius:4px; font-size:13.5px}
+  pre.code{
+    background:var(--code-bg); color:var(--code-fg); padding:14px 18px;
+    border-radius:10px; overflow:auto; font-size:13px; line-height:1.5;
+    margin:6px 0;
+  }
+  .grid2{display:grid; grid-template-columns:1fr 1fr; gap:16px}
+  .pill{
+    display:inline-block; background:var(--accent-soft); color:var(--accent);
+    padding:2px 10px; border-radius:999px; font-size:12px; font-weight:600;
+    margin-right:6px;
+  }
+  .ok{color:var(--good); font-weight:600}
+  .ko{color:var(--bad); font-weight:600}
+
+  /* PRINT */
+  @media print{
+    @page{size:A4; margin:14mm 14mm}
+    body{background:#fff; font-size:11pt}
+    .wrap{max-width:none; padding:0}
+    .cover{box-shadow:none; border-radius:0; page-break-after:always}
+    .toc{box-shadow:none; page-break-after:always}
+    article.q{
+      box-shadow:none; border:none; border-radius:0;
+      padding:0; margin:0;
+      page-break-before:always;
+    }
+    article.q:first-of-type{page-break-before:auto}
+    article.q h1{font-size:20pt}
+    h2.section{font-size:11pt}
+    .grid2{grid-template-columns:1fr 1fr}
+    .pitch, .usecase, .diagram-wrap{break-inside:avoid}
+    table, pre.code{break-inside:avoid}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header class="cover">
+  <h1>SWI — Softwarové inženýrství</h1>
+  <p>Maturitní zápisky · 25 otázek · příprava 15 min, zkoušení 15 min</p>
+</header>
+
+<nav class="toc">
+  <h2>Obsah</h2>
+  <ol>
+    <li><a href="#q1">Diagramy UML</a></li>
+    <li><a href="#q2">Algoritmus</a></li>
+    <li><a href="#q3">Reprezentace dat</a></li>
+    <li><a href="#q4">Datové typy, proměnné</a></li>
+    <li><a href="#q5">Návrhové vzory</a></li>
+    <li><a href="#q6">Chyby, testování a ladění</a></li>
+    <li><a href="#q7">Šifrování a kódování</a></li>
+    <li><a href="#q8">Kryptosystémy</a></li>
+    <li><a href="#q9">Objektové programování</a></li>
+    <li><a href="#q10">Databáze</a></li>
+    <li><a href="#q11">Normalizace databáze</a></li>
+    <li><a href="#q12">Jazyk SQL</a></li>
+    <li><a href="#q13">Internet</a></li>
+    <li><a href="#q14">Návrh a tvorba obsahového webu</a></li>
+    <li><a href="#q15">Webová stránka</a></li>
+    <li><a href="#q16">CSS kaskáda</a></li>
+    <li><a href="#q17">Vlastnosti CSS</a></li>
+    <li><a href="#q18">Vývoj aplikací v Reactu</a></li>
+    <li><a href="#q19">Webové aplikace</a></li>
+    <li><a href="#q20">Ověřování identity v internetu</a></li>
+    <li><a href="#q21">RESTful</a></li>
+    <li><a href="#q22">ASP.NET</a></li>
+    <li><a href="#q23">Událostmi řízené programování</a></li>
+    <li><a href="#q24">Programovací jazyky</a></li>
+    <li><a href="#q25">Architektura Android aplikací</a></li>
+  </ol>
+</nav>
+
+<!-- =================== 1 UML =================== -->
+<article class="q" id="q1">
+  <h1><span class="num">1</span>Diagramy UML</h1>
+  <div class="pitch">UML (Unified Modeling Language) je standardizovaný grafický jazyk pro modelování softwaru. Slouží ke komunikaci mezi vývojáři, analytiky a zákazníky — popisuje strukturu i chování systému ještě před tím, než se napíše kód.</div>
+
+  <h2 class="section">Rozpad tématu</h2>
+  <ul class="core">
+    <li><strong>Účel UML:</strong> vizualizace, specifikace, konstrukce a dokumentace softwarového systému (OMG standard).</li>
+    <li><strong>Dvě hlavní skupiny diagramů:</strong>
+      <ul>
+        <li><strong>Strukturální</strong> (statika — z čeho se systém skládá): třídový (class), objektový, komponentový, nasazení (deployment), balíčkový (package).</li>
+        <li><strong>Behaviorální</strong> (dynamika — jak systém funguje v čase): use-case, sekvenční, aktivitní, stavový, komunikační, časový.</li>
+      </ul>
+    </li>
+    <li><strong>Class diagram</strong> — třídy + atributy + metody + vztahy. Vztahy:
+      <ul>
+        <li><strong>Asociace</strong> (čára) — třídy spolu komunikují.</li>
+        <li><strong>Agregace</strong> (prázdný kosočtverec) — „má" vztah, část přežije celek.</li>
+        <li><strong>Kompozice</strong> (plný kosočtverec) — silné „má", část zaniká s celkem.</li>
+        <li><strong>Dědičnost</strong> (prázdná šipka) — generalizace.</li>
+        <li><strong>Implementace</strong> (přerušovaná šipka) — třída implementuje rozhraní.</li>
+      </ul>
+    </li>
+    <li><strong>Multiplicita:</strong> 1, 0..1, *, 1..*, n..m.</li>
+    <li><strong>Viditelnost atributů:</strong> <code>+</code> public, <code>-</code> private, <code>#</code> protected, <code>~</code> package.</li>
+    <li><strong>Use-case diagram:</strong> aktér (panáček) + případ užití (ovál) + hranice systému. Vztahy <code>&lt;&lt;include&gt;&gt;</code> (povinné rozšíření) a <code>&lt;&lt;extend&gt;&gt;</code> (volitelné).</li>
+    <li><strong>Sekvenční diagram:</strong> osa Y = čas, šipky mezi „lifelines" objektů — modeluje pořadí volání metod.</li>
+    <li><strong>Schémata pro databáze:</strong> nejde o klasické UML, ale často se používá <strong>ER diagram</strong> (entita–vztah) nebo class diagram s anotacemi sloupců.</li>
+  </ul>
+
+  <h2 class="section">Srovnání diagramů</h2>
+  <table>
+    <tr><th>Diagram</th><th>Co modeluje</th><th>Typický scénář použití</th></tr>
+    <tr><td>Class</td><td>Statická struktura tříd a vztahů</td><td>Návrh objektového modelu před kódem</td></tr>
+    <tr><td>Use-case</td><td>Funkční požadavky z pohledu uživatele</td><td>Sběr požadavků se zákazníkem</td></tr>
+    <tr><td>Sekvenční</td><td>Časová posloupnost zpráv</td><td>Popis scénáře přihlášení, objednávky</td></tr>
+    <tr><td>Aktivitní</td><td>Tok řízení / workflow</td><td>Business proces, algoritmus</td></tr>
+    <tr><td>Stavový</td><td>Stavy objektu a přechody</td><td>Životní cyklus objednávky (nová → odeslaná → doručená)</td></tr>
+    <tr><td>Deployment</td><td>HW uzly a běžící komponenty</td><td>Rozmístění aplikace na servery</td></tr>
+  </table>
+
+  <div class="usecase">Při vývoji rezervačního systému kina nakreslíme nejdřív <strong>use-case diagram</strong> (aktér Zákazník: rezervovat lístek, zrušit rezervaci; aktér Pokladní: tisknout lístek). Z něj odvodíme <strong>class diagram</strong> (třídy <code>Film</code>, <code>Sál</code>, <code>Sedadlo</code>, <code>Rezervace</code> s vazbou 1:N) a pro klíčový scénář „rezervace" doplníme <strong>sekvenční diagram</strong> mezi UI → Controller → RezervaceService → DB.</div>
+
+  <div class="diagram-wrap">
+<pre class="mermaid">
+classDiagram
+  class Zakaznik {
+    -id: int
+    -jmeno: string
+    +rezervovat()
+  }
+  class Rezervace {
+    -datum: Date
+    +zrusit()
+  }
+  class Sedadlo {
+    -rada: int
+    -cislo: int
+  }
+  Zakaznik "1" --> "*" Rezervace : vytváří
+  Rezervace "1" o-- "*" Sedadlo : obsahuje
+</pre>
+  </div>
+</article>
+
+<!-- =================== 2 ALGORITMUS =================== -->
+<article class="q" id="q2">
+  <h1><span class="num">2</span>Algoritmus</h1>
+  <div class="pitch">Algoritmus je konečná, jednoznačná posloupnost kroků, která pro daný vstup vede ke správnému výstupu. Je to recept, který musí jít převést do programu.</div>
+
+  <h2 class="section">Vlastnosti algoritmu</h2>
+  <ul class="core">
+    <li><strong>Konečnost</strong> — skončí v rozumném počtu kroků.</li>
+    <li><strong>Determinovanost</strong> — každý krok je jednoznačně definovaný (žádná dvojznačnost).</li>
+    <li><strong>Hromadnost (obecnost)</strong> — řeší celou třídu úloh, ne jen jeden konkrétní vstup.</li>
+    <li><strong>Resultativnost (výstup)</strong> — produkuje výsledek pro každý platný vstup.</li>
+    <li><strong>Korektnost</strong> — výsledek je správný.</li>
+    <li><strong>Elementárnost</strong> — kroky jsou dostatečně jednoduché, aby je vykonal procesor / člověk.</li>
+  </ul>
+
+  <h2 class="section">Zápis algoritmu</h2>
+  <ul class="core">
+    <li><strong>Slovní popis</strong> — přirozený jazyk; rychlý, ale nepřesný.</li>
+    <li><strong>Pseudokód</strong> — formálnější jazyk podobný kódu, ale bez syntaxe konkrétního jazyka.</li>
+    <li><strong>Vývojový diagram</strong> — grafický (obdélník = akce, kosočtverec = větvení, ovál = start/konec).</li>
+    <li><strong>Strukturogram (Nassi-Shneiderman)</strong> — tabulkový blokový zápis.</li>
+    <li><strong>Programovací jazyk</strong> — finální zápis pro počítač.</li>
+  </ul>
+
+  <h2 class="section">Algoritmická složitost</h2>
+  <ul class="core">
+    <li><strong>Časová</strong> — kolik operací vykoná v závislosti na velikosti vstupu n.</li>
+    <li><strong>Paměťová</strong> — kolik paměti spotřebuje.</li>
+    <li><strong>Asymptotická notace:</strong> O (horní odhad — worst case), Ω (dolní), Θ (těsný).</li>
+  </ul>
+
+  <table>
+    <tr><th>Třída</th><th>Notace</th><th>Příklad</th><th>n=1000 zhruba</th></tr>
+    <tr><td>Konstantní</td><td>O(1)</td><td>Přístup k poli <code>a[i]</code></td><td>1 op</td></tr>
+    <tr><td>Logaritmická</td><td>O(log n)</td><td>Binární vyhledávání</td><td>~10</td></tr>
+    <tr><td>Lineární</td><td>O(n)</td><td>Průchod pole</td><td>1 000</td></tr>
+    <tr><td>Linearitmická</td><td>O(n log n)</td><td>MergeSort, QuickSort (avg)</td><td>~10 000</td></tr>
+    <tr><td>Kvadratická</td><td>O(n²)</td><td>BubbleSort, vnořené smyčky</td><td>1 000 000</td></tr>
+    <tr><td>Exponenciální</td><td>O(2ⁿ)</td><td>Naivní hledání podmnožin</td><td>nepoužitelné</td></tr>
+  </table>
+
+  <div class="usecase">Pro vyhledávání jména v telefonním seznamu (10 000 záznamů) by sekvenční hledání O(n) trvalo až 10 000 porovnání. Pokud seznam seřadíme, binární vyhledávání O(log n) to zvládne maximálně na ~14 porovnání. Proto databáze udržují <strong>indexy</strong> — aby vyhledávání bylo logaritmické.</div>
+
+  <div class="diagram-wrap">
+<pre class="mermaid">
+flowchart TD
+  A([Start]) --> B[/Načti pole a hledanou hodnotu x/]
+  B --> C{Pole prázdné?}
+  C -- Ano --> Z([Konec: nenalezeno])
+  C -- Ne --> D[i = 0]
+  D --> E{i &lt; délka?}
+  E -- Ne --> Z
+  E -- Ano --> F{a[i] = x?}
+  F -- Ano --> G([Konec: nalezeno na i])
+  F -- Ne --> H[i = i+1] --> E
+</pre>
+  </div>
+</article>
+
+<!-- =================== 3 REPREZENTACE DAT =================== -->
+<article class="q" id="q3">
+  <h1><span class="num">3</span>Reprezentace dat</h1>
+  <div class="pitch">Počítač uvnitř pracuje pouze s nulami a jedničkami. Reprezentace dat řeší, jak v této binární formě zaznamenat čísla, znaky, datum nebo strukturované údaje.</div>
+
+  <h2 class="section">Jednotky informace</h2>
+  <ul class="core">
+    <li><strong>Bit (b)</strong> — 0/1, nejmenší jednotka.</li>
+    <li><strong>Bajt (B)</strong> = 8 bitů; 1 znak v ASCII.</li>
+    <li><strong>Předpony:</strong> kB/MB/GB/TB (10³ × — síťoví operátoři, disky) vs. KiB/MiB/GiB (2¹⁰ × — operační systémy, RAM).</li>
+  </ul>
+
+  <h2 class="section">Číselné soustavy</h2>
+  <table>
+    <tr><th>Soustava</th><th>Základ</th><th>Číslice</th><th>Použití</th></tr>
+    <tr><td>Binární</td><td>2</td><td>0,1</td><td>Procesor, paměť</td></tr>
+    <tr><td>Oktalová</td><td>8</td><td>0–7</td><td>Unix práva (chmod 755)</td></tr>
+    <tr><td>Dekadická</td><td>10</td><td>0–9</td><td>Lidská</td></tr>
+    <tr><td>Hexadecimální</td><td>16</td><td>0–9, A–F</td><td>Barvy CSS, paměťové adresy</td></tr>
+  </table>
+
+  <ul class="core">
+    <li><strong>Převod bin → dec:</strong> 1011₂ = 1·8 + 0·4 + 1·2 + 1·1 = 11.</li>
+    <li><strong>Převod dec → bin:</strong> opakované dělení 2 a čtení zbytků zdola nahoru.</li>
+    <li><strong>Záporná čísla:</strong> dvojkový doplněk (negace bitů + 1).</li>
+    <li><strong>Reálná čísla:</strong> IEEE 754 (znaménko, exponent, mantisa) — float (32 b), double (64 b). Pozor na zaokrouhlovací chyby (0.1 + 0.2 ≠ 0.3 přesně).</li>
+  </ul>
+
+  <h2 class="section">Znaky</h2>
+  <ul class="core">
+    <li><strong>ASCII</strong> — 7 b, 128 znaků (anglická abeceda + řídicí).</li>
+    <li><strong>Windows-1250 / ISO-8859-2</strong> — 8 b, středoevropská diakritika.</li>
+    <li><strong>Unicode + UTF-8</strong> — variabilní 1–4 B/znak, zpětně kompatibilní s ASCII; dnešní standard webu.</li>
+  </ul>
+
+  <h2 class="section">Datum a čas, složené typy</h2>
+  <ul class="core">
+    <li><strong>Unix timestamp</strong> — počet sekund od 1.1.1970 UTC (epocha).</li>
+    <li><strong>ISO 8601</strong> — <code>2026-05-07T14:30:00Z</code>.</li>
+    <li><strong>Základní typy:</strong> int, float/double, char, bool.</li>
+    <li><strong>Složené (strukturované) typy:</strong> pole, struct, třída, záznam, n-tice, výčet (enum).</li>
+  </ul>
+
+  <div class="usecase">Při návrhu úložiště pro fotky řeším, že barva pixelu se ukládá v hex jako <code>#FF8800</code> (3×8 b RGB). Časové razítko fotky uložím jako Unix timestamp (8 B int) místo textu — je to úspornější a snadno se podle něj řadí.</div>
+
+  <div class="diagram-wrap">
+<pre class="mermaid">
+flowchart LR
+  D[Dec 13] -- "/2 zbytky zdola" --> B[Bin 1101]
+  B -- "skupiny po 4 bitech" --> H[Hex D]
+  H -- "rozšířit přes pozice" --> D
+</pre>
+  </div>
+</article>
+
+<!-- =================== 4 DATOVÉ TYPY =================== -->
+<article class="q" id="q4">
+  <h1><span class="num">4</span>Datové typy a proměnné</h1>
+  <div class="pitch">Proměnná je pojmenované místo v paměti s určeným datovým typem. Datový typ určuje, jaké hodnoty může držet, kolik zabere paměti a jaké operace nad ní jdou provádět.</div>
+
+  <h2 class="section">Rozpad tématu</h2>
+  <ul class="core">
+    <li><strong>Deklarace vs. inicializace:</strong> deklarace vznáší typ a jméno (<code>int x;</code>), inicializace přiřadí hodnotu (<code>x = 5;</code> nebo <code>int x = 5;</code>).</li>
+    <li><strong>Statická typovost</strong> (C#, Java, C++) — typ se kontroluje při překladu, chyby se chytí brzy.</li>
+    <li><strong>Dynamická typovost</strong> (Python, JS) — typ se určuje za běhu podle hodnoty, je flexibilní ale pomalejší a chyby se odhalí později.</li>
+    <li><strong>Silná vs. slabá typovost</strong> — jak striktně jazyk brání implicitnímu míchání typů.</li>
+    <li><strong>Hodnotové typy</strong> (<code>int</code>, <code>bool</code>, <code>struct</code>) — uloženy přímo na zásobníku, kopírují se hodnotou.</li>
+    <li><strong>Referenční typy</strong> (třídy, pole, string) — na haldě, proměnná drží jen <em>odkaz</em>; přiřazení kopíruje odkaz, ne data.</li>
+    <li><strong>Imutabilita</strong> — hodnota se po vytvoření nemění (<code>string</code> v C#/Java, <code>tuple</code> v Pythonu). Operace vracejí nový objekt.</li>
+    <li><strong>Obor platnosti (scope):</strong> globální, lokální (uvnitř funkce), bloková (uvnitř <code>{ }</code>). Vnitřní scope překryje vnější.</li>
+    <li><strong>Přetypování (cast):</strong>
+      <ul>
+        <li><strong>Implicitní</strong> — bezpečné, automaticky (<code>int → long</code>).</li>
+        <li><strong>Explicitní</strong> — programátor potvrdí (<code>(int)3.7</code>) i s rizikem ztráty.</li>
+      </ul>
+    </li>
+    <li><strong>Konstanty</strong> — <code>const</code> (kompilační) a <code>readonly</code> (běhová, nastavená v konstruktoru).</li>
+  </ul>
+
+  <h2 class="section">Hodnotové vs. referenční typy</h2>
+  <table>
+    <tr><th>Aspekt</th><th>Hodnotový</th><th>Referenční</th></tr>
+    <tr><td>Uložení</td><td>Stack</td><td>Heap (referenec na stacku)</td></tr>
+    <tr><td>Kopírování</td><td>Vznikne nezávislá kopie</td><td>Kopíruje se odkaz, sdílí data</td></tr>
+    <tr><td>Default</td><td>0 / false</td><td><code>null</code></td></tr>
+    <tr><td>Příklady C#</td><td>int, double, struct, enum</td><td>class, string, array, delegate</td></tr>
+  </table>
+
+  <pre class="code">int a = 5;
+int b = a;      // b je nezávislá kopie
+b = 10;         // a pořád 5
+
+int[] x = {1,2,3};
+int[] y = x;    // y ukazuje na STEJNÉ pole
+y[0] = 99;      // x[0] taky 99 !</pre>
+
+  <div class="usecase">V e-shopu mám třídu <code>Kosik</code> (referenční). Když ji předám funkci <code>SpoctiCenu(kosik)</code>, funkce dostane odkaz a může košík měnit. Naopak <code>DPH</code> (decimal — hodnotový) předávám hodnotou, takže ji uvnitř funkce mohu klidně přepsat bez vlivu na volajícího.</div>
+
+  <div class="diagram-wrap">
+<pre class="mermaid">
+flowchart LR
+  subgraph Stack
+    A["a = 5"]
+    B["b = 5"]
+    R1["x → 0xA1"]
+    R2["y → 0xA1"]
+  end
+  subgraph Heap
+    H["[1,2,3] @ 0xA1"]
+  end
+  R1 --> H
+  R2 --> H
+</pre>
+  </div>
+</article>
+
+<!-- =================== 5 NÁVRHOVÉ VZORY =================== -->
+<article class="q" id="q5">
+  <h1><span class="num">5</span>Návrhové vzory</h1>
+  <div class="pitch">Návrhový vzor je obecné, opakovaně použitelné řešení často se vyskytujícího problému v návrhu OOP softwaru. Klasifikace pochází od „Gang of Four" (GoF, 1994) — 23 vzorů ve třech kategoriích.</div>
+
+  <h2 class="section">Tři kategorie GoF</h2>
+  <table>
+    <tr><th>Kategorie</th><th>Co řeší</th><th>Vybrané vzory</th></tr>
+    <tr><td><strong>Vytvářecí</strong> (Creational)</td><td>Jak vytvářet objekty</td><td>Singleton, Factory Method, Abstract Factory, Builder, Prototype</td></tr>
+    <tr><td><strong>Strukturální</strong> (Structural)</td><td>Jak skládat třídy/objekty do větších struktur</td><td>Adapter, Decorator, Facade, Composite, Proxy, Bridge, Flyweight</td></tr>
+    <tr><td><strong>Behaviorální</strong> (Behavioral)</td><td>Komunikaci a rozdělení odpovědností</td><td>Observer, Strategy, Command, Iterator, State, Template Method, Mediator, Memento, Visitor, Chain of Responsibility, Interpreter</td></tr>
+  </table>
+
+  <h2 class="section">Často zkoušené vzory v kostce</h2>
+  <ul class="core">
+    <li><strong>Singleton</strong> — zaručí, že existuje právě 1 instance třídy (privátní konstruktor + statická vlastnost <code>Instance</code>). Použití: logger, konfigurace.</li>
+    <li><strong>Factory Method</strong> — místo <code>new</code> volám <code>Create()</code>, který se sám rozhodne, kterou konkrétní podtřídu vrátí.</li>
+    <li><strong>Builder</strong> — postupné skládání složitého objektu krok po kroku (<code>builder.SetA().SetB().Build()</code>).</li>
+    <li><strong>Adapter</strong> — „obal", který sjednotí cizí API s naším rozhraním (zásuvkový adaptér).</li>
+    <li><strong>Decorator</strong> — dynamicky přidává funkčnost objektu obalením v dalším objektu (<code>BoldDecorator(text)</code>).</li>
+    <li><strong>Facade</strong> — jednoduché rozhraní před složitým subsystémem.</li>
+    <li><strong>Observer</strong> — publisher posílá události N přihlášeným subscriberům (event v C#).</li>
+    <li><strong>Strategy</strong> — výměna algoritmu za běhu (<code>razeni.SetStrategy(quickSort)</code>).</li>
+    <li><strong>MVC / MVVM</strong> — architektonické vzory oddělující data, prezentaci a logiku.</li>
+  </ul>
+
+  <h2 class="section">Výhody a nevýhody</h2>
+  <table>
+    <tr><th class="ok">Výhody</th><th class="ko">Nevýhody</th></tr>
+    <tr>
+      <td>Sdílený slovník mezi vývojáři („použij Observer")<br>Zlepšují udržovatelnost a rozšiřitelnost<br>Ověřená řešení — méně chyb v návrhu</td>
+      <td>Riziko nadužívání („pattern fever") → zbytečná složitost<br>Vyšší vstupní bariéra pro juniory<br>Mohou skrývat jednoduchá řešení</td>
+    </tr>
+  </table>
+
+  <div class="usecase">V grafickém editoru chci, aby uživatel mohl přepínat mezi nástroji (štětec, guma, výplň). Všechny mají stejné rozhraní (<code>IDrawTool</code>) → použiji <strong>Strategy</strong>: <code>canvas.SetTool(new BrushTool())</code>. Pro logování pak globální <strong>Singleton</strong> <code>Logger.Instance.Log(...)</code>. A když chci k textovému prvku přidat efekty (tučné, kurzíva, barva), zabalím ho do <strong>Decoratorů</strong>.</div>
+
+  <div class="diagram-wrap">
+<pre class="mermaid">
+flowchart TD
+  GoF[Návrhové vzory GoF] --> C[Vytvářecí]
+  GoF --> S[Strukturální]
+  GoF --> B[Behaviorální]
+  C --> C1[Singleton]
+  C --> C2[Factory]
+  C --> C3[Builder]
+  S --> S1[Adapter]
+  S --> S2[Decorator]
+  S --> S3[Facade]
+  B --> B1[Observer]
+  B --> B2[Strategy]
+  B --> B3[Command]
+</pre>
+  </div>
+</article>
+
+<!-- =================== 6 CHYBY, TESTOVÁNÍ =================== -->
+<article class="q" id="q6">
+  <h1><span class="num">6</span>Chyby, testování a ladění programu</h1>
+  <div class="pitch">Chyby jsou nevyhnutelné. Testování ověřuje, že program dělá to, co má, a ladění (debugging) hledá příčinu chyby, když se objeví. Výjimky jsou mechanismus pro řízené řešení chyb za běhu.</div>
+
+  <h2 class="section">Druhy chyb</h2>
+  <ul class="core">
+    <li><strong>Syntaktické</strong> — porušení gramatiky jazyka. Odhalí překladač před spuštěním.</li>
+    <li><strong>Sémantické / logické</strong> — kód běží, ale dělá něco jiného, než má (špatný vzorec). Nejhorší — překladač je nevidí.</li>
+    <li><strong>Běhové (runtime)</strong> — vznikají za běhu (dělení nulou, přístup mimo pole, <code>NullReferenceException</code>).</li>
+    <li><strong>Kompilační</strong> — překlad selže (chybějící typ, nedeklarovaná proměnná).</li>
+  </ul>
+
+  <h2 class="section">Výjimky</h2>
+  <ul class="core">
+    <li><strong>Throw / try-catch-finally</strong> — výjimka „vybublá" zásobníkem volání, dokud ji někdo nezachytí.</li>
+    <li><strong>Hierarchie:</strong> všechny dědí z <code>Exception</code> (C#) / <code>Throwable</code> (Java). Vlastní výjimky vytváříme děděním.</li>
+    <li><strong>Finally</strong> blok se spustí vždy — ideální pro úklid (zavření souboru, spojení).</li>
+    <li><strong>Checked vs. unchecked</strong> (Java) — checked výjimka musí být deklarovaná v signatuře.</li>
+  </ul>
+
+  <pre class="code">try {
+  var data = File.ReadAllText("a.txt");
+} catch (FileNotFoundException ex) {
+  Console.WriteLine("Soubor neexistuje: " + ex.Message);
+} catch (Exception ex) {
+  Console.WriteLine("Jiná chyba: " + ex.Message);
+} finally {
+  Console.WriteLine("Vždy proběhne — úklid.");
+}</pre>
+
+  <h2 class="section">Testování</h2>
+  <table>
+    <tr><th>Úroveň</th><th>Co testuje</th><th>Nástroje</th></tr>
+    <tr><td>Unit testy</td><td>Jednu metodu/třídu izolovaně</td><td>xUnit, NUnit, JUnit, Jest</td></tr>
+    <tr><td>Integrační</td><td>Spolupráci více komponent</td><td>+ test DB, mocky API</td></tr>
+    <tr><td>End-to-end (E2E)</td><td>Aplikaci jako celek z pohledu uživatele</td><td>Playwright, Selenium, Cypress</td></tr>
+    <tr><td>Akceptační</td><td>Splnění zákaznických požadavků</td><td>SpecFlow, Cucumber</td></tr>
+  </table>
+
+  <ul class="core">
+    <li><strong>TDD</strong> (Test Driven Development) — nejdřív test, pak kód: red → green → refactor.</li>
+    <li><strong>Pokrytí (coverage)</strong> — kolik % řádků/větví je pokryto testy.</li>
+    <li><strong>AAA pattern</strong> testu: Arrange (připrav data) → Act (spusť operaci) → Assert (ověř výsledek).</li>
+  </ul>
+
+  <h2 class="section">Ladění (debugging)</h2>
+  <ul class="core">
+    <li><strong>Breakpoint</strong> — bod zastavení; krokujeme F10 (over) / F11 (into).</li>
+    <li><strong>Watch / Locals</strong> — sledování hodnot proměnných.</li>
+    <li><strong>Call stack</strong> — kdo koho volal.</li>
+    <li><strong>Logování</strong> (Serilog, NLog) — záznam za běhu, klíčové v produkci.</li>
+    <li><strong>Profilery</strong> — měření výkonu, paměti.</li>
+  </ul>
+
+  <div class="usecase">V e-shopu padá výpočet ceny. Napíšeme unit test <code>CenaSDPH_Vstup100_Vraci121()</code> — selže. Zapneme breakpoint na řádku výpočtu, krokujeme a vidíme, že DPH se násobí dvakrát. Opravíme, test je zelený. V produkci pak chyby logujeme do Serilogu a posíláme do Sentry pro alerting.</div>
+
+  <div class="diagram-wrap">
+<pre class="mermaid">
+flowchart LR
+  A[Volání metody] --> B{Riziková operace}
+  B -- OK --> C[Pokračování]
+  B -- Chyba --> D[throw Exception]
+  D --> E[catch blok]
+  E --> F[finally blok]
+  C --> F
+  F --> G[Konec]
+</pre>
+  </div>
+</article>
+
+<!-- =================== 7 ŠIFROVÁNÍ A KÓDOVÁNÍ =================== -->
+<article class="q" id="q7">
+  <h1><span class="num">7</span>Šifrování a kódování</h1>
+  <div class="pitch">Kódování převádí data do jiného formátu pro přenos/úložiště (každý ho umí dekódovat). Šifrování chrání obsah před nepovolanými — bez klíče se data nedají rozluštit.</div>
+
+  <h2 class="section">Kódování vs. šifrování</h2>
+  <table>
+    <tr><th></th><th>Kódování</th><th>Šifrování</th></tr>
+    <tr><td>Cíl</td><td>Reprezentace dat (přenositelnost)</td><td>Utajení dat</td></tr>
+    <tr><td>Klíč</td><td>Není potřeba</td><td>Je potřeba</td></tr>
+    <tr><td>Reverze</td><td>Veřejně známá</td><td>Pouze s klíčem</td></tr>
+    <tr><td>Příklady</td><td>ASCII, UTF-8, Base64, URL encoding</td><td>AES, RSA, Caesar, Vigenère</td></tr>
+  </table>
+
+  <h2 class="section">Klasické šifry</h2>
+  <ul class="core">
+    <li><strong>Substituční</strong> — Caesar (posun o k), monoalfabetická (libovolná permutace abecedy). Lehce prolomitelné frekvenční analýzou.</li>
+    <li><strong>Polyalfabetická</strong> — Vigenère (klíčové slovo), těžší na frekvenční analýzu.</li>
+    <li><strong>Transpoziční</strong> — písmena se nemění, jen přehazují (skytale).</li>
+    <li><strong>One-time pad</strong> — XOR s klíčem stejné délky jako zpráva, použit jen jednou. Teoreticky nerozluštitelný.</li>
+  </ul>
+
+  <h2 class="section">Moderní symetrické šifry</h2>
+  <ul class="core">
+    <li><strong>Symetrické</strong> = stejný klíč pro šifrování i dešifrování. Rychlé, vhodné pro velké objemy dat.</li>
+    <li><strong>Blokové</strong> — šifrují bloky (AES 128/192/256 b, DES — zastaralé, 3DES — překonané).</li>
+    <li><strong>Proudové</strong> — šifrují bit po bitu / byte po byte (ChaCha20, RC4 — nepoužívat).</li>
+    <li><strong>Režimy provozu</strong>: ECB (špatný — opakující se vzory), CBC, CTR, GCM (dnes preferován — i autentizace).</li>
+  </ul>
+
+  <h2 class="section">Asymetrické šifry</h2>
+  <ul class="core">
+    <li>Klíčový pár — <strong>veřejný</strong> (šifruje) a <strong>soukromý</strong> (dešifruje).</li>
+    <li>Pomalé, používají se k výměně symetrických klíčů.</li>
+    <li><strong>RSA</strong> (faktorizace velkých čísel), <strong>ECC</strong> (eliptické křivky — kratší klíče, stejná bezpečnost), <strong>Diffie-Hellman</strong> (výměna klíčů přes nezabezpečený kanál).</li>
+  </ul>
+
+  <h2 class="section">Hashovací funkce</h2>
+  <ul class="core">
+    <li>Jednosměrná funkce — z dat vytvoří otisk pevné délky. Nelze zpětně rekonstruovat.</li>
+    <li><strong>Vlastnosti</strong>: deterministická, lavinový efekt, kolizní odolnost.</li>
+    <li><strong>Algoritmy:</strong> MD5 (prolomený), SHA-1 (slabý), SHA-256, SHA-3, BLAKE2/3.</li>
+    <li><strong>Pro hesla:</strong> bcrypt, Argon2, scrypt, PBKDF2 (pomalé záměrně + sůl).</li>
+  </ul>
+
+  <h2 class="section">Složitost</h2>
+  <ul class="core">
+    <li>Bezpečnost závisí na výpočetní obtížnosti rozluštění bez klíče.</li>
+    <li>Délka klíče: 128 b symetricky ≈ 3072 b RSA ≈ 256 b ECC.</li>
+    <li>Hrozba <strong>kvantových počítačů</strong> → post-kvantová kryptografie (Kyber, Dilithium).</li>
+  </ul>
+
+  <div class="usecase">Když uživatel nahrává soubor do cloudu, klient vygeneruje náhodný AES-256 klíč a soubor jím zašifruje (rychle). Tento AES klíč pak zašifruje veřejným klíčem serveru (RSA). Server si AES klíč rozšifruje svým privátním klíčem a může soubor číst. Tomu se říká <strong>hybridní kryptosystém</strong>.</div>
+
+  <div class="diagram-wrap">
+<pre class="mermaid">
+flowchart LR
+  M[Zpráva] --> S{Symetrické?}
+  S -- Ano --> K1[1 sdílený klíč<br/>AES, ChaCha20]
+  S -- Ne --> K2[Pár veřejný/soukromý<br/>RSA, ECC]
+  K1 --> R[Rychlé,<br/>velký objem]
+  K2 --> P[Pomalé,<br/>výměna klíčů]
+</pre>
+  </div>
+</article>
+
+<!-- =================== 8 KRYPTOSYSTÉMY =================== -->
+<article class="q" id="q8">
+  <h1><span class="num">8</span>Kryptosystémy</h1>
+  <div class="pitch">Kryptosystém je ucelený systém pro zabezpečení komunikace — kombinuje šifrování, hashe, digitální podpisy a certifikáty. Cílem je důvěrnost, integrita, autenticita a nepopiratelnost.</div>
+
+  <h2 class="section">Cíle bezpečnosti (CIA + A)</h2>
+  <ul class="core">
+    <li><strong>Důvěrnost (Confidentiality)</strong> — nikdo nepovolaný nečte data → šifrování.</li>
+    <li><strong>Integrita (Integrity)</strong> — data se cestou nezměnila → hash, MAC.</li>
+    <li><strong>Dostupnost (Availability)</strong> — služba je k dispozici → redundance, DoS ochrana.</li>
+    <li><strong>Autenticita (Authenticity)</strong> — partner je opravdu ten, za koho se vydává → digitální podpis, certifikát.</li>
+    <li><strong>Nepopiratelnost</strong> — odesilatel nemůže popřít, že zprávu poslal → digitální podpis.</li>
+  </ul>
+
+  <h2 class="section">Klíčové stavební kameny</h2>
+  <ul class="core">
+    <li><strong>Digitální otisk (hash)</strong> — krátký otisk dat (SHA-256). Slouží k ověření integrity.</li>
+    <li><strong>Digitální podpis</strong> — hash zprávy zašifrovaný <em>soukromým</em> klíčem odesilatele. Příjemce jej dešifruje <em>veřejným</em> klíčem a porovná s vlastním hashem zprávy.</li>
+    <li><strong>Certifikát X.509</strong> — veřejný klíč podepsaný certifikační autoritou (CA), spolu s identitou držitele.</li>
+    <li><strong>PKI</strong> (Public Key Infrastructure) — strom CA, ve kterém prohlížeč věří kořenovým CA (Let's Encrypt, DigiCert, …).</li>
+    <li><strong>MAC / HMAC</strong> — hash kombinovaný s klíčem (autentizovaný hash).</li>
+  </ul>
+
+  <h2 class="section">TLS / SSL</h2>
+  <ul class="core">
+    <li>Protokol pro zabezpečenou komunikaci nad TCP. SSL je historický předchůdce, dnes se používá <strong>TLS 1.2 / 1.3</strong>.</li>
+    <li><strong>HTTPS = HTTP + TLS</strong>.</li>
+    <li><strong>Handshake (zjednodušeně, TLS 1.3):</strong>
+      <ol>
+        <li>Klient: ClientHello — podporované šifry + náhodné číslo + svůj veřejný klíč pro DH.</li>
+        <li>Server: ServerHello — vybraná šifra + svůj klíč pro DH + certifikát + podpis.</li>
+        <li>Obě strany odvodí stejný symetrický klíč pomocí Diffie-Hellman.</li>
+        <li>Další komunikace běží symetricky šifrovaná (AES-GCM nebo ChaCha20-Poly1305).</li>
+      </ol>
+    </li>
+    <li><strong>Forward secrecy</strong> — i když se v budoucnu prozradí privátní klíč serveru, minulé spojení zůstává tajné (díky efemérnímu DH).</li>
+  </ul>
+
+  <h2 class="section">Symetrické vs. asymetrické v kryptosystému</h2>
+  <table>
+    <tr><th></th><th>Symetrická</th><th>Asymetrická</th></tr>
+    <tr><td>Rychlost</td><td>Vysoká</td><td>~100–1000× pomalejší</td></tr>
+    <tr><td>Výměna klíče</td><td>Problém</td><td>Řeší ji</td></tr>
+    <tr><td>Použití v TLS</td><td>Šifrování dat po handshake</td><td>Handshake, podpis certifikátu</td></tr>
+  </table>
+
+  <div class="usecase">Při návštěvě banky (https://) prohlížeč:
+    <ol>
+      <li>navazuje TLS spojení, dostane certifikát banky podepsaný kořenovou CA, ověří podpis veřejným klíčem CA;</li>
+      <li>kontroluje doménu a platnost;</li>
+      <li>společně se serverem vygeneruje session klíč;</li>
+      <li>přihlašovací údaje pak putují po síti šifrované AES-GCM — útočník vidí jen zašifrovaný šum.</li>
+    </ol>
+  </div>
+
+  <div class="diagram-wrap">
+<pre class="mermaid">
+sequenceDiagram
+  participant C as Klient
+  participant S as Server
+  C->>S: ClientHello (šifry, náhoda, DH klíč)
+  S->>C: ServerHello + Certifikát + DH klíč + podpis
+  C->>C: Ověř certifikát u CA
+  Note over C,S: Obě strany odvodí symetrický klíč
+  C->>S: Šifrovaná data (AES-GCM)
+  S->>C: Šifrovaná data (AES-GCM)
+</pre>
+  </div>
+</article>
+
+<!-- =================== 9 OOP =================== -->
+<article class="q" id="q9">
+  <h1><span class="num">9</span>Objektové programování</h1>
+  <div class="pitch">OOP je paradigma, které modeluje program jako množinu spolupracujících objektů — instancí tříd, jež mají stav (atributy) a chování (metody). Stojí na čtyřech pilířích: zapouzdření, dědičnost, polymorfismus, abstrakce.</div>
+
+  <h2 class="section">Čtyři pilíře OOP</h2>
+  <ul class="core">
+    <li><strong>Zapouzdření (encapsulation)</strong> — skrytí implementace, přístup přes veřejné rozhraní (vlastnosti, metody). Modifikátory: <code>private</code>, <code>protected</code>, <code>internal</code>, <code>public</code>.</li>
+    <li><strong>Dědičnost (inheritance)</strong> — třída přebírá členy rodičovské třídy a může je rozšířit/přepsat. C# má <em>jednoduchou</em> dědičnost tříd, ale lze implementovat <em>více</em> rozhraní.</li>
+    <li><strong>Polymorfismus</strong> — stejné rozhraní, různá implementace. Forma:
+      <ul>
+        <li><strong>Přetížení (overloading)</strong> — stejný název metody, různé signatury (statický polymorfismus).</li>
+        <li><strong>Přepsání (overriding)</strong> — potomek poskytne vlastní implementaci virtuální metody (dynamický).</li>
+      </ul>
+    </li>
+    <li><strong>Abstrakce</strong> — modelujeme jen podstatné. <code>abstract</code> třída nemůže existovat sama, jen jako rodič.</li>
+  </ul>
+
+  <h2 class="section">Další klíčové pojmy</h2>
+  <ul class="core">
+    <li><strong>Třída vs. objekt</strong> — třída je šablona, objekt je instance.</li>
+    <li><strong>Konstruktor / destruktor</strong> — speciální metody pro vznik a zánik objektu.</li>
+    <li><strong>Vlastnosti (properties)</strong> — chovají se jako atribut, ale uvnitř volají getter/setter.</li>
+    <li><strong>Statické členy</strong> — patří třídě, ne instanci (volá se <code>Math.Sqrt(...)</code>).</li>
+    <li><strong>Interface (rozhraní)</strong> — kontrakt bez implementace; jen seznam povinných metod/vlastností. Třída může implementovat více rozhraní.</li>
+    <li><strong>Abstraktní třída</strong> — kombinace hotových i abstraktních členů.</li>
+    <li><strong>Generika</strong> — třídy/metody parametrizované typem (<code>List&lt;T&gt;</code>) — typová bezpečnost bez duplicity kódu.</li>
+    <li><strong>Jmenné prostory (namespace)</strong> — logické členění, prevence kolize jmen.</li>
+  </ul>
+
+  <h2 class="section">Interface vs. abstraktní třída</h2>
+  <table>
+    <tr><th>Aspekt</th><th>Interface</th><th>Abstract class</th></tr>
+    <tr><td>Implementace</td><td>Jen kontrakt (od C# 8 i default)</td><td>Může mít hotové metody i atributy</td></tr>
+    <tr><td>Dědění</td><td>Lze implementovat více</td><td>Jen jedna</td></tr>
+    <tr><td>Konstruktor</td><td>Ne</td><td>Ano</td></tr>
+    <tr><td>Použití</td><td>„Co umí" (chování)</td><td>„Čím je" (rodičovský typ)</td></tr>
+  </table>
+
+  <pre class="code">public abstract class Zvire {
+  public string Jmeno { get; set; }
+  public abstract void DejZvuk();    // musí přepsat potomek
+  public void Spi() =&gt; Console.WriteLine($"{Jmeno} spí.");
+}
+public class Pes : Zvire, IHracka {
+  public override void DejZvuk() =&gt; Console.WriteLine("Haf!");
+  public void Hraj() =&gt; Console.WriteLine("Aportuju.");
+}
+Zvire z = new Pes { Jmeno = "Rex" };
+z.DejZvuk();   // polymorfně volá Pes.DejZvuk → "Haf!"</pre>
+
+  <div class="usecase">V bankovní aplikaci mám abstraktní třídu <code>Ucet</code> s vlastnostmi <code>Zustatek</code>, <code>Cislo</code> a abstraktní metodou <code>VypocitejUrok()</code>. Potomci <code>SporiciUcet</code>, <code>BeznyUcet</code>, <code>HypoUcet</code> mají odlišný výpočet úroku. Interface <code>IPlatebniMetoda</code> implementují i třídy, které účet nejsou (Karta, QRPlatba). Polymorfně pak <code>foreach (var u in ucty) u.VypocitejUrok();</code>.</div>
+
+  <div class="diagram-wrap">
+<pre class="mermaid">
+classDiagram
+  class Zvire {
+    <<abstract>>
+    +Jmeno: string
+    +DejZvuk()*
+    +Spi()
+  }
+  class Pes {
+    +DejZvuk()
+    +Hraj()
+  }
+  class Kocka {
+    +DejZvuk()
+  }
+  class IHracka {
+    <<interface>>
+    +Hraj()
+  }
+  Zvire <|-- Pes
+  Zvire <|-- Kocka
+  IHracka <|.. Pes
+</pre>
+  </div>
+</article>
+
+<!-- =================== 10 DATABÁZE =================== -->
+<article class="q" id="q10">
+  <h1><span class="num">10</span>Databáze</h1>
+  <div class="pitch">Databáze je strukturovaný a perzistentní úložný systém pro data, ke kterému přistupujeme přes systém řízení báze dat (DBMS). Nejrozšířenější je relační model (tabulky + SQL), pro flexibilní data NoSQL.</div>
+
+  <h2 class="section">Základní pojmy</h2>
+  <ul class="core">
+    <li><strong>DBMS</strong> — software pro správu DB (MySQL, PostgreSQL, MS SQL, Oracle, SQLite, MongoDB).</li>
+    <li><strong>Schéma</strong> — definice tabulek, sloupců, vazeb, omezení.</li>
+    <li><strong>Záznam (řádek, n-tice)</strong> — jeden konkrétní výskyt entity.</li>
+    <li><strong>Atribut (sloupec)</strong> — vlastnost entity s datovým typem.</li>
+    <li><strong>Transakce</strong> — atomická skupina operací s vlastnostmi <strong>ACID</strong>: Atomicity, Consistency, Isolation, Durability.</li>
+  </ul>
+
+  <h2 class="section">Klíče</h2>
+  <ul class="core">
+    <li><strong>Primární klíč (PK)</strong> — jednoznačně identifikuje záznam, NOT NULL, unikátní.</li>
+    <li><strong>Kandidátní klíč</strong> — sloupec/skupina sloupců, která by mohla být PK.</li>
+    <li><strong>Cizí klíč (FK)</strong> — odkaz na PK v jiné tabulce, zajišťuje vazbu.</li>
+    <li><strong>Složený klíč</strong> — PK z více sloupců.</li>
+    <li><strong>Surrogate klíč</strong> — uměle vygenerovaný (auto-increment ID, GUID).</li>
+  </ul>
+
+  <h2 class="section">Vazby (kardinalita)</h2>
+  <ul class="core">
+    <li><strong>1:1</strong> — Uživatel ↔ Profil (vzácné, často sloučíme do jedné tabulky).</li>
+    <li><strong>1:N</strong> — Zákazník → Objednávky (FK na straně N).</li>
+    <li><strong>N:M</strong> — Studenti × Předměty (řeší se vazební tabulkou).</li>
+  </ul>
+
+  <h2 class="section">Integrita dat</h2>
+  <ul class="core">
+    <li><strong>Doménová</strong> — datový typ a constraint sloupce (NOT NULL, CHECK, DEFAULT, UNIQUE).</li>
+    <li><strong>Entitní</strong> — primární klíč nesmí být NULL ani duplicitní.</li>
+    <li><strong>Referenční</strong> — FK musí ukazovat na existující PK; <code>ON DELETE</code> CASCADE / SET NULL / RESTRICT.</li>
+    <li><strong>Uživatelská</strong> — business pravidla (věk &gt; 0, email regexem).</li>
+  </ul>
+
+  <h2 class="section">SQL vs. NoSQL</h2>
+  <table>
+    <tr><th></th><th>Relační (SQL)</th><th>NoSQL</th></tr>
+    <tr><td>Schéma</td><td>Pevné, předem dané</td><td>Flexibilní, schema-less</td></tr>
+    <tr><td>Model</td><td>Tabulky + vazby</td><td>Dokumenty (Mongo), klíč–hodnota (Redis), sloupce (Cassandra), graf (Neo4j)</td></tr>
+    <tr><td>Dotazy</td><td>SQL</td><td>API, JSON dotazy</td></tr>
+    <tr><td>Konzistence</td><td>ACID</td><td>Často BASE / eventual consistency</td></tr>
+    <tr><td>Škálovatelnost</td><td>Vertikální</td><td>Horizontální (sharding)</td></tr>
+    <tr><td>Použití</td><td>Bankovnictví, ERP</td><td>Big data, real-time, IoT, sociální sítě</td></tr>
+  </table>
+
+  <div class="usecase">V e-shopu zvolím <strong>relační</strong> DB pro objednávky a sklad (transakce, integrita). <strong>Redis</strong> (key-value) pro cache nejprodávanějších produktů a session klíče. <strong>MongoDB</strong> pro recenze, kde každý produkt má jiné atributy a počet hodnocení může být obrovský.</div>
+
+  <div class="diagram-wrap">
+<pre class="mermaid">
+erDiagram
+  ZAKAZNIK ||--o{ OBJEDNAVKA : "vytváří"
+  OBJEDNAVKA ||--|{ POLOZKA : "obsahuje"
+  PRODUKT ||--o{ POLOZKA : "je v"
+  ZAKAZNIK {
+    int id PK
+    string jmeno
+    string email
+  }
+  OBJEDNAVKA {
+    int id PK
+    int zakaznik_id FK
+    date datum
+  }
+  PRODUKT {
+    int id PK
+    string nazev
+    decimal cena
+  }
+  POLOZKA {
+    int objednavka_id FK
+    int produkt_id FK
+    int mnozstvi
+  }
+</pre>
+  </div>
+</article>
+
+<!-- =================== 11 NORMALIZACE =================== -->
+<article class="q" id="q11">
+  <h1><span class="num">11</span>Normalizace databáze</h1>
+  <div class="pitch">Normalizace je proces postupného převedení tabulek do formy, která minimalizuje redundanci a zabraňuje anomáliím při vkládání, mazání a aktualizaci. Postupuje se přes normální formy 1NF → 2NF → 3NF → BCNF.</div>
+
+  <h2 class="section">Anomálie v nenormalizované databázi</h2>
+  <ul class="core">
+    <li><strong>Aktualizační</strong> — změna jednoho údaje vyžaduje změnu na více místech.</li>
+    <li><strong>Vkládací</strong> — nelze vložit záznam bez vyplnění nesouvisejících údajů.</li>
+    <li><strong>Mazací</strong> — smazání jednoho záznamu omylem vymaže i jiná data.</li>
+  </ul>
+
+  <h2 class="section">Normální formy</h2>
+  <table>
+    <tr><th>NF</th><th>Pravidlo</th><th>Co dělat při porušení</th></tr>
+    <tr><td>0NF</td><td>Surová tabulka, opakující se skupiny, vícehodnotová pole</td><td>—</td></tr>
+    <tr><td><strong>1NF</strong></td><td>Atomické hodnoty (každá buňka 1 hodnota), jednoznačný PK</td><td>Rozdělit vícehodnotové sloupce do nových řádků/tabulek</td></tr>
+    <tr><td><strong>2NF</strong></td><td>1NF + každý neklíčový atribut závisí na <em>celém</em> PK (problém složeného klíče)</td><td>Vyčlenit částečné závislosti do nové tabulky</td></tr>
+    <tr><td><strong>3NF</strong></td><td>2NF + žádné <em>tranzitivní</em> závislosti (neklíčový atribut nezávisí na jiném neklíčovém)</td><td>Přesunout odvozený atribut do své tabulky</td></tr>
+    <tr><td><strong>BCNF</strong></td><td>3NF + každá funkční závislost má levou stranu jako kandidátní klíč</td><td>Přísnější verze 3NF, řeší zbytkové anomálie u složených klíčů</td></tr>
+  </table>
+
+  <h2 class="section">Příklad — od 0NF k 3NF</h2>
+  <pre class="code">-- 0NF: jeden řádek = nepořádek
+Studenti(jmeno, predmety, ucitel)
+"Jan", "Mat;Fyz", "Novák;Svoboda"
+
+-- 1NF: rozdělit
+Studenti_Predmety(student, predmet, ucitel)
+"Jan","Mat","Novák"
+"Jan","Fyz","Svoboda"
+
+-- 2NF: PK = (student, predmet); ucitel závisí jen na predmet
+Studenti(student)
+Predmety(predmet, ucitel)
+Zapis(student, predmet)
+
+-- 3NF: pokud by Predmety obsahovaly i (predmet, ucitel, kabinet),
+-- a kabinet závisel na ucitel (ne na predmet), vyčleníme:
+Predmety(predmet, ucitel)
+Ucitele(ucitel, kabinet)</pre>
+
+  <h2 class="section">Optimalizace a denormalizace</h2>
+  <ul class="core">
+    <li>Normalizace = úspora místa + integrita, ale dotaz často potřebuje <code>JOIN</code>y → pomalejší.</li>
+    <li><strong>Denormalizace</strong> — záměrné porušení (zduplikování) pro výkon (datové sklady, cache).</li>
+  </ul>
+
+  <h2 class="section">OLTP vs. OLAP</h2>
+  <table>
+    <tr><th></th><th>OLTP (Online Transaction Processing)</th><th>OLAP (Online Analytical Processing)</th></tr>
+    <tr><td>Účel</td><td>Každodenní operace (vklad, objednávka)</td><td>Analýza, reporty, BI</td></tr>
+    <tr><td>Operace</td><td>Hlavně INSERT, UPDATE</td><td>Hlavně SELECT s agregacemi</td></tr>
+    <tr><td>Schéma</td><td>Normalizované (3NF)</td><td>Denormalizované (hvězda, sněhová vločka)</td></tr>
+    <tr><td>Data</td><td>Aktuální, malé objemy / dotaz</td><td>Historie, GB–TB</td></tr>
+    <tr><td>Příklad</td><td>Bankovní systém, e-shop</td><td>Datový sklad, dashboard tržeb</td></tr>
+  </table>
+
+  <div class="usecase">V e-shopu mám provozní DB v 3NF (objednávky, produkty, kategorie). Pro management vytvářím každou noc <strong>data warehouse</strong> v hvězdicovém schématu — fact tabulka <code>Prodeje</code> + dimenze <code>Cas</code>, <code>Produkt</code>, <code>Region</code>. Reporty pak běží během sekund místo minut.</div>
+
+  <div class="diagram-wrap">
+<pre class="mermaid">
+flowchart LR
+  N0[0NF: vícehodnotové buňky] --> N1[1NF: atomické hodnoty + PK]
+  N1 --> N2[2NF: bez částečných závislostí]
+  N2 --> N3[3NF: bez tranzitivních závislostí]
+  N3 --> BC[BCNF: každá závislost přes kandidátní klíč]
+</pre>
+  </div>
+</article>
+
+<!-- =================== 12 SQL =================== -->
+<article class="q" id="q12">
+  <h1><span class="num">12</span>Jazyk SQL</h1>
+  <div class="pitch">SQL (Structured Query Language) je deklarativní dotazovací jazyk pro relační databáze — řekne se <em>co</em> chceme, ne <em>jak</em> to získat. Dělí se do čtyř skupin: DDL, DML, DCL, TCL.</div>
+
+  <h2 class="section">Skupiny příkazů</h2>
+  <table>
+    <tr><th>Skupina</th><th>Účel</th><th>Příkazy</th></tr>
+    <tr><td><strong>DDL</strong> Data Definition</td><td>Definice schématu</td><td>CREATE, ALTER, DROP, TRUNCATE</td></tr>
+    <tr><td><strong>DML</strong> Data Manipulation</td><td>Práce s daty</td><td>SELECT, INSERT, UPDATE, DELETE</td></tr>
+    <tr><td><strong>DCL</strong> Data Control</td><td>Oprávnění</td><td>GRANT, REVOKE</td></tr>
+    <tr><td><strong>TCL</strong> Transaction Control</td><td>Transakce</td><td>BEGIN, COMMIT, ROLLBACK, SAVEPOINT</td></tr>
+  </table>
+
+  <h2 class="section">SELECT — základní stavební kameny</h2>
+  <pre class="code">SELECT  sloupce            -- 5. co vrátit
+FROM    tabulka            -- 1. odkud
+JOIN    jiná ON podminka   -- 2. spojit
+WHERE   filtr_řádků        -- 3. před agregací
+GROUP BY sloupec           -- 4. seskupit
+HAVING  filtr_skupin       -- 6. po agregaci
+ORDER BY sloupec [ASC|DESC]-- 7. seřadit
+LIMIT n OFFSET m;          -- 8. stránkování</pre>
+
+  <h2 class="section">Druhy JOINů</h2>
+  <table>
+    <tr><th>JOIN</th><th>Co vrací</th></tr>
+    <tr><td>INNER JOIN</td><td>Pouze řádky se shodou v obou tabulkách</td></tr>
+    <tr><td>LEFT (OUTER) JOIN</td><td>Všechny z levé + shodu z pravé (jinak NULL)</td></tr>
+    <tr><td>RIGHT JOIN</td><td>Všechny z pravé + shodu z levé</td></tr>
+    <tr><td>FULL OUTER JOIN</td><td>Všechny z obou (mimo shodu doplní NULL)</td></tr>
+    <tr><td>CROSS JOIN</td><td>Kartézský součin</td></tr>
+  </table>
+
+  <h2 class="section">Agregační funkce</h2>
+  <ul class="core">
+    <li><code>COUNT(*)</code>, <code>SUM</code>, <code>AVG</code>, <code>MIN</code>, <code>MAX</code> — vždy nad skupinou definovanou GROUP BY.</li>
+    <li><code>HAVING</code> filtruje skupiny (po agregaci), <code>WHERE</code> řádky (před).</li>
+  </ul>
+
+  <pre class="code">-- Top 5 zákazníků podle obratu v roce 2025
+SELECT z.jmeno, SUM(o.castka) AS obrat
+FROM   Zakaznik z
+JOIN   Objednavka o ON o.zakaznik_id = z.id
+WHERE  YEAR(o.datum) = 2025
+GROUP  BY z.id, z.jmeno
+HAVING SUM(o.castka) &gt; 10000
+ORDER  BY obrat DESC
+LIMIT  5;</pre>
+
+  <h2 class="section">DDL — schéma</h2>
+  <pre class="code">CREATE TABLE Produkt (
+  id        INT PRIMARY KEY AUTO_INCREMENT,
+  nazev     VARCHAR(100) NOT NULL,
+  cena      DECIMAL(10,2) CHECK (cena &gt;= 0),
+  kategorie_id INT,
+  FOREIGN KEY (kategorie_id) REFERENCES Kategorie(id)
+    ON DELETE SET NULL
+);
+ALTER TABLE Produkt ADD COLUMN sklad INT DEFAULT 0;
+DROP TABLE Produkt;</pre>
+
+  <h2 class="section">Integritní omezení</h2>
+  <ul class="core">
+    <li><code>PRIMARY KEY</code>, <code>FOREIGN KEY</code>, <code>UNIQUE</code>, <code>NOT NULL</code>, <code>CHECK</code>, <code>DEFAULT</code>.</li>
+  </ul>
+
+  <h2 class="section">DML — manipulace</h2>
+  <pre class="code">INSERT INTO Produkt (nazev, cena) VALUES ('Kniha', 299.00);
+UPDATE Produkt SET cena = cena * 1.1 WHERE kategorie_id = 3;
+DELETE FROM Produkt WHERE sklad = 0;</pre>
+
+  <div class="usecase">Manažer eshopu chce vědět, ve kterém měsíci roku 2025 vydělal e-shop nejvíc. Napíšu: <code>SELECT MONTH(datum), SUM(castka) FROM Objednavka WHERE YEAR(datum)=2025 GROUP BY MONTH(datum) ORDER BY 2 DESC LIMIT 1;</code>. Pokud by chtěl jen měsíce s obratem nad milion, přidám <code>HAVING SUM(castka) &gt; 1000000</code>.</div>
+
+  <div class="diagram-wrap">
+<pre class="mermaid">
+flowchart LR
+  SQL[SQL] --> DDL[DDL<br/>CREATE/ALTER/DROP]
+  SQL --> DML[DML<br/>SELECT/INSERT/UPDATE/DELETE]
+  SQL --> DCL[DCL<br/>GRANT/REVOKE]
+  SQL --> TCL[TCL<br/>COMMIT/ROLLBACK]
+</pre>
+  </div>
+</article>
+
+<!-- =================== 13 INTERNET =================== -->
+<article class="q" id="q13">
+  <h1><span class="num">13</span>Internet</h1>
+  <div class="pitch">Internet je celosvětová decentralizovaná síť propojených sítí, ve které spolu zařízení komunikují pomocí protokolů TCP/IP. Web (WWW) je jen jedna z mnoha služeb běžících nad ním.</div>
+
+  <h2 class="section">Vrstvy TCP/IP modelu</h2>
+  <table>
+    <tr><th>Vrstva</th><th>Příklad protokolů</th><th>Co řeší</th></tr>
+    <tr><td>Aplikační</td><td>HTTP(S), DNS, FTP, SMTP, IMAP, SSH</td><td>Komunikace aplikací</td></tr>
+    <tr><td>Transportní</td><td>TCP, UDP</td><td>Doručení mezi procesy (porty)</td></tr>
+    <tr><td>Síťová</td><td>IP, ICMP</td><td>Adresace a směrování</td></tr>
+    <tr><td>Linková</td><td>Ethernet, Wi-Fi</td><td>Přenos rámců po fyzickém médiu</td></tr>
+  </table>
+
+  <h2 class="section">IP adresy a domény</h2>
+  <ul class="core">
+    <li><strong>IPv4</strong> — 32 b, např. <code>192.168.1.1</code>; ~4,3 mld. adres → vyčerpány.</li>
+    <li><strong>IPv6</strong> — 128 b, např. <code>2001:db8::1</code>.</li>
+    <li><strong>Veřejné vs. privátní</strong> — privátní rozsahy (10.0.0.0/8, 192.168.0.0/16) jsou vidět jen v LAN; ven přes <strong>NAT</strong>.</li>
+    <li><strong>DNS</strong> — překlad domény → IP. Hierarchie: kořen → TLD (<code>.cz</code>) → SLD (<code>seznam.cz</code>) → subdoména (<code>www</code>).</li>
+    <li><strong>DNS záznamy:</strong> A (IPv4), AAAA (IPv6), CNAME (alias), MX (mail), TXT (SPF, DKIM), NS (jmenné servery).</li>
+  </ul>
+
+  <h2 class="section">URL — struktura</h2>
+  <pre class="code">https://www.example.com:443/cesta/soubor.html?q=php&amp;p=2#sekce
+└──┬─┘ └────────┬──────┘ └┬┘ └─────────┬───────┘ └─────┬─────┘ └─┬─┘
+schéma     hostname      port        cesta            query    fragment</pre>
+
+  <ul class="core">
+    <li><strong>Schéma</strong> — protokol (https, http, ftp, mailto).</li>
+    <li><strong>Port</strong> — výchozí 80 (HTTP), 443 (HTTPS), 22 (SSH), 25 (SMTP).</li>
+    <li><strong>Query string</strong> — parametry (<code>?klíč=hodnota&amp;…</code>).</li>
+    <li><strong>Fragment</strong> — kotva v dokumentu (klient ho neposílá serveru).</li>
+  </ul>
+
+  <h2 class="section">Absolutní vs. relativní adresa</h2>
+  <table>
+    <tr><th>Absolutní</th><th>Relativní</th></tr>
+    <tr><td><code>https://web.cz/img/a.png</code></td><td><code>img/a.png</code> nebo <code>../a.png</code></td></tr>
+    <tr><td>Funguje odkudkoliv</td><td>Závisí na aktuální URL stránky</td></tr>
+    <tr><td>Pro externí zdroje</td><td>Pro vnitřní odkazy v projektu</td></tr>
+  </table>
+
+  <h2 class="section">MIME type</h2>
+  <ul class="core">
+    <li>Standard pro označení formátu obsahu, posílá se v hlavičce <code>Content-Type</code>.</li>
+    <li>Formát <code>typ/podtyp</code>: <code>text/html</code>, <code>application/json</code>, <code>image/png</code>, <code>application/pdf</code>, <code>multipart/form-data</code>.</li>
+    <li>Prohlížeč podle MIME rozhodne, zda obsah zobrazí, stáhne nebo dá pluginu.</li>
+  </ul>
+
+  <div class="usecase">Když do prohlížeče napíšu <code>https://seznam.cz</code>:
+    <ol>
+      <li>OS zeptá DNS resolver na IP <code>seznam.cz</code> (UDP/53).</li>
+      <li>Naváže TCP spojení na port 443, přes TLS handshake získá session klíč.</li>
+      <li>Pošle HTTP GET, server odpoví <code>200 OK</code> s <code>Content-Type: text/html</code>.</li>
+      <li>Prohlížeč parsuje HTML, dotahuje CSS, JS a obrázky (každý přes vlastní URL).</li>
+    </ol>
+  </div>
+
+  <div class="diagram-wrap">
+<pre class="mermaid">
+sequenceDiagram
+  participant U as Uživatel
+  participant B as Prohlížeč
+  participant D as DNS
+  participant S as Webserver
+  U->>B: napíše seznam.cz
+  B->>D: dotaz A záznam
+  D-->>B: IP 77.75.79.222
+  B->>S: TCP/443 + TLS handshake
+  B->>S: HTTP GET /
+  S-->>B: 200 OK, text/html
+  B-->>U: vykreslí stránku
+</pre>
+  </div>
+</article>
+
+<!-- =================== 14 NÁVRH OBSAHOVÉHO WEBU =================== -->
+<article class="q" id="q14">
+  <h1><span class="num">14</span>Návrh a tvorba obsahového webu</h1>
+  <div class="pitch">Obsahový web (blog, magazín, firemní prezentace) staví na kvalitním textu a přehledné navigaci. Úspěšný projekt vyžaduje promyšlený workflow od analýzy přes UX/UI návrh, vývoj, SEO a po nasazení a měření.</div>
+
+  <h2 class="section">Workflow tvorby webu</h2>
+  <ol>
+    <li><strong>Analýza</strong> — cíl webu, cílová skupina (persona), konkurence, klíčová slova.</li>
+    <li><strong>Informační architektura</strong> — sitemapa, kategorie obsahu.</li>
+    <li><strong>Wireframy</strong> — drátěný model rozložení (Figma, Balsamiq).</li>
+    <li><strong>Vizuální design</strong> — barvy, typografie, ikonografie, brand book.</li>
+    <li><strong>Prototyp</strong> — klikatelný (Figma).</li>
+    <li><strong>Implementace</strong> — HTML/CSS/JS, CMS (WordPress, Strapi).</li>
+    <li><strong>Testování</strong> — UX testy, kompatibilita prohlížečů, výkon.</li>
+    <li><strong>Nasazení + SEO</strong> — hosting, doména, sitemap.xml, robots.txt.</li>
+    <li><strong>Měření</strong> — Google Analytics, Search Console; iterace.</li>
+  </ol>
+
+  <h2 class="section">UX vs. UI</h2>
+  <table>
+    <tr><th>UX (User Experience)</th><th>UI (User Interface)</th></tr>
+    <tr><td>Celkový zážitek a použitelnost</td><td>Vizuální vrstva — co uživatel vidí</td></tr>
+    <tr><td>Userflow, persony, A/B testy</td><td>Barvy, typografie, ikony, layout</td></tr>
+    <tr><td>„Funguje to dobře?"</td><td>„Vypadá to dobře?"</td></tr>
+  </table>
+
+  <ul class="core">
+    <li><strong>Heuristiky (Nielsen, 10 zásad):</strong> viditelnost stavu, soulad s reálným světem, kontrola uživatele, konzistence, prevence chyb, rozpoznání místo vzpomínání, …</li>
+    <li><strong>Above the fold</strong> — co uživatel vidí bez scrollu; nejcennější místo.</li>
+    <li><strong>F-vzor / Z-vzor čtení</strong> — uživatel skenuje text, ne čte slovo po slovu.</li>
+  </ul>
+
+  <h2 class="section">SEO (Search Engine Optimization)</h2>
+  <ul class="core">
+    <li><strong>On-page:</strong> klíčová slova, <code>&lt;title&gt;</code> (50–60 zn.), <code>meta description</code>, sémantické HTML, hierarchie nadpisů H1→H6, alt u obrázků, interní prolinkování, čisté URL.</li>
+    <li><strong>Off-page:</strong> zpětné odkazy z důvěryhodných zdrojů.</li>
+    <li><strong>Technické:</strong> rychlost (Core Web Vitals: LCP, INP, CLS), HTTPS, mobilní přívětivost, sitemap.xml, robots.txt, structured data (Schema.org).</li>
+    <li><strong>Obsah</strong> je král — originalita, hloubka, aktualizace.</li>
+  </ul>
+
+  <h2 class="section">Responzivita</h2>
+  <ul class="core">
+    <li><strong>Mobile-first</strong> — návrh nejdřív pro malou obrazovku.</li>
+    <li><strong>Viewport</strong> meta tag: <code>&lt;meta name="viewport" content="width=device-width, initial-scale=1"&gt;</code>.</li>
+    <li><strong>Breakpointy</strong> v CSS media queries (mobil &lt;576, tablet 768, desktop 1024, large 1440).</li>
+    <li><strong>Fluidní jednotky:</strong> %, rem, vw, vh, clamp().</li>
+    <li><strong>Obrázky</strong>: <code>srcset</code>, <code>&lt;picture&gt;</code>, moderní formáty (WebP, AVIF), lazy-loading.</li>
+  </ul>
+
+  <h2 class="section">Efektivita</h2>
+  <ul class="core">
+    <li>Minifikace CSS/JS, gzip/Brotli kompresi.</li>
+    <li>CDN pro statické soubory.</li>
+    <li>Cache hlavičky, lazy-loading obrázků a iframů.</li>
+    <li>Méně requestů → spritování, ikony jako SVG.</li>
+  </ul>
+
+  <div class="usecase">Klient chce blog o cestování. Začnu personou („Anna, 28, plánuje dovolenou"), klíčovými slovy v Marketing Mineru, sitemapou (Domů → Destinace → Tipy). Wireframy ve Figmě, schválení, design. Implementace v WordPressu s tématem Astra. SEO: titulky H1 obsahují keyword, alt texty u fotek, structured data <code>Article</code>, sitemap.xml. Po měsíci v Search Console kontroluji pozice a tvořím další obsah.</div>
+
+  <div class="diagram-wrap">
+<pre class="mermaid">
+flowchart LR
+  A[Analýza] --> B[Informační architektura]
+  B --> C[Wireframy]
+  C --> D[Vizuální design]
+  D --> E[Prototyp]
+  E --> F[Vývoj]
+  F --> G[Testování]
+  G --> H[Nasazení + SEO]
+  H --> I[Měření &amp; iterace]
+  I --> A
+</pre>
+  </div>
+</article>
+
+<!-- =================== 15 WEBOVÁ STRÁNKA =================== -->
+<article class="q" id="q15">
+  <h1><span class="num">15</span>Webová stránka</h1>
+  <div class="pitch">Webová stránka je dokument napsaný v HTML, který prohlížeč po stažení interpretuje a vykreslí. HTML popisuje strukturu a sémantiku obsahu pomocí tagů a atributů.</div>
+
+  <h2 class="section">Anatomie HTML dokumentu</h2>
+  <pre class="code">&lt;!DOCTYPE html&gt;
+&lt;html lang="cs"&gt;
+&lt;head&gt;
+  &lt;meta charset="UTF-8"&gt;
+  &lt;meta name="viewport" content="width=device-width, initial-scale=1"&gt;
+  &lt;title&gt;Titulek stránky&lt;/title&gt;
+  &lt;link rel="stylesheet" href="style.css"&gt;
+  &lt;script src="app.js" defer&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body&gt;
+  &lt;header&gt;…&lt;/header&gt;
+  &lt;main&gt;…&lt;/main&gt;
+  &lt;footer&gt;…&lt;/footer&gt;
+&lt;/body&gt;
+&lt;/html&gt;</pre>
+
+  <ul class="core">
+    <li><strong>DOCTYPE</strong> — říká prohlížeči, že jde o HTML5.</li>
+    <li><strong>head</strong> — metadata, neviditelný obsah (titulek, CSS, JS, SEO meta).</li>
+    <li><strong>body</strong> — viditelný obsah.</li>
+  </ul>
+
+  <h2 class="section">Tagy — kategorie</h2>
+  <table>
+    <tr><th>Skupina</th><th>Tagy</th><th>Účel</th></tr>
+    <tr><td>Strukturální (sémantické)</td><td>header, nav, main, section, article, aside, footer</td><td>Vyjadřují význam, ne jen vzhled</td></tr>
+    <tr><td>Textové</td><td>h1–h6, p, strong, em, br, hr, blockquote</td><td>Text a typografie</td></tr>
+    <tr><td>Seznamy</td><td>ul, ol, li, dl, dt, dd</td><td>Odrážky, číslování, definice</td></tr>
+    <tr><td>Tabulky</td><td>table, thead, tbody, tr, th, td</td><td>Tabulková data</td></tr>
+    <tr><td>Multimédia</td><td>img, video, audio, picture, source</td><td>Obrázky, video, zvuk</td></tr>
+    <tr><td>Formuláře</td><td>form, input, label, select, option, textarea, button</td><td>Vstup od uživatele</td></tr>
+    <tr><td>Inline / generické</td><td>span, div, a, code</td><td>Bezvýznamový kontejner</td></tr>
+  </table>
+
+  <h2 class="section">Atributy</h2>
+  <ul class="core">
+    <li><strong>Globální</strong> — <code>id</code>, <code>class</code>, <code>style</code>, <code>title</code>, <code>data-*</code>, <code>lang</code>, <code>hidden</code>, <code>tabindex</code>.</li>
+    <li><strong>Specifické:</strong>
+      <ul>
+        <li><code>&lt;a href="..." target="_blank" rel="noopener"&gt;</code></li>
+        <li><code>&lt;img src="..." alt="..." loading="lazy"&gt;</code> — alt je povinné pro přístupnost.</li>
+        <li><code>&lt;input type="text" required minlength="3" placeholder="..."&gt;</code></li>
+      </ul>
+    </li>
+  </ul>
+
+  <h2 class="section">Hlavičkové tagy (head)</h2>
+  <ul class="core">
+    <li><code>&lt;title&gt;</code> — text v záložce a SERP.</li>
+    <li><code>&lt;meta charset="UTF-8"&gt;</code> — kódování.</li>
+    <li><code>&lt;meta name="viewport"&gt;</code> — responzivita na mobilech.</li>
+    <li><code>&lt;meta name="description"&gt;</code> — popisek v Googlu.</li>
+    <li><code>&lt;meta property="og:..."&gt;</code> — Open Graph (náhled při sdílení na FB, LinkedIn).</li>
+    <li><code>&lt;link rel="canonical"&gt;</code> — kanonická URL.</li>
+    <li><code>&lt;link rel="icon"&gt;</code> — favicon.</li>
+  </ul>
+
+  <h2 class="section">Sémantika — proč na ní záleží</h2>
+  <ul class="core">
+    <li><strong>SEO</strong> — vyhledávače rozumí struktuře.</li>
+    <li><strong>Přístupnost (WAI-ARIA)</strong> — čtečky obrazovky pro nevidomé.</li>
+    <li><strong>Údržba</strong> — kód je čitelnější.</li>
+    <li>Místo „divopolévky" používáme <code>&lt;header&gt;</code>, <code>&lt;nav&gt;</code>, <code>&lt;main&gt;</code>, <code>&lt;article&gt;</code>, <code>&lt;footer&gt;</code>.</li>
+  </ul>
+
+  <div class="usecase">Při tvorbě článku v blogu obalím obsah do <code>&lt;article&gt;</code>, do <code>&lt;header&gt;</code> dám <code>&lt;h1&gt;</code> s nadpisem a <code>&lt;time&gt;</code> s datem, postranní informace do <code>&lt;aside&gt;</code>. Google si tak snadno vytáhne datum publikace pro rich snippet a screenreader uživateli předčte strukturu („článek, nadpis 1: …").</div>
+
+  <div class="diagram-wrap">
+<pre class="mermaid">
+flowchart TD
+  HTML[html lang=cs] --> HEAD[head]
+  HTML --> BODY[body]
+  HEAD --> M1[meta charset]
+  HEAD --> M2[meta viewport]
+  HEAD --> T[title]
+  HEAD --> L[link CSS / script JS]
+  BODY --> H[header + nav]
+  BODY --> MA[main]
+  BODY --> F[footer]
+  MA --> AR[article / section]
+</pre>
+  </div>
+</article>
+
+<!-- =================== 16 CSS KASKÁDA =================== -->
+<article class="q" id="q16">
+  <h1><span class="num">16</span>CSS kaskáda</h1>
+  <div class="pitch">Kaskáda určuje, který CSS deklarace vyhraje, když se na jeden prvek vztahuje více pravidel. Hlavní kritéria jsou: zdroj, specifičnost, pořadí, !important.</div>
+
+  <h2 class="section">Pravidla kaskády (od nejvyšší priority)</h2>
+  <ol>
+    <li><strong>!important</strong> — vždy přebíjí (krom jiného !important s větší specifičností).</li>
+    <li><strong>Zdroj</strong> a důležitost: user-agent → user → autor → autor !important → user !important → user-agent !important (zjednodušeně).</li>
+    <li><strong>Inline styl</strong> (atribut <code>style</code>) — vysoká specifičnost.</li>
+    <li><strong>Specifičnost selektoru</strong> — kdo „přesněji" cílí.</li>
+    <li><strong>Pořadí</strong> — pozdější deklarace se stejnou specifičností přebije dřívější.</li>
+  </ol>
+
+  <h2 class="section">Specifičnost</h2>
+  <p>Spočítá se jako čtveřice <code>(inline, ID, třídy/atr/pseudo, prvky/pseudoelementy)</code>. Vyšší vlevo &gt; nižší vlevo.</p>
+  <table>
+    <tr><th>Selektor</th><th>Specifičnost</th></tr>
+    <tr><td><code>*</code> univerzální</td><td>0,0,0,0</td></tr>
+    <tr><td><code>p</code> prvek</td><td>0,0,0,1</td></tr>
+    <tr><td><code>.btn</code> třída</td><td>0,0,1,0</td></tr>
+    <tr><td><code>#hlavni</code> ID</td><td>0,1,0,0</td></tr>
+    <tr><td><code>style="..."</code> inline</td><td>1,0,0,0</td></tr>
+    <tr><td><code>ul li.aktivni</code></td><td>0,0,1,2</td></tr>
+    <tr><td><code>:is(h1, h2, h3)</code></td><td>specificita nejvyššího selektoru uvnitř</td></tr>
+    <tr><td><code>:where(...)</code></td><td>0 (užitečné pro reset)</td></tr>
+  </table>
+
+  <h2 class="section">Dědičnost a kaskáda</h2>
+  <ul class="core">
+    <li>Některé vlastnosti se dědí (font, color, line-height), jiné ne (padding, border, width).</li>
+    <li><code>inherit</code>, <code>initial</code>, <code>unset</code>, <code>revert</code> jsou klíčová slova pro řízení.</li>
+  </ul>
+
+  <h2 class="section">Izolace — Cascade Layers, Shadow DOM</h2>
+  <ul class="core">
+    <li><strong>@layer</strong> — explicitní pořadí vrstev (<code>@layer reset, base, components, utilities;</code>). Mladší vrstvy přebíjejí starší <em>nezávisle na specifičnosti</em>.</li>
+    <li><strong>Shadow DOM</strong> — styly uvnitř webové komponenty se nepropisují ven a naopak (kromě CSS proměnných).</li>
+    <li><strong>CSS Modules</strong> (Webpack/Vite) — generují unikátní třídy <code>.btn_xY3</code>.</li>
+  </ul>
+
+  <h2 class="section">BEM (Block Element Modifier)</h2>
+  <ul class="core">
+    <li>Konvence pojmenování tříd, která drží specifičnost nízkou a kód předvídatelný.</li>
+    <li><strong>Block</strong> — samostatná komponenta: <code>.card</code></li>
+    <li><strong>Element</strong> — část bloku: <code>.card__title</code></li>
+    <li><strong>Modifier</strong> — varianta: <code>.card--featured</code>, <code>.card__title--big</code></li>
+  </ul>
+
+  <pre class="code">&lt;article class="card card--featured"&gt;
+  &lt;h2 class="card__title card__title--big"&gt;Akce&lt;/h2&gt;
+  &lt;p class="card__body"&gt;...&lt;/p&gt;
+&lt;/article&gt;</pre>
+
+  <div class="usecase">V projektu mám konflikt: tlačítko ve formuláři je modré, ale ve footeru má být zelené. Místo přidávání <code>!important</code> využiji BEM (<code>.btn--primary</code> vs. <code>.btn--footer</code>) a vrstvy: <code>@layer base { .btn { ... } } @layer overrides { .footer .btn--footer { ... } }</code>. Vyhrává overrides nezávisle na pořadí v CSS souboru.</div>
+
+  <div class="diagram-wrap">
+<pre class="mermaid">
+flowchart TD
+  S[Aplikace deklarace] --> I{!important?}
+  I -- Ano --> Z1[Vyhrává<br/>nejvyšší zdroj+specifičnost]
+  I -- Ne --> SR[Zdroj &amp; vrstva]
+  SR --> SP[Specifičnost selektoru<br/>inline > id > třídy > prvky]
+  SP --> P[Pořadí v souboru<br/>poslední vyhrává]
+</pre>
+  </div>
+</article>
+
+<!-- =================== 17 VLASTNOSTI CSS =================== -->
+<article class="q" id="q17">
+  <h1><span class="num">17</span>Vlastnosti CSS</h1>
+  <div class="pitch">CSS vlastnosti definují vzhled prvků — barvy, rozměry, písma, mezery, pozici. Hodnoty se zadávají v různých jednotkách a moderní CSS umožňuje proměnné, ligatury a pokročilou typografii.</div>
+
+  <h2 class="section">Jednotky délky</h2>
+  <table>
+    <tr><th>Skupina</th><th>Jednotky</th><th>Vztažené k</th></tr>
+    <tr><td>Absolutní</td><td>px, pt, cm, mm, in</td><td>Pevné rozměry; <code>1in = 96px</code></td></tr>
+    <tr><td>Relativní k fontu</td><td><strong>em</strong>, <strong>rem</strong>, ex, ch</td><td>em = velikost rodiče; rem = root (html)</td></tr>
+    <tr><td>Relativní k viewportu</td><td>vw, vh, vmin, vmax, dvh, svh</td><td>1vw = 1 % šířky okna</td></tr>
+    <tr><td>Relativní k rodiči</td><td>%</td><td>Záleží na vlastnosti (width, padding…)</td></tr>
+    <tr><td>Funkce</td><td>calc(), min(), max(), clamp()</td><td>Kombinace jednotek</td></tr>
+  </table>
+
+  <pre class="code">font-size: clamp(1rem, 1vw + 0.8rem, 1.5rem); /* fluidní typografie */
+width: min(100%, 1200px);                      /* nikdy víc než 1200 */</pre>
+
+  <h2 class="section">Barvy</h2>
+  <ul class="core">
+    <li><strong>Pojmenované</strong> — <code>red</code>, <code>aliceblue</code> (140+).</li>
+    <li><strong>HEX</strong> — <code>#ff8800</code>, zkráceně <code>#f80</code>; s alfou <code>#ff8800cc</code>.</li>
+    <li><strong>RGB(A)</strong> — <code>rgb(255 136 0 / 0.8)</code>.</li>
+    <li><strong>HSL(A)</strong> — <code>hsl(30 100% 50%)</code>; intuitivnější (odstín, sytost, jas).</li>
+    <li><strong>oklch / lab</strong> — moderní, percepčně rovnoměrné.</li>
+    <li><code>currentColor</code> — aktuální hodnota <code>color</code>.</li>
+  </ul>
+
+  <h2 class="section">CSS proměnné (custom properties)</h2>
+  <pre class="code">:root {
+  --primary: #2a52be;
+  --gap: 1rem;
+  --radius: 8px;
+}
+.btn {
+  background: var(--primary);
+  padding: var(--gap);
+  border-radius: var(--radius);
+}
+.btn:hover { background: color-mix(in oklch, var(--primary), black 20%); }</pre>
+  <ul class="core">
+    <li>Kaskádují (dědí se) — můžeme přepsat v podstromu (např. dark mode přes <code>html[data-theme=dark]</code>).</li>
+    <li>Lze měnit JavaScriptem: <code>el.style.setProperty('--primary', '#f00')</code>.</li>
+  </ul>
+
+  <h2 class="section">Písma a typografie</h2>
+  <ul class="core">
+    <li><strong>font-family</strong> — fallback stack: <code>'Inter', system-ui, sans-serif</code>.</li>
+    <li><strong>@font-face</strong> nebo Google Fonts pro vlastní písmo.</li>
+    <li><strong>font-weight</strong> 100–900, <strong>font-style</strong> italic, <strong>font-size</strong>, <strong>line-height</strong>, <strong>letter-spacing</strong>, <strong>text-transform</strong>.</li>
+    <li><strong>Variabilní fonty</strong> — jeden soubor, plynulé varianty (<code>font-variation-settings</code>).</li>
+  </ul>
+
+  <h2 class="section">Ligatury a OpenType</h2>
+  <ul class="core">
+    <li><strong>Ligatura</strong> = grafické spojení dvou znaků (např. „fi" → ﬁ, „ﬂ").</li>
+    <li>V CSS: <code>font-variant-ligatures: common-ligatures discretionary-ligatures;</code></li>
+    <li>Další: <code>font-feature-settings: "tnum" 1, "kern" 1;</code> (tabulkové číslice, kerning).</li>
+  </ul>
+
+  <h2 class="section">Box model</h2>
+  <ul class="core">
+    <li>Content → padding → border → margin.</li>
+    <li><code>box-sizing: border-box</code> — width/height zahrne padding+border (čisto).</li>
+  </ul>
+
+  <div class="usecase">Pro brand systém definujeme v <code>:root</code> proměnné <code>--brand-primary</code>, <code>--brand-success</code>, <code>--space-1..6</code>. Komponenty pak používají <code>var(--brand-primary)</code>. Změna značkové barvy = úprava jedné hodnoty. Pro dark mode přidáme <code>html[data-theme=dark] { --bg: #111; --fg: #eee; }</code>.</div>
+
+  <div class="diagram-wrap">
+<pre class="mermaid">
+flowchart LR
+  Jed[CSS jednotky] --> Abs[Absolutní<br/>px, pt]
+  Jed --> Rel[Relativní<br/>em, rem, %, vw, vh]
+  Bar[Barvy] --> Hex[hex / rgb / hsl]
+  Bar --> Fn["color-mix(), oklch"]
+  Var[Proměnné] -.dědí.-> Comp[Komponenty]
+</pre>
+  </div>
+</article>
+
+<!-- =================== 18 REACT VÝVOJ =================== -->
+<article class="q" id="q18">
+  <h1><span class="num">18</span>Vývoj aplikací v Reactu</h1>
+  <div class="pitch">React je deklarativní knihovna od Mety pro tvorbu uživatelských rozhraní. Aplikace se skládá ze znovupoužitelných komponent, které popisují, jak má vypadat UI pro daný stav. Pod kapotou React efektivně aktualizuje DOM přes virtuální DOM.</div>
+
+  <h2 class="section">DOM a Shadow DOM</h2>
+  <ul class="core">
+    <li><strong>DOM</strong> (Document Object Model) — stromová reprezentace HTML, kterou prohlížeč staví v paměti. JS s ní manipuluje (<code>document.getElementById</code>).</li>
+    <li><strong>Virtual DOM</strong> — JS objekt, který React drží v paměti. Při změně state se vytvoří nový VDOM a porovná (<em>reconciliation/diffing</em>) se starým — DOM se aktualizuje jen tam, kde to je potřeba.</li>
+    <li><strong>Shadow DOM</strong> — zapouzdřený podstrom DOM (Web Components, <code>&lt;video&gt;</code>) s izolovanými styly. Nesouvisí přímo s Reactem, ale pojem se zkouší.</li>
+  </ul>
+
+  <h2 class="section">JavaScript v prohlížeči</h2>
+  <ul class="core">
+    <li>JS běží na engine (V8 v Chrome) v jednom vláknu s <strong>event loop</strong>.</li>
+    <li>Asynchronní operace přes Web API (fetch, setTimeout) → zpět do call stacku přes microtask queue (Promise) a task queue.</li>
+    <li>ES moduly (<code>import/export</code>) podporují všechny moderní prohlížeče.</li>
+  </ul>
+
+  <h2 class="section">JSX — syntaxe Reactu</h2>
+  <ul class="core">
+    <li>Rozšíření JS, vypadá jako HTML uvnitř JS.</li>
+    <li>Není standardní JS → musí se <strong>transpilovat</strong> (Babel/SWC) na volání <code>React.createElement(...)</code>.</li>
+    <li>Atributy v camelCase (<code>className</code>, <code>onClick</code>), výrazy v <code>{ }</code>.</li>
+  </ul>
+
+  <pre class="code">function Vitej({ jmeno }) {
+  const cas = new Date().getHours();
+  return (
+    &lt;div className="vitez"&gt;
+      &lt;h1&gt;Ahoj {jmeno}!&lt;/h1&gt;
+      {cas &lt; 12 ? &lt;p&gt;Dobré ráno&lt;/p&gt; : &lt;p&gt;Dobrý den&lt;/p&gt;}
+    &lt;/div&gt;
+  );
+}</pre>
+
+  <h2 class="section">Transpilace a toolchain</h2>
+  <ul class="core">
+    <li><strong>Bundler</strong> — Webpack, Vite, Rollup; spojí moduly do balíčku, vyřeší importy CSS/obrázků.</li>
+    <li><strong>Transpiler</strong> — Babel/SWC převede JSX a moderní JS na verzi srozumitelnou starým prohlížečům.</li>
+    <li><strong>Dev server</strong> s HMR (Hot Module Replacement) — okamžité promítnutí změn bez ztráty stavu.</li>
+    <li><strong>Tree shaking</strong> — odstranění nepoužívaného kódu z bundlu.</li>
+    <li><strong>Linter (ESLint) + formatter (Prettier) + TS</strong> — kvalita kódu.</li>
+  </ul>
+
+  <h2 class="section">Funkcionální komponenty</h2>
+  <ul class="core">
+    <li>Funkce, která vrací JSX. Stav drží přes <strong>hooks</strong> (<code>useState</code>, <code>useEffect</code>, <code>useContext</code>, <code>useRef</code>, <code>useMemo</code>).</li>
+    <li>Třídní komponenty (<code>class … extends Component</code>) jsou legacy — nové projekty je nepoužívají.</li>
+    <li><strong>Pravidla hooks:</strong> volat na nejvyšší úrovni komponenty, nikdy v podmínce/cyklu, jen v komponentách (nebo dalších hookech).</li>
+  </ul>
+
+  <h2 class="section">Klasická vs. React paradigmata</h2>
+  <table>
+    <tr><th>Vanilla JS</th><th>React</th></tr>
+    <tr><td>Imperativní — řekneš jak (querySelector + textContent)</td><td>Deklarativní — řekneš co (UI = f(state))</td></tr>
+    <tr><td>Manuálně synchronizuješ DOM</td><td>Stav → React přerenderuje</td></tr>
+    <tr><td>Globální stav obtížný</td><td>Context, Redux, Zustand</td></tr>
+  </table>
+
+  <div class="usecase">Tvořím dashboard tržeb. Vytvořím komponenty <code>&lt;Filtry&gt;</code>, <code>&lt;Graf&gt;</code>, <code>&lt;TabulkaProduktu&gt;</code>. Stav (vybraný měsíc, region) drží rodičovská komponenta a předává dolů přes props. Při změně filtru React přepočítá, který kus DOM se musí změnit, a aktualizuje pouze graf, ne celou stránku. Build dělá Vite s HMR — úprava CSS se ukáže okamžitě bez refreshe.</div>
+
+  <div class="diagram-wrap">
+<pre class="mermaid">
+flowchart LR
+  S["state (useState)"] --> R["React renderuje JSX"]
+  R --> V["Virtual DOM"]
+  V --> D["diff oproti starému VDOM"]
+  D --> U["Update reálného DOM<br/>(jen rozdíly)"]
+  U --> B["Prohlížeč překreslí"]
+  B -- "klik / vstup" --> S
+</pre>
+  </div>
+</article>
+
+<!-- =================== 19 WEBOVÉ APLIKACE =================== -->
+<article class="q" id="q19">
+  <h1><span class="num">19</span>Webové aplikace</h1>
+  <div class="pitch">Webová aplikace běží v prohlížeči, ale nabízí interaktivitu klasických desktopových programů. Komunikuje se serverem přes HTTP(S) ve vzoru request–response.</div>
+
+  <h2 class="section">Druhy webových aplikací</h2>
+  <table>
+    <tr><th></th><th>MPA (Multi-Page Application)</th><th>SPA (Single-Page Application)</th></tr>
+    <tr><td>Princip</td><td>Server posílá kompletní HTML pro každou URL</td><td>Server pošle 1× shell, dál JS volá API a překresluje</td></tr>
+    <tr><td>Výhody</td><td>Rychlý první render, snadné SEO, méně JS</td><td>Plynulé UX bez přenačítání, offline možné</td></tr>
+    <tr><td>Nevýhody</td><td>Při kliku se znovu načte celá stránka</td><td>Pomalý first paint, SEO náročnější (řeší SSR)</td></tr>
+    <tr><td>Technologie</td><td>PHP, Razor Pages, WordPress</td><td>React, Vue, Angular</td></tr>
+    <tr><td>Hybrid</td><td colspan="2">SSR/SSG (Next.js, Nuxt) — kombinace výhod obojího</td></tr>
+  </table>
+
+  <h2 class="section">Request – Response</h2>
+  <ol>
+    <li>Klient (prohlížeč) sestaví HTTP request.</li>
+    <li>Pošle ho přes TCP/TLS na server.</li>
+    <li>Server zpracuje, případně se ptá DB, sestaví response.</li>
+    <li>Klient response vykreslí (HTML, JSON, image…).</li>
+  </ol>
+  <p>HTTP je <strong>bezstavový</strong> — server si nepamatuje předchozí požadavek. Stav se řeší cookies, session, tokeny.</p>
+
+  <h2 class="section">HTTP vs. HTTPS</h2>
+  <ul class="core">
+    <li><strong>HTTP</strong> (port 80) — prostý text, lze odposlechnout.</li>
+    <li><strong>HTTPS</strong> (port 443) — HTTP nad TLS — důvěrnost, integrita, autenticita.</li>
+    <li>Dnes nutnost (HTTP/2, HSTS, certifikát od Let's Encrypt zdarma).</li>
+  </ul>
+
+  <h2 class="section">HTTP metody</h2>
+  <table>
+    <tr><th>Metoda</th><th>Účel</th><th>Idempotentní?</th><th>Tělo?</th></tr>
+    <tr><td>GET</td><td>Získat zdroj</td><td>Ano</td><td>Ne (typicky)</td></tr>
+    <tr><td>POST</td><td>Vytvořit / odeslat data</td><td>Ne</td><td>Ano</td></tr>
+    <tr><td>PUT</td><td>Nahradit zdroj</td><td>Ano</td><td>Ano</td></tr>
+    <tr><td>PATCH</td><td>Částečná úprava</td><td>Ne (zpravidla)</td><td>Ano</td></tr>
+    <tr><td>DELETE</td><td>Smazat</td><td>Ano</td><td>Ne</td></tr>
+    <tr><td>HEAD / OPTIONS</td><td>Metadata / CORS preflight</td><td>Ano</td><td>Ne</td></tr>
+  </table>
+
+  <h2 class="section">Stavové kódy</h2>
+  <table>
+    <tr><th>Třída</th><th>Význam</th><th>Příklady</th></tr>
+    <tr><td>1xx</td><td>Informační</td><td>100 Continue, 101 Switching Protocols</td></tr>
+    <tr><td>2xx</td><td>Úspěch</td><td>200 OK, 201 Created, 204 No Content</td></tr>
+    <tr><td>3xx</td><td>Přesměrování</td><td>301 Moved Permanently, 302 Found, 304 Not Modified</td></tr>
+    <tr><td>4xx</td><td>Chyba klienta</td><td>400 Bad Request, 401 Unauthorized, 403 Forbidden, 404 Not Found, 429 Too Many Requests</td></tr>
+    <tr><td>5xx</td><td>Chyba serveru</td><td>500 Internal Server Error, 502 Bad Gateway, 503 Service Unavailable</td></tr>
+  </table>
+
+  <h2 class="section">Architektury</h2>
+  <ul class="core">
+    <li><strong>Klient–server</strong> — frontend ↔ backend.</li>
+    <li><strong>Třívrstvá</strong> — prezentace (UI) → logika (API) → data (DB).</li>
+    <li><strong>Mikroservisy</strong> — backend rozdělen do menších služeb komunikujících přes HTTP/gRPC.</li>
+    <li><strong>PWA</strong> (Progressive Web App) — webová aplikace s vlastnostmi nativní (offline, install, push).</li>
+  </ul>
+
+  <div class="usecase">Internetový obchod: frontend je SPA v Reactu (na CDN), backend je ASP.NET REST API (aplikační server) a PostgreSQL. Při kliku „Přidat do košíku" frontend pošle <code>POST /api/cart</code>, server odpoví <code>201 Created</code> s tělem (JSON). Pro SEO produktové stránky generuje Next.js (SSR) — Google dostane hotové HTML.</div>
+
+  <div class="diagram-wrap">
+<pre class="mermaid">
+sequenceDiagram
+  participant K as Klient
+  participant S as Server
+  participant D as Databáze
+  K->>S: POST /api/order (JSON)
+  S->>D: INSERT INTO orders
+  D-->>S: id = 42
+  S-->>K: 201 Created {id:42}
+  K->>S: GET /api/order/42
+  S->>D: SELECT * WHERE id=42
+  D-->>S: data
+  S-->>K: 200 OK {…}
+</pre>
+  </div>
+</article>
+
+<!-- =================== 20 OVĚŘOVÁNÍ IDENTITY =================== -->
+<article class="q" id="q20">
+  <h1><span class="num">20</span>Ověřování identity v prostředí internetu</h1>
+  <div class="pitch">Autentizace ověřuje „kdo jsi", autorizace „co smíš". Na webu se prolínají hesla, tokeny, sociální přihlašování a vícefaktorové ověřování. Cílem je co nejméně otravovat uživatele a zároveň udržet účet bezpečný.</div>
+
+  <h2 class="section">Hesla</h2>
+  <ul class="core">
+    <li>Server nikdy neukládá heslo v plaintextu — <strong>hash + sůl</strong> (bcrypt, Argon2).</li>
+    <li>Politika: minimální délka, kontrola proti slovníkům úniků (haveibeenpwned).</li>
+    <li><strong>Brute force ochrana:</strong> rate-limit, captcha, exponenciální zpoždění, dočasný lockout.</li>
+    <li>Manažer hesel (Bitwarden, 1Password) — jedna master fráze.</li>
+  </ul>
+
+  <h2 class="section">Vícefaktorové ověření (MFA / 2FA)</h2>
+  <ul class="core">
+    <li>Faktory: <em>vím</em> (heslo), <em>mám</em> (telefon, klíč), <em>jsem</em> (otisk, obličej).</li>
+    <li><strong>TOTP</strong> — Google Authenticator, Authy; 6-místný kód generovaný z klíče + času.</li>
+    <li><strong>SMS</strong> — pohodlné, ale zranitelné na SIM swap.</li>
+    <li><strong>Push notifikace</strong> v aplikaci.</li>
+    <li><strong>FIDO2 / WebAuthn / passkeys</strong> — hardwarový klíč nebo biometrie zařízení; bez hesla, phishing-resistant.</li>
+  </ul>
+
+  <h2 class="section">Session a tokeny</h2>
+  <ul class="core">
+    <li><strong>Session cookie</strong> — server si pamatuje session v DB/cache, klient drží jen ID v cookie. Stateful.</li>
+    <li><strong>Token (JWT)</strong> — JSON Web Token, samonosný, podepsaný server (HMAC nebo RSA). Server nemusí držet stav.</li>
+    <li><strong>Struktura JWT</strong>: <code>header.payload.signature</code> (Base64URL).
+      <ul>
+        <li>Header: algoritmus, typ.</li>
+        <li>Payload: claims (sub, exp, iat, role…).</li>
+        <li>Signature: HMAC(header+payload, secret).</li>
+      </ul>
+    </li>
+    <li><strong>Bezpečné cookies:</strong> <code>HttpOnly</code> (JS nečte), <code>Secure</code> (jen HTTPS), <code>SameSite=Lax/Strict</code> (CSRF ochrana).</li>
+  </ul>
+
+  <h2 class="section">Sociální přihlašování — OAuth 2.0 a OpenID Connect</h2>
+  <ul class="core">
+    <li><strong>OAuth 2.0</strong> — protokol pro <em>autorizaci</em>. Aplikace získá od uživatele souhlas a od poskytovatele <em>access token</em>, kterým volá API (Google, Facebook).</li>
+    <li><strong>Authorization Code Flow + PKCE</strong> — dnes doporučovaný pro webové i mobilní aplikace.</li>
+    <li><strong>OpenID Connect (OIDC)</strong> — vrstva nad OAuth 2.0 přidávající <em>autentizaci</em> přes <code>id_token</code> (JWT) — server tak ví, kdo přesně se přihlásil.</li>
+    <li>Role: <em>Resource Owner</em> (uživatel), <em>Client</em> (naše aplikace), <em>Authorization Server</em> (Google), <em>Resource Server</em> (Google API).</li>
+  </ul>
+
+  <h2 class="section">Útoky a obrana</h2>
+  <table>
+    <tr><th>Útok</th><th>Princip</th><th>Obrana</th></tr>
+    <tr><td>Phishing</td><td>Falešná stránka loví heslo</td><td>FIDO2/passkeys, kontrola URL</td></tr>
+    <tr><td>Brute force</td><td>Hádání hesel</td><td>Rate-limit, captcha, MFA</td></tr>
+    <tr><td>Credential stuffing</td><td>Uniklá hesla z jiných služeb</td><td>MFA, kontrola úniků</td></tr>
+    <tr><td>Session hijacking</td><td>Krádež cookie</td><td>HTTPS, HttpOnly, Secure, krátká životnost</td></tr>
+    <tr><td>CSRF</td><td>Podvržení požadavku z jiné stránky</td><td>SameSite cookie, CSRF token</td></tr>
+  </table>
+
+  <div class="usecase">V naší aplikaci nabídneme tři způsoby přihlášení: e-mail+heslo (s povinným TOTP po 1. úspěšném loginu), <em>Sign in with Google</em> (OIDC) a <em>passkey</em> přes WebAuthn. Heslo ukládáme přes Argon2id. Po loginu vydáme JWT s 15min platností + refresh token v HttpOnly cookie. Uživatel se nemusí přihlašovat každý den, ale ani my nemáme dlouhožitý zranitelný token.</div>
+
+  <div class="diagram-wrap">
+<pre class="mermaid">
+sequenceDiagram
+  participant U as Uživatel
+  participant A as Naše aplikace
+  participant G as Google (Auth Server)
+  U->>A: Klik "Přihlásit přes Google"
+  A->>G: redirect na /authorize (client_id, scope)
+  U->>G: Souhlas (přihlášen)
+  G->>A: redirect ?code=XYZ
+  A->>G: POST /token (code) (server↔server)
+  G-->>A: access_token + id_token (JWT)
+  A->>A: ověř id_token, vytvoř session
+  A-->>U: přihlášen
+</pre>
+  </div>
+</article>
+
+<!-- =================== 21 RESTFULL =================== -->
+<article class="q" id="q21">
+  <h1><span class="num">21</span>RESTful</h1>
+  <div class="pitch">REST (Representational State Transfer) je architektonický styl pro síťové API. Pracuje nad HTTP, modeluje data jako zdroje (resources) identifikované URL a operace nad nimi přes HTTP metody. RESTful API = API splňující principy REST.</div>
+
+  <h2 class="section">Principy REST (Roy Fielding, 2000)</h2>
+  <ul class="core">
+    <li><strong>Klient–server</strong> — oddělené odpovědnosti.</li>
+    <li><strong>Bezstavovost</strong> — každý request obsahuje vše potřebné, server si nedrží stav klienta.</li>
+    <li><strong>Cachovatelnost</strong> — odpovědi mají hlavičky o cache (<code>Cache-Control</code>, <code>ETag</code>).</li>
+    <li><strong>Jednotné rozhraní (URI + HTTP metody + reprezentace)</strong>.</li>
+    <li><strong>Vrstvená architektura</strong> — klient nepozná, jestli mluví s API gateway, cache nebo backendem.</li>
+    <li><strong>HATEOAS</strong> (volitelné) — odpovědi obsahují odkazy na související akce.</li>
+  </ul>
+
+  <h2 class="section">Mapa metod ↔ operace nad zdrojem</h2>
+  <table>
+    <tr><th>Operace</th><th>Metoda</th><th>URL příklad</th><th>Stav. kód</th></tr>
+    <tr><td>Seznam</td><td>GET</td><td>/api/products</td><td>200</td></tr>
+    <tr><td>Detail</td><td>GET</td><td>/api/products/42</td><td>200 / 404</td></tr>
+    <tr><td>Vytvořit</td><td>POST</td><td>/api/products</td><td>201 Created + Location</td></tr>
+    <tr><td>Nahradit</td><td>PUT</td><td>/api/products/42</td><td>200 / 204</td></tr>
+    <tr><td>Upravit</td><td>PATCH</td><td>/api/products/42</td><td>200 / 204</td></tr>
+    <tr><td>Smazat</td><td>DELETE</td><td>/api/products/42</td><td>204 No Content</td></tr>
+  </table>
+
+  <ul class="core">
+    <li>URL pojmenováváme <strong>podstatnými jmény v množném čísle</strong> (<code>/products</code>, ne <code>/getProducts</code>).</li>
+    <li>Vnořené zdroje: <code>/users/7/orders/3</code>.</li>
+    <li>Filtrování přes query: <code>?category=knihy&amp;sort=cena</code>.</li>
+    <li>Stránkování: <code>?page=2&amp;size=20</code>.</li>
+    <li>Verzování: <code>/api/v1/...</code> nebo přes hlavičku.</li>
+  </ul>
+
+  <h2 class="section">Formáty dat</h2>
+  <table>
+    <tr><th></th><th>JSON</th><th>XML</th></tr>
+    <tr><td>Zápis</td><td>Klíč-hodnota, kratší</td><td>Tagy, plus atributy</td></tr>
+    <tr><td>Čitelnost</td><td>Lepší</td><td>Verbose</td></tr>
+    <tr><td>Validace</td><td>JSON Schema</td><td>XSD (vyspělá)</td></tr>
+    <tr><td>Použití</td><td>Web API, REST, JS-friendly</td><td>SOAP, finanční sektor, dokumenty</td></tr>
+  </table>
+
+  <pre class="code">// JSON
+{ "id": 42, "nazev": "Kniha", "cena": 299.00 }
+
+&lt;!-- XML --&gt;
+&lt;produkt id="42"&gt;
+  &lt;nazev&gt;Kniha&lt;/nazev&gt;
+  &lt;cena&gt;299.00&lt;/cena&gt;
+&lt;/produkt&gt;</pre>
+
+  <h2 class="section">AJAX a fetch</h2>
+  <ul class="core">
+    <li><strong>AJAX</strong> (Asynchronous JavaScript And XML) — historický termín pro asynchronní volání ze stránky bez přenačtení.</li>
+    <li>Dnes <code>fetch()</code> nebo <code>axios</code> — vrací Promise.</li>
+    <li><strong>CORS</strong> (Cross-Origin Resource Sharing) — server musí povolit volání z jiného originu hlavičkou <code>Access-Control-Allow-Origin</code>.</li>
+  </ul>
+
+  <pre class="code">const res = await fetch('/api/products', {
+  method: 'POST',
+  headers: { 'Content-Type': 'application/json',
+             'Authorization': 'Bearer ' + token },
+  body: JSON.stringify({ nazev: 'Kniha', cena: 299 })
+});
+if (!res.ok) throw new Error(res.status);
+const created = await res.json();</pre>
+
+  <h2 class="section">Stavové kódy v REST</h2>
+  <ul class="core">
+    <li>Úspěch: 200, 201, 204.</li>
+    <li>Klient: 400 (validace), 401 (chybí auth), 403 (nemá právo), 404, 409 (konflikt), 422 (semanticky neplatné).</li>
+    <li>Server: 500, 502, 503.</li>
+  </ul>
+
+  <h2 class="section">REST vs. RPC vs. GraphQL</h2>
+  <table>
+    <tr><th></th><th>REST</th><th>GraphQL</th><th>RPC (gRPC)</th></tr>
+    <tr><td>Endpointy</td><td>Mnoho zdrojů</td><td>Jediný (/graphql)</td><td>Volání metod</td></tr>
+    <tr><td>Výběr polí</td><td>Pevný</td><td>Klient určí</td><td>Pevný</td></tr>
+    <tr><td>Caching</td><td>HTTP nativně</td><td>Komplikovanější</td><td>Vlastní</td></tr>
+  </table>
+
+  <div class="usecase">Pro mobilní aplikaci e-shopu navrhnu REST API: <code>GET /api/v1/products?category=knihy&amp;page=1</code> vrátí <code>200 OK</code> + JSON pole. Vytvoření objednávky <code>POST /api/v1/orders</code> s JSON body, server odpoví <code>201 Created</code> a hlavičkou <code>Location: /api/v1/orders/42</code>. Při neoprávněném přístupu vrátí <code>401</code>, při nedostatku zboží <code>409 Conflict</code>.</div>
+
+  <div class="diagram-wrap">
+<pre class="mermaid">
+flowchart LR
+  C[Klient] -- "GET /products" --> S[REST API]
+  C -- "POST /products {json}" --> S
+  C -- "PUT /products/42" --> S
+  C -- "DELETE /products/42" --> S
+  S -- "200 / 201 / 204 / 4xx / 5xx" --> C
+</pre>
+  </div>
+</article>
+
+<!-- =================== 22 ASP.NET =================== -->
+<article class="q" id="q22">
+  <h1><span class="num">22</span>ASP.NET</h1>
+  <div class="pitch">ASP.NET (Core) je multiplatformní framework od Microsoftu pro tvorbu webových aplikací a API v jazyce C#. Nabízí různé programovací modely — Razor Pages, MVC, Web API, Blazor — postavené nad jedním pipelinem požadavku.</div>
+
+  <h2 class="section">Klíčové stavební kameny</h2>
+  <ul class="core">
+    <li><strong>Kestrel</strong> — výchozí HTTP server, výkonný a multiplatformní.</li>
+    <li><strong>Middleware pipeline</strong> — řetěz komponent, kterým prochází každý request (auth, routing, statické soubory, atd.). Definuje se v <code>Program.cs</code>.</li>
+    <li><strong>Dependency Injection (DI)</strong> — vestavěný kontejner; služby se registrují (<code>builder.Services.AddScoped&lt;IFooService, FooService&gt;()</code>) a injektují konstruktorem.</li>
+    <li><strong>Konfigurace</strong> — <code>appsettings.json</code>, environment variables, secrets, čte se přes <code>IConfiguration</code>/<code>IOptions&lt;T&gt;</code>.</li>
+    <li><strong>Hosting</strong> — Generic Host, životní cyklus aplikace.</li>
+  </ul>
+
+  <h2 class="section">Programovací modely</h2>
+  <table>
+    <tr><th>Model</th><th>Použití</th><th>Charakteristika</th></tr>
+    <tr><td><strong>Razor Pages</strong></td><td>Stránkově orientované weby</td><td>1 stránka = 1 <code>.cshtml</code> + PageModel; jednoduché</td></tr>
+    <tr><td><strong>MVC</strong></td><td>Komplexnější weby</td><td>Controller → Action → View; striktní oddělení</td></tr>
+    <tr><td><strong>Web API</strong></td><td>REST/JSON služby</td><td>ApiController + atributové routy</td></tr>
+    <tr><td><strong>Minimal API</strong></td><td>Mikrosužby, jednoduché endpointy</td><td><code>app.MapGet("/", () =&gt; "Hello");</code></td></tr>
+    <tr><td><strong>Blazor</strong></td><td>SPA v C#</td><td>Server (SignalR) nebo WebAssembly</td></tr>
+  </table>
+
+  <h2 class="section">Razor Pages — jak fungují</h2>
+  <ul class="core">
+    <li>Stránka má dva soubory: <code>Index.cshtml</code> (HTML+Razor) a <code>Index.cshtml.cs</code> (PageModel — třída s handlery).</li>
+    <li><strong>Handlery:</strong> <code>OnGet()</code>, <code>OnPost()</code>, případně <code>OnGetAsync()</code>, <code>OnPostNamed(...)</code> pro pojmenované akce (<code>asp-page-handler="Delete"</code>).</li>
+    <li><strong>Bindování dat:</strong> <code>[BindProperty] public InputModel Input { get; set; }</code> — automatická vazba formulářových polí na model.</li>
+    <li><strong>Návratové metody:</strong>
+      <ul>
+        <li><code>Page()</code> — znovu zobrazit stejnou stránku (typicky při validaci).</li>
+        <li><code>RedirectToPage("Index")</code> — PRG vzor (post-redirect-get).</li>
+        <li><code>NotFound()</code>, <code>Content("...")</code>, <code>File(...)</code>, <code>Redirect(url)</code>.</li>
+      </ul>
+    </li>
+    <li><strong>Routování</strong> je file-based: <code>Pages/Produkty/Detail.cshtml</code> → <code>/Produkty/Detail</code>. Parametry přes <code>@page "{id:int}"</code>.</li>
+  </ul>
+
+  <h2 class="section">Razor syntaxe</h2>
+  <pre class="code">@* komentář *@
+@page "{id:int?}"
+@model IndexModel
+&lt;h1&gt;Vítej, @Model.Jmeno&lt;/h1&gt;
+
+@if (Model.Jmeno != null) {
+  &lt;p&gt;Hodnota je vyplněná.&lt;/p&gt;
+}
+
+&lt;ul&gt;
+  @foreach (var p in Model.Produkty) {
+    &lt;li&gt;@p.Nazev — @p.Cena Kč&lt;/li&gt;
+  }
+&lt;/ul&gt;
+
+&lt;form method="post"&gt;
+  &lt;input asp-for="Input.Email" /&gt;
+  &lt;span asp-validation-for="Input.Email"&gt;&lt;/span&gt;
+  &lt;button type="submit"&gt;Odeslat&lt;/button&gt;
+&lt;/form&gt;</pre>
+
+  <h2 class="section">Tag Helpers a Pretty URI</h2>
+  <ul class="core">
+    <li><strong>Tag Helpers</strong> — atributy <code>asp-*</code> generují HTML serverově (<code>asp-for</code>, <code>asp-page</code>, <code>asp-route-id</code>, <code>asp-validation-for</code>).</li>
+    <li><strong>Pretty URI</strong> — čisté, čitelné URL bez <code>?id=...</code>, např. <code>/produkty/42</code> dosažené přes <code>@page "{id:int}"</code>.</li>
+  </ul>
+
+  <h2 class="section">Konfigurace aplikace (Program.cs)</h2>
+  <pre class="code">var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddRazorPages();
+builder.Services.AddDbContext&lt;AppDb&gt;(o =&gt; o.UseSqlServer(
+    builder.Configuration.GetConnectionString("Default")));
+builder.Services.AddScoped&lt;IEmailService, SmtpEmailService&gt;();
+
+var app = builder.Build();
+
+app.UseHttpsRedirection();
+app.UseStaticFiles();
+app.UseRouting();
+app.UseAuthentication();
+app.UseAuthorization();
+app.MapRazorPages();
+app.Run();</pre>
+
+  <div class="usecase">Vytváříme registraci na kurz: <code>/Register</code> má <code>OnGet()</code> (zobrazí formulář, případně předvyplní e-mail z query) a <code>OnPost()</code> (validace, uložení, <code>RedirectToPage("Confirm")</code>). InputModel s <code>[Required]</code> a <code>[EmailAddress]</code> atributy zajistí validaci. Tag Helpery <code>asp-for</code> + <code>asp-validation-for</code> automaticky propojí formulář s modelem a chybové hlášky.</div>
+
+  <div class="diagram-wrap">
+<pre class="mermaid">
+flowchart LR
+  R[HTTP Request] --> M1[HTTPS redirect]
+  M1 --> M2[Static files]
+  M2 --> M3[Routing]
+  M3 --> M4[Authentication]
+  M4 --> M5[Authorization]
+  M5 --> EP["Endpoint<br/>(Razor Page / API)"]
+  EP --> H["OnGet / OnPost / Action"]
+  H --> Res[Response]
+</pre>
+  </div>
+</article>
+
+<!-- =================== 23 EVENT-DRIVEN =================== -->
+<article class="q" id="q23">
+  <h1><span class="num">23</span>Událostmi řízené programování</h1>
+  <div class="pitch">Místo aby program běžel od shora dolů, čeká na události (kliknutí, příchod zprávy, časovač) a reaguje na ně. Klíčový je vzor Publisher–Subscriber, ve kterém zdroj události oznamuje její vznik všem zájemcům.</div>
+
+  <h2 class="section">Princip a hlavní pojmy</h2>
+  <ul class="core">
+    <li><strong>Událost (Event)</strong> — něco, co nastalo (klik, doručení dat).</li>
+    <li><strong>Publisher (vydavatel, zdroj)</strong> — kdo událost vyhlašuje.</li>
+    <li><strong>Subscriber (odběratel, handler)</strong> — kdo se k události přihlásil a reaguje.</li>
+    <li><strong>Event loop</strong> — smyčka, která bere události z fronty a předává handlerům (UI vlákno, JavaScript, Node).</li>
+    <li><strong>Callback</strong> — funkce předaná jako parametr, která se zavolá později.</li>
+    <li><strong>Delegate</strong> (C#) — typově bezpečný odkaz na metodu; základ <code>event</code>.</li>
+  </ul>
+
+  <h2 class="section">Související návrhové vzory</h2>
+  <ul class="core">
+    <li><strong>Observer</strong> — publisher drží seznam subscriberů a iterativně je notifikuje.</li>
+    <li><strong>Mediator</strong> — centrální prostředník, místo aby publisheri znali subscribery napřímo.</li>
+    <li><strong>Command</strong> — událost je objekt s metodou <code>Execute()</code>.</li>
+    <li><strong>Pub/Sub bus</strong> — message broker (RabbitMQ, Kafka) — distribuovaný Observer.</li>
+  </ul>
+
+  <h2 class="section">Přihlášení a odhlášení (C#)</h2>
+  <pre class="code">public class Tlacitko {
+  public event EventHandler Kliknuto;            // delegate
+
+  public void Stiskni() =&gt;
+    Kliknuto?.Invoke(this, EventArgs.Empty);     // ?. = je-li někdo přihlášený
+}
+
+var btn = new Tlacitko();
+EventHandler handler = (s, e) =&gt; Console.WriteLine("Klik!");
+btn.Kliknuto += handler;   // přihlášení (subscribe)
+btn.Stiskni();             // → "Klik!"
+btn.Kliknuto -= handler;   // odhlášení (unsubscribe)</pre>
+
+  <ul class="core">
+    <li><strong>Memory leak</strong> — pokud subscriber zapomene <code>-=</code>, publisher na něj drží referenci a GC ho nesmaže. Řešení: weak references, slabé eventy, IDisposable.</li>
+    <li>V JavaScriptu: <code>btn.addEventListener('click', fn)</code> / <code>removeEventListener</code>.</li>
+  </ul>
+
+  <h2 class="section">Synchronní vs. asynchronní událost</h2>
+  <table>
+    <tr><th></th><th>Synchronní</th><th>Asynchronní</th></tr>
+    <tr><td>Volání</td><td>Publisher čeká na všechny handlery</td><td>Handler běží na pozadí (Task, vlákno, message bus)</td></tr>
+    <tr><td>Pořadí</td><td>Deterministické</td><td>Nezaručené</td></tr>
+    <tr><td>Vhodné pro</td><td>UI, kde reakce musí být okamžitá</td><td>Velký objem zpráv, distribuované systémy</td></tr>
+  </table>
+
+  <h2 class="section">Pull vs. Push model</h2>
+  <ul class="core">
+    <li><strong>Pull</strong> — kód se opakovaně dotazuje (<code>while (input.Available) ...</code>). Spotřebovává CPU.</li>
+    <li><strong>Push (event-driven)</strong> — systém zavolá handler, když má co předat. Efektivnější.</li>
+  </ul>
+
+  <div class="usecase">V chatovací aplikaci publishera představuje SignalR hub. Když pošlu zprávu, hub vyhlásí událost <code>NovaZprava</code>, na kterou jsou přihlášeni všichni klienti místnosti. Žádný klient se neptá <em>„máš pro mě něco?"</em> — jen čeká, až mu server pošle událost. UI komponenta v Reactu má <code>useEffect</code>, který v cleanu odhlásí handler — předejde leakům, když uživatel místnost opustí.</div>
+
+  <div class="diagram-wrap">
+<pre class="mermaid">
+sequenceDiagram
+  participant P as Publisher (Tlačítko)
+  participant L as Logger (Subscriber A)
+  participant S as Status bar (Subscriber B)
+  L->>P: subscribe (+=)
+  S->>P: subscribe (+=)
+  Note over P: uživatel klikne
+  P->>L: Kliknuto(args)
+  P->>S: Kliknuto(args)
+  L->>P: unsubscribe (-=)
+</pre>
+  </div>
+</article>
+
+<!-- =================== 24 PROGRAMOVACÍ JAZYKY =================== -->
+<article class="q" id="q24">
+  <h1><span class="num">24</span>Programovací jazyky</h1>
+  <div class="pitch">Programovací jazyk je formální nástroj, kterým zapisujeme algoritmus tak, aby ho počítač uměl provést. Jazyky se liší úrovní abstrakce (assembler vs. C#), paradigmatem (imperativní, OOP, funkcionální) a způsobem překladu.</div>
+
+  <h2 class="section">Úroveň abstrakce</h2>
+  <ul class="core">
+    <li><strong>Strojový kód</strong> — binární instrukce konkrétního procesoru (x86, ARM).</li>
+    <li><strong>Assembler</strong> — symbolický zápis instrukcí 1:1 (MOV, ADD).</li>
+    <li><strong>Nízkoúrovňové</strong> — C, C++ (manuální správa paměti, blízko HW).</li>
+    <li><strong>Vysokoúrovňové</strong> — Java, C#, Python (automatická paměť, bohatá knihovna).</li>
+    <li><strong>4GL/DSL</strong> — SQL, HTML, regex; specializované na doménu.</li>
+  </ul>
+
+  <h2 class="section">Paradigmata</h2>
+  <table>
+    <tr><th>Paradigma</th><th>Idea</th><th>Příklady</th></tr>
+    <tr><td>Imperativní / procedurální</td><td>Sled příkazů, jak něco udělat</td><td>C, Pascal</td></tr>
+    <tr><td>Objektově orientované</td><td>Objekty se stavem a chováním</td><td>C#, Java, C++, Python</td></tr>
+    <tr><td>Funkcionální</td><td>Funkce jako hodnota, neměnnost</td><td>Haskell, F#, Elixir, JS (částečně)</td></tr>
+    <tr><td>Logické</td><td>Fakta + pravidla → odvození</td><td>Prolog</td></tr>
+    <tr><td>Skriptovací</td><td>Rychlé psaní, dynamické</td><td>Python, JS, Bash</td></tr>
+  </table>
+
+  <h2 class="section">Překlad jazyka do strojového kódu</h2>
+  <ul class="core">
+    <li><strong>Kompilátor (compiler)</strong> — celý zdroj přeloží před spuštěním do strojového kódu (.exe). Rychlý běh. (C, C++, Go, Rust)</li>
+    <li><strong>Interpret</strong> — čte a vykonává řádek po řádku za běhu. (Python, klasický JS)</li>
+    <li><strong>Hybrid (mezikód)</strong> — překlad do <em>bytecode</em>, ten běží na virtuálním stroji a často se za běhu JIT-kompiluje do nativního kódu. (.NET CIL/IL → CLR; Java bytecode → JVM)</li>
+    <li><strong>Transpilace</strong> — překlad do jiného jazyka stejné úrovně (TypeScript → JS, Babel JSX → JS).</li>
+  </ul>
+
+  <pre class="code">// Fáze překladu (zjednodušeně)
+1. Lexikální analýza  – tokenizace
+2. Syntaktická analýza – AST
+3. Sémantická analýza – kontrola typů
+4. Optimalizace
+5. Generování kódu (mezikódu / nativního)</pre>
+
+  <h2 class="section">Multiplatformnost</h2>
+  <ul class="core">
+    <li><strong>Recompile</strong> — stejný zdroj, různé cíle (C/C++ pro Windows, Linux).</li>
+    <li><strong>Mezikód + VM</strong> — Java JAR běží všude, kde je JVM; .NET assembly v CLR.</li>
+    <li><strong>WebAssembly</strong> — přenosný bytecode pro web (běží i mimo prohlížeč přes WASI).</li>
+  </ul>
+
+  <h2 class="section">Architektura .NET</h2>
+  <ul class="core">
+    <li><strong>.NET</strong> (dříve .NET Core) — multiplatformní open-source platforma od Microsoftu (Win/Linux/macOS).</li>
+    <li><strong>CLR</strong> (Common Language Runtime) — virtuální stroj; spravuje paměť (GC), spouští kód.</li>
+    <li><strong>CIL / IL</strong> (Common Intermediate Language) — mezikód, do kterého se překládají všechny .NET jazyky.</li>
+    <li><strong>JIT</strong> (Just-In-Time) kompilátor — IL → nativní kód za běhu. Případně <strong>AOT</strong> (Ahead-Of-Time) pro startup.</li>
+    <li><strong>BCL</strong> (Base Class Library) — sdílené knihovny (System.IO, System.Collections…).</li>
+    <li><strong>Jazyky:</strong> C#, F# (funkcionální), VB.NET — všechny se kompilují do stejného IL → CLI komponenty mohou volat jedna druhou.</li>
+    <li><strong>NuGet</strong> — správce balíčků.</li>
+    <li><strong>CTS / CLS</strong> — Common Type System a Common Language Specification — zajišťují interoperabilitu jazyků.</li>
+  </ul>
+
+  <div class="usecase">Tým má backend v C#, datovou vědu v F# a web frontend v TypeScriptu. Backend i F# kód se kompiluje do <strong>IL</strong> → běží v CLR na Linux serveru bez závislosti na Windows. TypeScript se transpiluje do JavaScriptu, který běží v prohlížeči. Jeden vývojář může bez změny zdroje aplikaci pustit lokálně na Macu i v Dockeru na Linuxu — to je síla mezikódu a multiplatformnosti.</div>
+
+  <div class="diagram-wrap">
+<pre class="mermaid">
+flowchart LR
+  CS["C# / F# / VB"] --> IL["IL / CIL bytecode"]
+  IL --> JIT["JIT v CLR"]
+  JIT --> NAT["Nativní kód CPU"]
+  NAT --> OS1[Windows]
+  NAT --> OS2[Linux]
+  NAT --> OS3[macOS]
+</pre>
+  </div>
+</article>
+
+<!-- =================== 25 ANDROID =================== -->
+<article class="q" id="q25">
+  <h1><span class="num">25</span>Architektura a komponenty Android aplikací</h1>
+  <div class="pitch">Android je vrstvený OS postavený na Linuxu. Aplikace se skládají ze čtyř hlavních komponent (Activity, Service, BroadcastReceiver, ContentProvider), běží v izolovaném sandboxu a komunikují přes Intenty. Moderní aplikace staví UI v Jetpack Compose a logiku v MVVM.</div>
+
+  <h2 class="section">Vrstvy Android OS (zdola nahoru)</h2>
+  <ul class="core">
+    <li><strong>Linux Kernel</strong> — ovladače, paměť, procesy, energetika, bezpečnost.</li>
+    <li><strong>HAL</strong> (Hardware Abstraction Layer) — sjednocené rozhraní k senzorům, kameře.</li>
+    <li><strong>Native libs</strong> + <strong>Android Runtime (ART)</strong> — VM pro běh aplikací; používá AOT i JIT kompilaci, garbage collector. Předchůdce Dalvik.</li>
+    <li><strong>Java/Kotlin API Framework</strong> — Activity Manager, Window Manager, Notifications.</li>
+    <li><strong>System apps + Apps</strong> — vlastní aplikace.</li>
+  </ul>
+
+  <h2 class="section">Sandbox a bezpečnost</h2>
+  <ul class="core">
+    <li>Každá aplikace má vlastní UID a běží ve svém procesu.</li>
+    <li>Nemá přístup k souborům jiných aplikací (jen pokud je explicitně sdílí).</li>
+    <li><strong>Oprávnění</strong> — install-time (běžné) vs. runtime (nebezpečné — kamera, poloha) — uživatel je schvaluje za běhu.</li>
+  </ul>
+
+  <h2 class="section">AndroidManifest.xml</h2>
+  <ul class="core">
+    <li>Centrální popis aplikace: package, verze, ikona, požadovaná oprávnění (<code>&lt;uses-permission&gt;</code>), seznam komponent (<code>&lt;activity&gt;</code>, <code>&lt;service&gt;</code>, <code>&lt;receiver&gt;</code>, <code>&lt;provider&gt;</code>) a jejich Intent filtry.</li>
+  </ul>
+
+  <h2 class="section">Čtyři hlavní komponenty</h2>
+  <table>
+    <tr><th>Komponenta</th><th>Účel</th><th>Příklad</th></tr>
+    <tr><td><strong>Activity</strong></td><td>Jedna obrazovka s UI</td><td>Login, Detail, Seznam</td></tr>
+    <tr><td><strong>Service</strong></td><td>Dlouhotrvající operace bez UI</td><td>Přehrávač hudby, sync</td></tr>
+    <tr><td><strong>Broadcast Receiver</strong></td><td>Posluchač systémových/vlastních broadcastů</td><td>Změna baterie, příchozí SMS</td></tr>
+    <tr><td><strong>Content Provider</strong></td><td>Sdílení dat mezi aplikacemi</td><td>Kontakty, kalendář</td></tr>
+  </table>
+
+  <h2 class="section">Intent</h2>
+  <ul class="core">
+    <li>„Záměr" — zpráva pro jinou komponentu.</li>
+    <li><strong>Explicitní</strong> — určí konkrétní cílovou třídu (<code>Intent(this, Detail::class.java)</code>).</li>
+    <li><strong>Implicitní</strong> — popíše akci (<code>ACTION_VIEW</code>, <code>ACTION_SEND</code>) — systém najde aplikaci, která ji umí zpracovat (sdílení, otevření URL).</li>
+    <li>Mohou nést data (extras) a flagy.</li>
+  </ul>
+
+  <h2 class="section">Lifecycle Activity</h2>
+  <pre class="code">onCreate → onStart → onResume → (běží)
+                                      ↓ uživatel skryje
+                              onPause → onStop → onDestroy
+                                      ↑ vrátí se
+                              onRestart → onStart → onResume</pre>
+  <ul class="core">
+    <li><strong>onCreate</strong> — inflate UI, inicializace.</li>
+    <li><strong>onResume</strong> — aktivita je viditelná a v popředí.</li>
+    <li><strong>onPause</strong> — uložit stav, zastavit animace; následuje <code>onStop</code>, pokud aktivita zmizí.</li>
+    <li>Lifecycle Components (Jetpack) — <code>LifecycleOwner</code>, <code>LiveData</code>, <code>StateFlow</code> — UI reaguje na stav.</li>
+  </ul>
+
+  <h2 class="section">Jetpack Compose</h2>
+  <ul class="core">
+    <li>Moderní deklarativní UI toolkit pro Android (od 2021).</li>
+    <li>Místo XML layoutů píšeme <strong>composable funkce</strong> (<code>@Composable fun Greet() { Text("Ahoj") }</code>).</li>
+    <li><strong>State hoisting</strong> — stav se drží výš a předává dolů, podobně jako v Reactu.</li>
+    <li>Plynulá integrace s Kotlin coroutines, Flow.</li>
+  </ul>
+
+  <h2 class="section">MVVM (Model–View–ViewModel)</h2>
+  <ul class="core">
+    <li><strong>Model</strong> — data, repozitáře (DB, API).</li>
+    <li><strong>View</strong> — Composable funkce / Activity; jen zobrazuje stav.</li>
+    <li><strong>ViewModel</strong> — drží UI stav (<code>StateFlow</code>), zpracovává akce, přežívá rotaci obrazovky (Jetpack <code>ViewModel</code>).</li>
+    <li><strong>Data binding</strong> — View pozoruje <code>StateFlow</code>/<code>LiveData</code> a překresluje se.</li>
+  </ul>
+
+  <pre class="code">class CounterViewModel : ViewModel() {
+  private val _count = MutableStateFlow(0)
+  val count: StateFlow&lt;Int&gt; = _count
+  fun increment() { _count.value++ }
+}
+
+@Composable
+fun CounterScreen(vm: CounterViewModel = viewModel()) {
+  val c by vm.count.collectAsState()
+  Column {
+    Text("Hodnota: $c")
+    Button(onClick = { vm.increment() }) { Text("+1") }
+  }
+}</pre>
+
+  <div class="usecase">Aplikace pro nákupní seznam: <strong>Activity</strong> hostuje Compose obsah. <strong>ViewModel</strong> drží <code>StateFlow&lt;List&lt;Item&gt;&gt;</code>, načítá data z <strong>Room</strong> (lokální DB) přes repozitář (Model). <strong>Service</strong> na pozadí synchronizuje s cloudem, <strong>BroadcastReceiver</strong> reaguje na <code>BOOT_COMPLETED</code> a naplánuje sync. Sdílení seznamu řešíme implicitním Intentem <code>ACTION_SEND</code>. Manifest deklaruje oprávnění <code>INTERNET</code> a <code>POST_NOTIFICATIONS</code>.</div>
+
+  <div class="diagram-wrap">
+<pre class="mermaid">
+flowchart TD
+  APP[Aplikace v sandboxu] --> AF["Java/Kotlin Framework<br/>(Activity Manager...)"]
+  AF --> ART["Android Runtime (ART)"]
+  ART --> NL[Native libraries / HAL]
+  NL --> K[Linux Kernel]
+  APP --> A[Activity]
+  APP --> S[Service]
+  APP --> B[Broadcast Receiver]
+  APP --> C[Content Provider]
+  A -- Intent --> A2[Jiná Activity / aplikace]
+</pre>
+  </div>
+</article>
+
+</div>
+
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+  mermaid.initialize({
+    startOnLoad: true,
+    theme: 'default',
+    themeVariables: {
+      primaryColor: '#e7eefc',
+      primaryTextColor: '#1f2430',
+      primaryBorderColor: '#2a52be',
+      lineColor: '#4f7cff',
+      fontFamily: 'Inter, system-ui, sans-serif'
+    },
+    flowchart: { curve: 'basis', useMaxWidth: true },
+    sequence:  { useMaxWidth: true },
+    er:        { useMaxWidth: true }
+  });
+</script>
+</body>
+</html>

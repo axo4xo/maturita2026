@@ -1,0 +1,30 @@
+﻿Data a kódování (DAT),,
+Délka přípravy: 30 min,,
+Délka zkoušení: 15 min,,
+Číslo,Téma,Předmět
+1,HTML5 a sémantika,ZAL
+2,Bootstrap a návrh designu,WEB
+3,Flexbox a rozmístění prvků,WEB
+4,CSS Grid a tvorba layoutu,WEB
+5,Pozicování prvků a z-index,WEB
+6,CSS animace a transformace,WEB
+7,Tabulky v HTML a jejich stylování,WEB
+8,Datové typy a pole,PRG
+9,Spojové struktury a stromy,PRG
+10,Podprogramy a lambda funkce,PRG
+11,"Kolekce: pole, zásobník, fronta, slovník",PRG
+12,Souborový systém a streamy,PRG
+13,Paralelní a asynchronní programování,PRG
+14,Verzovací systémy: Git a GitHub,PRG
+15,ER model a návrh databáze,DBS
+16,SQL – výběr a filtrování dat,DBS
+17,REST API v ASP.NET,WEB
+18,Razor Pages - zpracování požadavku,WEB
+19,ASP.NET Tag Helpers a formuláře,WEB
+20,Next.js a serverové vs. klientské renderování,WEB
+21,ORM,WEB
+22,React – komponenty a props,MPA
+23,"React – hooks (useState, useEffect aj.)",MPA
+24,React Router,MPA
+25,Správa stavů aplikace v Reactu,MPA
+,Android aplikace v Kotlinu s Jetpack Compose (a lokálním uložištěm),MPA
