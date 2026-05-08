@@ -20,7 +20,7 @@ Hlavní jízdní řád až do **25. května 2026**. Nastavený na **3 hodiny či
 | **14. 5. (Čt)** | **Hardcore SWI/DAT** | DAT: Posledních 20 % + průlet | SWI: Posledních 20 % + průlet | ANJ: Reálie UK/USA (nahlas) |
 | **15. 5. (Pá)** | **ANJ + Simulace** | ANJ: Těžká témata, reálie, slovíčka | SWI/DAT: Náhodné zkoušení 3 otázek | ČJL: Zkouknout *Hrdýho Budžese* |
 | **16. 5. (So)** | **ANJ + Simulace** | ANJ: Mluvení nahlas (tahání témat) | SWI/DAT: Slabá místa a záseky | ČJL: Zkouknout *České nebe* |
-| **17. 5. (Ne)** | **Generálka MP** | **Final rehearsal obhajoby** | Rychlý průlet SWI, DAT a ANJ osnov | Nachystat věci na zítra, klid |
+| **17. 5. (Ne)** | **Generálka MP** | [**Final rehearsal obhajoby**](https://github.com/axo4xo/mp-prezentace-obhajoba-2026/tree/main) | Rychlý průlet SWI, DAT a ANJ osnov | Nachystat věci na zítra, klid |
 |  |  |  |  |  |
 | **18. 5. (Po)** | **DEN D #1** | **Samotná obhajoba MP** | **REST** | Úplně vypnout, žádné učení |
 |  |  |  |  |  |
