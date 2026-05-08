@@ -1,2 +1,13 @@
 # MZ 2026
-ahoj mam tady vsechny otazky - s/o Claude
+
+## 📚 Materiály
+
+- 📅 [Maturitní plán do 25. 5.](./PLAN.MD)
+- 💻 [Programování (PRG)](https://axo4xo.notion.site/prg)
+- 📚 [Maturitní četba (ČJL)](https://axo4xo.notion.site/matcetba)
+
+## 📂 Otázky v repu
+
+- [ANJ](./ANJ) — Anglický jazyk
+- [DAT](./DAT) — Data a kódování
+- [SWI](./SWI) — Softwarové inženýrství
