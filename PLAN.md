@@ -11,7 +11,7 @@ Hlavní jízdní řád až do **25. května 2026**. Nastavený na **3 hodiny či
 | Datum | Fáze | Hlavní blok (cca 2 h) | Vedlejší blok / Udržovačka (cca 1 h) | Večerní check / Cíl dne |
 | --- | --- | --- | --- | --- |
 | **8. 5. (Pá)** | **Obhajoba** | [Tvorba prezentace](https://github.com/axo4xo/mp-prezentace-obhajoba-2026/blob/main/Obhajoba_MP_Prchal-Stepan.pptx), [osnova řeči](https://github.com/axo4xo/mp-prezentace-obhajoba-2026/blob/main/OSNOVA.md) | ANJ: 15 min mluvení (představení) | Přečíst 1/2 *Proměny* |
-| **9. 5. (So)** | **Obhajoba** | Odpovědi na otázky z posudku | ANJ: 15 min (popis obrázku) | Dočíst *Proměnu* |
+| **9. 5. (So)** | **Obhajoba** | [Odpovědi na otázky z posudku](https://github.com/axo4xo/mp-prezentace-obhajoba-2026/blob/main/OTAZKY.md) | ANJ: 15 min (popis obrázku) | Dočíst *Proměnu* |
 | **10. 5. (Ne)** | **Obhajoba** | Zkouška MP nanečisto (nahlas, s časem) | ANJ: 15 min mluvení | Začít *Memento* |
 |  |  |  |  |  |
 | **11. 5. (Po)** | **Hardcore SWI/DAT** | SWI: Prvních 20 % otázek (definice, principy) | DAT: Prvních 20 % otázek | ANJ: Univerzální fráze + Dočíst *Memento* |
