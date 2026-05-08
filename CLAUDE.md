@@ -19,7 +19,7 @@ The canonical question lists live in `_podklady/<SUBJECT>/<SUBJECT>_seznam_otaze
 
 ## Top-level files
 
-- `README.md` — index with links to study materials and external Notion pages (PRG, ČJL maturitní četba).
+- `README.md` — index with links to study materials and external Notion pages (PRG, ČJL maturitní četba). **Note:** the linked Notion pages may contain different and likely more up-to-date data than what's in this repo — treat Notion as more authoritative when content diverges.
 - `PLAN.MD` — day-by-day study schedule through 2026-05-25 (exam day). Linked from README.
 - `_podklady/probrane_otazky_*.pdf` — list of topics already covered in class.
 
