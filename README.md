@@ -2,7 +2,8 @@
 - 📅 [Maturitní plán do 25. 5.](./PLAN.md)
 
 ## 📚 Materiály
-- 💻 [Programování (PRG)](https://axo4xo.notion.site/prg)
+- 💻 [SWI](https://axo4xo.notion.site/swi)
+- 💻 [DAT](https://axo4xo.notion.site/dat)
 - 📚 [Maturitní četba (ČJL)](https://axo4xo.notion.site/matcetba)
 
 ## 📂 Otázky v repu
