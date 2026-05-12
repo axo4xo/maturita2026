@@ -45,7 +45,8 @@ const ignoredDirs = new Set([
 ])
 
 function routeFor(filePath: string): string {
-  const rel = relative(contentDir, filePath).replace(/\\/g, '/').replace(/\.md$/i, '')
+  const source = relativeMarkdownPath(filePath)
+  const rel = (routeRewrites[source] ?? source).replace(/\.md$/i, '')
   if (rel === 'index') return '/'
   if (rel.endsWith('/index')) return `/${rel.replace(/\/index$/, '/')}`
   return `/${rel}`
@@ -56,6 +57,39 @@ function cleanTitle(value: string): string {
     .replace(/\s+[0-9a-f]{32}$/i, '')
     .replace(/^README$/i, 'Přehled')
     .trim()
+}
+
+function cleanNotionId(value: string): string {
+  return value.replace(/\s+[0-9a-f]{32}(?=\.md$|$)/i, '').trim()
+}
+
+function cleanNotionPath(value: string): string {
+  return value.split('/').map(cleanNotionId).join('/')
+}
+
+function slugifySegment(value: string): string {
+  const extension = value.endsWith('.md') ? '.md' : ''
+  const basename = extension ? value.slice(0, -extension.length) : value
+
+  if (basename === 'index') return `${basename}${extension}`
+
+  const slug = cleanNotionId(basename)
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .toLowerCase()
+    .replace(/&/g, ' and ')
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '')
+
+  return `${slug || basename.toLowerCase()}${extension}`
+}
+
+function slugifyPath(value: string): string {
+  return value.split('/').map(slugifySegment).join('/')
+}
+
+function relativeMarkdownPath(filePath: string): string {
+  return relative(contentDir, filePath).replace(/\\/g, '/')
 }
 
 function titleFor(filePath: string): string {
@@ -84,6 +118,42 @@ function markdownFiles(dir: string): string[] {
     .map((entry) => join(dir, entry))
     .filter((entry) => statSync(entry).isFile() && entry.endsWith('.md'))
     .sort(sortPages)
+}
+
+function markdownFilesDeep(dir: string): string[] {
+  if (!existsSync(dir)) return []
+
+  return readdirSync(dir)
+    .flatMap((entry) => {
+      if (ignoredDirs.has(entry)) return []
+
+      const path = join(dir, entry)
+      const stats = statSync(path)
+
+      if (stats.isDirectory()) return markdownFilesDeep(path)
+      if (stats.isFile() && entry.endsWith('.md')) return [path]
+      return []
+    })
+    .sort(sortPages)
+}
+
+function createRouteRewrites(): Record<string, string> {
+  const rewrites: Record<string, string> = {}
+  const sourcePaths = new Set(markdownFilesDeep(contentDir).map(relativeMarkdownPath))
+  const destinationPaths = new Set<string>()
+
+  for (const source of sourcePaths) {
+    if (!source.includes('/')) continue
+
+    const destination = slugifyPath(cleanNotionPath(source))
+    if (destination === source) continue
+    if (sourcePaths.has(destination) || destinationPaths.has(destination)) continue
+
+    rewrites[source] = destination
+    destinationPaths.add(destination)
+  }
+
+  return rewrites
 }
 
 function nestedMarkdownGroups(dir: string): DefaultTheme.SidebarItem[] {
@@ -144,13 +214,22 @@ function sectionOverviewLink(section: string): string {
 
 ensureSectionIndexes()
 
+const routeRewrites = createRouteRewrites()
+
+function rewriteRoute(id: string): string {
+  return routeRewrites[id] ?? id
+}
+
 const sectionEntries = [...sectionLabels.keys()]
   .map((section) => [section, sectionSidebar(section)] as const)
   .filter(([, items]) => items.length > 0)
 
 const sidebar: DefaultTheme.Sidebar = Object.fromEntries(
-  sectionEntries.map(([section, items]) => [`/${section}/`, items])
+  sectionEntries.map(([section, items]) => [sectionOverviewLink(section), items])
 )
+
+const readmePath = join(contentDir, 'README.md')
+const planPath = join(contentDir, 'PLAN.md')
 
 sidebar['/'] = [
   {
@@ -158,7 +237,7 @@ sidebar['/'] = [
     collapsed: false,
     items: [
       { text: 'Domů', link: '/' },
-      { text: 'README', link: '/README' },
+      ...(existsSync(readmePath) ? [{ text: 'README', link: routeFor(readmePath) }] : []),
       { text: 'Plán', link: '/PLAN' }
     ]
   }
@@ -251,6 +330,7 @@ export default defineConfig({
   lang: 'cs-CZ',
   head: [['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }]],
   cleanUrls: true,
+  rewrites: rewriteRoute,
   lastUpdated: true,
   ignoreDeadLinks: true,
   srcExclude: ['_podklady/**', 'node_modules/**'],
