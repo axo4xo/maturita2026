@@ -320,7 +320,21 @@ function escapeVueMustachesOutsideCode(source: string): string {
 }
 
 function normalizeMarkdown(source: string): string {
-  return escapeVueMustachesOutsideCode(normalizeNotionAsides(source))
+  return normalizeSectionDirectoryLinks(escapeVueMustachesOutsideCode(normalizeNotionAsides(source)))
+}
+
+function normalizeSectionDirectoryLinks(source: string): string {
+  const sectionRoutes = new Map(
+    [...sectionLabels.keys()].map((section) => [section, sectionOverviewLink(section)])
+  )
+
+  return source.replace(
+    /(\[[^\]\n]+\]\()(\.\/)?([A-Za-z0-9_-]+)\/(\))/g,
+    (match, prefix: string, relativePrefix: string | undefined, section: string, suffix: string) => {
+      const route = sectionRoutes.get(section)
+      return route ? `${prefix}${route}${suffix}` : match
+    }
+  )
 }
 
 export default defineConfig({
