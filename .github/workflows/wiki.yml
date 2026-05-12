@@ -41,11 +41,7 @@ jobs:
                 *) title="$section" ;;
               esac
 
-              cat > "content/$section/index.md" <<EOF
-# $title
-
-Rozcestnik pro sekci $title.
-EOF
+              printf '# %s\n\nRozcestnik pro sekci %s.\n' "$title" "$title" > "content/$section/index.md"
             fi
           done
 
