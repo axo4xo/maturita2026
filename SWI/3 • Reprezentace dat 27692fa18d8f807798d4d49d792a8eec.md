@@ -1,0 +1,54 @@
+# 3 • Reprezentace dat
+
+- počítač jsou jen jedničky a nuly ⇒ dvojková **soustava**
+- 1 B = 8 b
+- jednotky: B, KB, MB, GB (řada SI)
+- dále KiB, MiB, GiB (kibi, mebi, gibi)…
+- rozdíl 1 KiB = 1024 B; 1 KB = 1000 B
+- ASCII: 1 B jakožto jeden **znak** (přesněji 7 b)
+- dnes nahrazeno UTF-8
+    - proměnná velikost symbolu od 8 do ~32 b
+    - lepší kompatibilita s háčky, čárky
+- Datum: Unix Time
+    - počet bůhvíčeho od 1. Jan 1970
+    - dále se dá formátovat (DD-MM-YYYY, MM/DD/YY, …)
+    - toto je standardizované
+- **číselné soustavy**:
+    - dvojková
+        - v tom počítá počítač
+        - 1 a 0
+    - desítková
+        - člověku nejpřirozenější
+        - máme 10 prstů většina
+    - osmičková
+        - zřídkakdy používaná
+    - šestnáctková
+        - lidé dokážou obtížně číst dvojkovou soustavu (binární kód)
+        - rádoby lidsky čitelná
+        - hexadecimální
+        - B ⇒ 2 symboly
+        - 0 - 9; A - F pro číslice 10 - 15
+        - prefix **0x**
+    - dvanáctková
+        - historická
+        - hodiny
+        - dělitelná 3, 4
+    - šedesátková
+        - výborně dělitelná
+        - Babylon
+    - dvacítková
+        - majská
+        - ruce + nohy
+- jednoduché datové typy
+    - pointer
+    - reference
+    - boolean
+    - char
+    - int
+    - float
+- složené datové typy
+    - array
+    - class
+    - interface
+    - string
+    - enum

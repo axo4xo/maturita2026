@@ -1,0 +1,44 @@
+# 25 • Architektura a komponenty Android aplikací
+
+Architektura, Kernel, ART, Activity, Service, Broadcast Receiver, Content Provider, Sandbox, Manifest, práva, Intent, Compose, MVVM, Lifecycle
+
+- os android
+- kernelové os, založené na linuxu
+- asi 5 úrovní
+    - kernel
+        - art
+        - Android RunTime ?
+    - knihovny který obsluhujou další hw zařízení
+    - application framework, poskytuje aplikacím jednotlivý oprávnění
+    - nad tím už potom běží samotná aplikace
+    - každá aplikace běží ve vlastním sandboxu
+        - bezpečnost
+        - izolace
+- service
+    - backend proces
+- něco co spolipracuje se sensorama
+    - příjemce - stabilní síť, ztratili jste připojení k internetu, někdo vám volal…
+    - broadcast reciever
+    - v android studiu schovaný
+- proti němu content provider
+    - věckkterá funguje obráceně
+    - umožňuje poskytovat svoje data někomu jinýmu
+    - seznam volajících
+    - přístupy k galeriím a tak
+- manifest
+    - soubor androidu
+    - povinnej
+    - definuje vlastnosti aplikace
+    - ne z hlediska vizuálu, ale definuje práva
+    - bude žádat o přístup ke kameře, ke kontaktům, ke všem API
+- přidělování práv on the fly
+- intent
+    - okno modální který se zeptá který prohlížeč chceme použít
+    - tam to začíná intentem a podívá se do systému
+    - taky relativně novej mehcanismus
+- compose
+    - jetpack compose
+    - novej framework tlačenej google
+        - trochu jiná správa životního cyklu
+    - co compose přináší?
+    -
