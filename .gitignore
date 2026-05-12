@@ -1,5 +1,6 @@
 .claude/
 .DS_Store
 node_modules/
+content/
 .vitepress/cache/
 .vitepress/dist/

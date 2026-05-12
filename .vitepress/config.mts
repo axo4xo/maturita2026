@@ -5,6 +5,10 @@ import { fileURLToPath } from 'node:url'
 
 const configDir = dirname(fileURLToPath(import.meta.url))
 const rootDir = join(configDir, '..')
+const contentDir = existsSync(join(rootDir, 'content', 'index.md'))
+  ? join(rootDir, 'content')
+  : rootDir
+const srcDir = relative(rootDir, contentDir).replace(/\\/g, '/') || '.'
 
 const sectionLabels = new Map<string, string>([
   ['SWI', 'SWI'],
@@ -24,7 +28,7 @@ const ignoredDirs = new Set([
 ])
 
 function routeFor(filePath: string): string {
-  const rel = relative(rootDir, filePath).replace(/\\/g, '/').replace(/\.md$/i, '')
+  const rel = relative(contentDir, filePath).replace(/\\/g, '/').replace(/\.md$/i, '')
   if (rel === 'index') return '/'
   if (rel.endsWith('/index')) return `/${rel.replace(/\/index$/, '/')}`
   return `/${rel}`
@@ -87,7 +91,7 @@ function nestedMarkdownGroups(dir: string): DefaultTheme.SidebarItem[] {
 }
 
 function sectionSidebar(section: string): DefaultTheme.SidebarItem[] {
-  const dir = join(rootDir, section)
+  const dir = join(contentDir, section)
   const pages = markdownFiles(dir)
     .filter((file) => !file.endsWith('README.md') && !file.endsWith('index.md'))
     .map((file) => ({
@@ -112,7 +116,7 @@ function sectionSidebar(section: string): DefaultTheme.SidebarItem[] {
 }
 
 function sectionOverviewLink(section: string): string {
-  const dir = join(rootDir, section)
+  const dir = join(contentDir, section)
   const index = join(dir, 'index.md')
   const readme = join(dir, 'README.md')
 
@@ -222,6 +226,7 @@ function normalizeMarkdown(source: string): string {
 }
 
 export default defineConfig({
+  srcDir,
   title: 'Maturita 2026',
   description: 'Statická maturitní wiki z Markdown poznámek',
   lang: 'cs-CZ',
@@ -246,7 +251,7 @@ export default defineConfig({
         apply: 'build',
         writeBundle() {
           for (const [section] of sectionEntries) {
-            copyStaticAssets(join(rootDir, section), join(configDir, 'dist', section))
+            copyStaticAssets(join(contentDir, section), join(configDir, 'dist', section))
           }
         }
       }
