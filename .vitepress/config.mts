@@ -1,5 +1,5 @@
 import { defineConfig, type DefaultTheme } from 'vitepress'
-import { copyFileSync, existsSync, mkdirSync, readdirSync, readFileSync, statSync } from 'node:fs'
+import { copyFileSync, existsSync, mkdirSync, readdirSync, readFileSync, statSync, writeFileSync } from 'node:fs'
 import { dirname, extname, join, relative } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
@@ -21,6 +21,19 @@ const sectionLabels = new Map<string, string>([
   ['CJL', 'CJL'],
   ['obhajoba', 'Obhajoba']
 ])
+
+function ensureSectionIndexes(): void {
+  for (const [section, label] of sectionLabels) {
+    const dir = join(contentDir, section)
+    if (!existsSync(dir)) continue
+
+    const index = join(dir, 'index.md')
+    const readme = join(dir, 'README.md')
+    if (existsSync(index) || existsSync(readme)) continue
+
+    writeFileSync(index, `# ${label}\n\nRozcestnik pro sekci ${label}.\n`, 'utf8')
+  }
+}
 
 const ignoredDirs = new Set([
   '.git',
@@ -128,6 +141,8 @@ function sectionOverviewLink(section: string): string {
   if (existsSync(readme)) return routeFor(readme)
   return `/${section}/`
 }
+
+ensureSectionIndexes()
 
 const sectionEntries = [...sectionLabels.keys()]
   .map((section) => [section, sectionSidebar(section)] as const)
