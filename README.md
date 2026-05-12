@@ -1,4 +1,20 @@
 # MZ 2026
+
+## Wiki
+
+Tento repozitář se dá renderovat jako statická wiki přes VitePress.
+
+```bash
+npm install
+npm run dev
+npm run build
+```
+
+- Lokální preview běží standardně na `http://localhost:5173`.
+- Produkční build se generuje do `.vitepress/dist`.
+- GitHub Actions workflow v `.github/workflows/wiki.yml` nasazuje build na GitHub Pages.
+- Soubor `.vitepress/public/CNAME` nastavuje doménu `maturita.ax4.cz`.
+- Markdown poznámky zůstávají zdrojem pravdy; VitePress je pouze renderer.
 - 📅 [Maturitní plán do 25. 5.](./PLAN.md)
 
 ## 📚 Materiály

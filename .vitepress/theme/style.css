@@ -1,0 +1,121 @@
+:root {
+  --vp-c-brand-1: #2563eb;
+  --vp-c-brand-2: #1d4ed8;
+  --vp-c-brand-3: #60a5fa;
+  --vp-c-bg-soft: #f5f7fb;
+  --vp-c-bg-alt: #f8fafc;
+  --vp-font-family-base: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --vp-font-family-mono: "JetBrains Mono", "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+}
+
+.dark {
+  --vp-c-bg: #101318;
+  --vp-c-bg-alt: #0b1117;
+  --vp-c-bg-soft: #171d26;
+  --vp-c-bg-elv: #151b24;
+  --vp-c-border: #2c3747;
+  --vp-c-divider: #2c3747;
+  --vp-c-gutter: #263140;
+  --vp-c-text-1: #eef4ff;
+  --vp-c-text-2: #cbd7e6;
+  --vp-c-text-3: #9aaabd;
+  --vp-c-brand-1: #8ab4ff;
+  --vp-c-brand-2: #a8c7ff;
+  --vp-c-brand-3: #315fba;
+  --vp-code-block-bg: #0d1117;
+  --vp-code-line-highlight-color: rgba(138, 180, 255, 0.11);
+  --vp-custom-block-info-bg: rgba(138, 180, 255, 0.1);
+  --vp-custom-block-info-border: rgba(138, 180, 255, 0.32);
+  --vp-custom-block-tip-bg: rgba(65, 214, 147, 0.1);
+  --vp-custom-block-tip-border: rgba(65, 214, 147, 0.3);
+  --vp-custom-block-warning-bg: rgba(245, 185, 80, 0.12);
+  --vp-custom-block-warning-border: rgba(245, 185, 80, 0.34);
+  --vp-custom-block-danger-bg: rgba(255, 107, 107, 0.12);
+  --vp-custom-block-danger-border: rgba(255, 107, 107, 0.34);
+}
+
+.VPDoc:not(.has-sidebar) .content {
+  max-width: 920px;
+}
+
+.vp-doc {
+  font-size: 17px;
+  line-height: 1.75;
+}
+
+.vp-doc h1 {
+  letter-spacing: 0;
+}
+
+.vp-doc h2 {
+  margin-top: 40px;
+  border-top: 1px solid var(--vp-c-divider);
+  padding-top: 28px;
+}
+
+.vp-doc img {
+  display: block;
+  max-height: 560px;
+  margin: 20px auto;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  background: var(--vp-c-bg-soft);
+}
+
+.vp-doc table {
+  display: table;
+  width: 100%;
+  font-size: 15px;
+}
+
+.vp-doc tr:nth-child(2n) {
+  background-color: var(--vp-c-bg-soft);
+}
+
+.vp-doc th {
+  background-color: var(--vp-c-bg-alt);
+  color: var(--vp-c-text-1);
+}
+
+.vp-doc blockquote {
+  border-left: 4px solid var(--vp-c-brand-1);
+  border-radius: 0 8px 8px 0;
+  background: var(--vp-c-bg-soft);
+  padding: 12px 16px;
+  color: var(--vp-c-text-1);
+}
+
+.vp-doc .custom-block {
+  position: relative;
+  margin: 20px 0;
+  border-radius: 8px;
+  padding: 14px 16px 14px 54px;
+  border: 1px solid var(--vp-c-border);
+  color: var(--vp-c-text-1);
+}
+
+.vp-doc .custom-block .custom-block-title {
+  position: absolute;
+  top: 15px;
+  left: 18px;
+  margin: 0;
+  font-size: 20px;
+  line-height: 1;
+}
+
+.vp-doc .custom-block .custom-block-title + p {
+  margin-top: 0;
+}
+
+.vp-doc .custom-block p:last-child {
+  margin-bottom: 0;
+}
+
+.vp-doc div[class*="language-"] {
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+}
+
+.VPSidebarItem .text {
+  line-height: 1.35;
+}
