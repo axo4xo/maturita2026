@@ -5,7 +5,11 @@ import { fileURLToPath } from 'node:url'
 
 const configDir = dirname(fileURLToPath(import.meta.url))
 const rootDir = join(configDir, '..')
-const contentDir = existsSync(join(rootDir, 'content', 'index.md'))
+const hasContentCheckout =
+  existsSync(join(rootDir, 'content', 'README.md')) ||
+  existsSync(join(rootDir, 'content', 'PLAN.md')) ||
+  existsSync(join(rootDir, 'content', 'SWI'))
+const contentDir = hasContentCheckout
   ? join(rootDir, 'content')
   : rootDir
 const srcDir = relative(rootDir, contentDir).replace(/\\/g, '/') || '.'

@@ -29,6 +29,12 @@ jobs:
           ref: main
           path: content
 
+      - name: Ensure wiki home page
+        run: |
+          if [ ! -f content/index.md ] && [ -f content/README.md ]; then
+            cp content/README.md content/index.md
+          fi
+
       - uses: actions/setup-node@v4
         with:
           node-version: 22
