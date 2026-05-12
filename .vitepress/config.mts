@@ -111,8 +111,22 @@ function sectionSidebar(section: string): DefaultTheme.SidebarItem[] {
   ].filter((group) => group.items.length > 0)
 }
 
+function sectionOverviewLink(section: string): string {
+  const dir = join(rootDir, section)
+  const index = join(dir, 'index.md')
+  const readme = join(dir, 'README.md')
+
+  if (existsSync(index)) return routeFor(index)
+  if (existsSync(readme)) return routeFor(readme)
+  return `/${section}/`
+}
+
+const sectionEntries = [...sectionLabels.keys()]
+  .map((section) => [section, sectionSidebar(section)] as const)
+  .filter(([, items]) => items.length > 0)
+
 const sidebar: DefaultTheme.Sidebar = Object.fromEntries(
-  [...sectionLabels.keys()].map((section) => [`/${section}/`, sectionSidebar(section)])
+  sectionEntries.map(([section, items]) => [`/${section}/`, items])
 )
 
 sidebar['/'] = [
@@ -231,7 +245,7 @@ export default defineConfig({
         name: 'maturita-static-assets',
         apply: 'build',
         writeBundle() {
-          for (const section of sectionLabels.keys()) {
+          for (const [section] of sectionEntries) {
             copyStaticAssets(join(rootDir, section), join(configDir, 'dist', section))
           }
         }
@@ -245,11 +259,10 @@ export default defineConfig({
   themeConfig: {
     logo: '/logo.svg',
     nav: [
-      { text: 'SWI', link: '/SWI/' },
-      { text: 'DAT', link: '/DAT/' },
-      { text: 'ANJ', link: '/ANJ/' },
-      { text: 'CJL', link: '/CJL/' },
-      { text: 'Obhajoba', link: '/obhajoba/README' },
+      ...sectionEntries.map(([section]) => ({
+        text: sectionLabels.get(section) ?? section,
+        link: sectionOverviewLink(section)
+      })),
       { text: 'Plán', link: '/PLAN' }
     ],
     sidebar,
