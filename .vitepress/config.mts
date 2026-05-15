@@ -454,6 +454,9 @@ export default defineConfig({
   markdown: {
     html: false,
     lineNumbers: true,
+    attrs: {
+      disable: true
+    },
     config(md) {
       md.use(phantomRendererPlugin)
     }
