@@ -193,6 +193,20 @@
   border-radius: 8px;
 }
 
+.vp-doc .llm-phantom {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  clip-path: inset(50%);
+  color: transparent;
+  opacity: 0;
+  white-space: pre-wrap;
+  user-select: text;
+}
+
 .VPSidebarItem .text {
   line-height: 1.35;
 }

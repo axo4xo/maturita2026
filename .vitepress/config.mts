@@ -337,6 +337,87 @@ function normalizeSectionDirectoryLinks(source: string): string {
   )
 }
 
+function readPhantomExpression(source: string, start = 0): { content: string; end: number } | null {
+  if (source[start] !== '$') return null
+
+  let cursor = start + 1
+
+  while (source[cursor] === ' ' || source[cursor] === '\t') cursor += 1
+
+  if (!source.startsWith('\\phantom{', cursor)) return null
+
+  const contentStart = cursor + '\\phantom{'.length
+  cursor = contentStart
+
+  let depth = 1
+
+  while (cursor < source.length) {
+    const char = source[cursor]
+
+    if (char === '\\') {
+      cursor += 2
+      continue
+    }
+
+    if (char === '{') depth += 1
+    if (char === '}') depth -= 1
+
+    if (depth === 0) {
+      const content = source.slice(contentStart, cursor)
+      cursor += 1
+
+      while (source[cursor] === ' ' || source[cursor] === '\t') cursor += 1
+
+      return source[cursor] === '$'
+        ? { content, end: cursor + 1 }
+        : null
+    }
+
+    cursor += 1
+  }
+
+  return null
+}
+
+function phantomRendererPlugin(md: any): void {
+  md.block.ruler.before('paragraph', 'phantom_block', (state: any, startLine: number, _endLine: number, silent: boolean) => {
+    const start = state.bMarks[startLine] + state.tShift[startLine]
+    const end = state.eMarks[startLine]
+    const line = state.src.slice(start, end).trim()
+    const expression = readPhantomExpression(line)
+
+    if (!expression || expression.end !== line.length) return false
+    if (silent) return true
+
+    const token = state.push('phantom_block', 'div', 0)
+    token.block = true
+    token.content = expression.content
+    token.map = [startLine, startLine + 1]
+
+    state.line = startLine + 1
+    return true
+  })
+
+  md.inline.ruler.before('text', 'phantom_inline', (state: any, silent: boolean) => {
+    const expression = readPhantomExpression(state.src, state.pos)
+
+    if (!expression) return false
+    if (!silent) {
+      const token = state.push('phantom_inline', 'span', 0)
+      token.content = expression.content
+    }
+
+    state.pos = expression.end
+    return true
+  })
+
+  md.renderer.rules.phantom_block = (tokens: any[], index: number) =>
+    `<div class="llm-phantom" aria-hidden="true">${md.utils.escapeHtml(tokens[index].content)}</div>\n`
+
+  md.renderer.rules.phantom_inline = (tokens: any[], index: number) =>
+    `<span class="llm-phantom" aria-hidden="true">${md.utils.escapeHtml(tokens[index].content)}</span>`
+}
+
 export default defineConfig({
   srcDir,
   title: 'Maturita 2026',
@@ -372,7 +453,10 @@ export default defineConfig({
   },
   markdown: {
     html: false,
-    lineNumbers: true
+    lineNumbers: true,
+    config(md) {
+      md.use(phantomRendererPlugin)
+    }
   },
   themeConfig: {
     logo: '/logo.svg',
