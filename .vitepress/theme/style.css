@@ -114,6 +114,7 @@
 
 .vp-doc img {
   display: block;
+  max-width: 100%;
   max-height: 560px;
   margin: 20px auto;
   border: 1px solid var(--vp-c-divider);
@@ -122,9 +123,18 @@
 }
 
 .vp-doc table {
-  display: table;
+  display: block;
   width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+  white-space: nowrap;
   font-size: 15px;
+  -webkit-overflow-scrolling: touch;
+}
+
+.vp-doc th,
+.vp-doc td {
+  min-width: max-content;
 }
 
 .vp-doc tr:nth-child(2n) {
@@ -191,6 +201,48 @@
 .vp-doc div[class*="language-"] {
   border: 1px solid var(--vp-c-divider);
   border-radius: 8px;
+  max-width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.vp-doc div[class*="language-"] pre,
+.vp-doc div[class*="language-"] code {
+  min-width: 0;
+  max-width: 100%;
+}
+
+.vp-doc :not(pre) > code {
+  overflow-wrap: anywhere;
+}
+
+@media (max-width: 767px) {
+  .vp-doc {
+    font-size: 16px;
+  }
+
+  .dark .vp-doc {
+    font-size: 17px;
+  }
+
+  .VPDoc .content {
+    min-width: 0;
+  }
+
+  .VPDoc .content-container {
+    min-width: 0;
+    max-width: 100%;
+  }
+
+  .vp-doc table {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .vp-doc div[class*="language-"] {
+    margin-right: 0;
+    margin-left: 0;
+  }
 }
 
 .vp-doc .llm-phantom {
