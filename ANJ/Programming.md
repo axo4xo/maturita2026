@@ -1,3 +1,4 @@
+# Programming
 ### 1. The Boot Process (How it all starts)
 
 - **BIOS (Basic Input/Output System) / UEFI:** This is the first firmware that runs when you turn on the computer. It is stored directly on the motherboard.

@@ -1,3 +1,4 @@
+# Graphics
 ### 1. The Purpose of Graphics
 
 - **Data Visualization:** Graphics are primarily used for the visualization of given data. If you need to present complex information, you need pictures.

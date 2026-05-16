@@ -1,3 +1,4 @@
+# Safety & Reliability
 ### 1. Physical Safety & Ergonomics (Fyzická bezpečnost)
 
 - **Electrical Safety:** Always turn off the computer and **disconnect it from the mains** (power source) before opening the case or disassembling hardware.

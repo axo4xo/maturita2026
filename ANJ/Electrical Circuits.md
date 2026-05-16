@@ -1,3 +1,4 @@
+# Electrical Circuits
 ### 1. The Basic Concept
 
 - **Electrical Circuit:** A closed path or loop that allows electricity (electrons) to flow.

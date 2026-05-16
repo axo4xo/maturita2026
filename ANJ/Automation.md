@@ -1,3 +1,4 @@
+# Automation 
 ### 1. Definition and Basic Examples
 
 - **What is an automated system?** It is a system designed to operate and control processes with minimal or no continuous human intervention.

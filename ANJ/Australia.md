@@ -1,3 +1,4 @@
+# Australia 🇦🇺
 ### 1. Basic Facts & History
 
 - **Geography:** Located in the south-eastern hemisphere. Surrounded by the Indian Ocean, the Pacific Ocean, and the Tasman Sea.

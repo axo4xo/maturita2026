@@ -1,3 +1,4 @@
+# Canada 🇨🇦
 ### 1. Basic Demographics & Geography
 
 - **Area:** Approximately 10 million square kilometres (the second largest country in the world).

@@ -1,3 +1,4 @@
+# Networks
 ### 1. Basic Concept & Types of Networks (Základy a dělení podle velikosti)
 
 Vysvětli, proč vůbec sítě máme (sdílení dat a hardwaru) a hned je rozděl podle rozsahu. To je absolutní školní základ.

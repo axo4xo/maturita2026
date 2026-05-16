@@ -1,3 +1,4 @@
+# Educational Systems
 ### 1. The Czech Educational System (The Baseline)
 
 - **Ages 3–6:** Nursery school / Kindergarten.
