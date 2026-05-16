@@ -329,10 +329,12 @@ function normalizeSectionDirectoryLinks(source: string): string {
   )
 
   return source.replace(
-    /(\[[^\]\n]+\]\()(\.\/)?([A-Za-z0-9_-]+)\/(\))/g,
+    /(\[[^\]\n]+\]\()(\.\/)?([A-Za-z0-9_-]+)\/?([)#?])/g,
     (match, prefix: string, relativePrefix: string | undefined, section: string, suffix: string) => {
       const route = sectionRoutes.get(section)
-      return route ? `${prefix}${route}${suffix}` : match
+      if (!route) return match
+
+      return `${prefix}${route}${suffix}`
     }
   )
 }
