@@ -3,9 +3,10 @@
 
 ## 📂 Otázky v repu
 
-- [ANJ](./ANJ) — Anglický jazyk
 - [DAT](./DAT) — Data a kódování
 - [SWI](./SWI) — Softwarové inženýrství
+- [CJL](./CJL) — Český jazyk a literatura
+- [ANJ](./ANJ) — Anglický jazyk
 
 ## 📚 Ostatní materiály
 - 💻 [SWI](https://axo4xo.notion.site/swi)
