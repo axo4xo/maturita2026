@@ -83,14 +83,17 @@
 }
 
 .dark .vp-doc table,
-.dark .vp-doc code,
-.dark .vp-doc pre,
 .dark .vp-doc .custom-block,
-.dark .vp-doc div[class*="language-"],
 .dark .VPNav,
 .dark .VPSidebar,
 .dark .VPDocAside {
   font-family: var(--vp-font-family-base);
+}
+
+.dark .vp-doc code,
+.dark .vp-doc pre,
+.dark .vp-doc div[class*="language-"] {
+  font-family: var(--vp-font-family-mono);
 }
 
 .vp-doc h1 {
