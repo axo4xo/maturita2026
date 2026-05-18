@@ -7,6 +7,6 @@ export default {
   extends: DefaultTheme,
   Layout: () =>
     h(DefaultTheme.Layout, null, {
-      'doc-top': () => h(DownloadMd)
+      'doc-before': () => h(DownloadMd)
     })
 }
