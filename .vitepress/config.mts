@@ -431,6 +431,15 @@ export default defineConfig({
   lastUpdated: true,
   ignoreDeadLinks: true,
   srcExclude: ['_podklady/**', 'node_modules/**'],
+  transformPageData(pageData) {
+    const rel = pageData.relativePath
+    if (!rel || !rel.endsWith('.md')) return
+
+    pageData.frontmatter = {
+      ...pageData.frontmatter,
+      mdDownload: `/${rel}`
+    }
+  },
   vite: {
     plugins: [
       {
@@ -448,6 +457,22 @@ export default defineConfig({
         writeBundle() {
           for (const [section] of sectionEntries) {
             copyStaticAssets(join(contentDir, section), join(configDir, 'dist', section))
+          }
+        }
+      },
+      {
+        name: 'maturita-source-markdown',
+        apply: 'build',
+        writeBundle() {
+          const distDir = join(configDir, 'dist')
+
+          for (const source of markdownFilesDeep(contentDir)) {
+            const rel = relativeMarkdownPath(source)
+            const dest = routeRewrites[rel] ?? rel
+            const target = join(distDir, dest)
+
+            mkdirSync(dirname(target), { recursive: true })
+            copyFileSync(source, target)
           }
         }
       }
