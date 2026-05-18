@@ -69,9 +69,13 @@ Miloš se ale pořád trápí svým „selháním“. V této době ho Hubička 
 
 Tím se začne měnit i jeho vztah ke světu. Už není jen pasivní pozorovatel. Na stanici má projet důležitý německý **muniční vlak** – „ostře sledovaný“ transport s vojenskou prioritou. Miloš dostane úkol shodit nálož na konkrétní vagon. V závěru se ale ukáže typická hrabalovská ironie a absurdita války: děj nesměřuje k čistému, patetickému hrdinství, ale ke zmatku a osamělé smrti.
 
-Miloš vyleze na **návěstidlo nad tratí** a ve chvíli, kdy pod ním projíždí muniční vlak, **shodí časovanou nálož** na jeden z vagonů. Z německého strážního vagonu ho ale spatří **německý strážce** a vystřelí na něj. Miloš je zasažen do břicha a padá dolů. Než padá, **stihne ze své služební pistole německého vojáka také zastřelit**. Oba spadnou do **příkopu vedle trati** a oba tam umírají vedle sebe.
+Miloš vyleze na **návěstidlo nad tratí** a ve chvíli, kdy pod ním projíždí muniční vlak, **shodí časovanou nálož** na jeden z vagonů. Z německého strážního vagonu ho ale spatří **německý strážce** a vystřelí. Miloš je střelen, padá. **Padne přímo na německého vojáka**, který volá „**Mutti! Mutti!**" (mámo!). Miloš mu **přiloží hlaveň pušky k oku a stiskne spoušť** – zabije ho. Voják ztichne, Miloš leží na něm a slyší, „jak do vojáka vniká klid a ticho".
 
-Závěrečná scéna je proslulá svou tichostí a absurditou: dva muži, kteří se nikdy neznali, leží mrtví v příkopu, zatímco vlak v dálce **exploduje**. Sabotáž se podařila. Hrabalova ironie spočívá v tom, že umírající Miloš a umírající Němec si v posledních chvílích vyměňují slova – sám Miloš si v té chvíli uvědomuje absurditu situace: dva mladí lidé, kteří se nikdy neviděli, se zabili kvůli válce, do které ani jeden nepatří. Sabotáž se tedy povedla, ale Milošova smrt nemá nic z patosu velkého hrdinského konce. Je to tichá, špinavá, téměř náhodná smrt mladíka v příkopu. Zrovna ve chvíli, kdy Miloš konečně dospěl, překonal svou nejistotu a dokázal jednat, o všechno přichází.
+Pak přichází nejslavnější závěrečný obraz celé knihy. Miloš krvácí, snaží se ještě **kapesníkem otřít krev z vojákova kabátu**. Z vojákova krku utrhne řetízek s **medailónem** – na jedné straně **zelený čtyřlístek**, na druhé nápis „**Bringe Glück**" (přináší štěstí). Miloš si uvědomí, že čtyřlístek **„nepřinesl štěstí ani tomu vojákovi, ani mně"**, a dochází k jádru celé Hrabalovy pointy: voják **„byl člověk jako já nebo pan výpravčí Hubička, taky neměl žádné vyznamenání, žádnou hodnost, a přece jsme jeden druhého přivedli ke smrti, ač jistě, kdybychom se někde potkali v civilu, možná, že bychom se měli rádi, pohovořili si"**.
+
+Pak se v dálce ozve **detonace** – muniční vlak vybuchuje, do nebe roste **hřibovitý oblak**, tlak vzduchu prochází krajinou, otřásá semaforem. Sabotáž se povedla. Ale Miloš se z toho už nemůže radovat. Otevře tuhnoucí dlaň mrtvého Němce a **vloží mu do ní čtyřlístek**. Pak ho drží za ruku a do poslední chvíle, než ztratí vědomí, opakuje slova vlakvedoucího (které slyšel od přivážených raněných Němců).
+
+Konec je proto silný právě tím **odmítnutím patosu**: žádné velké hrdinství, žádné vlastenecké prohlášení. Jen dva mladí muži, kteří by si v civilu možná byli přáteli, leží mrtví v příkopu – a jeden z nich do dlaně toho druhého vrací čtyřlístek štěstí, který „nepřinesl štěstí" ani jednomu z nich. Zrovna ve chvíli, kdy Miloš konečně dospěl, překonal svou nejistotu a dokázal jednat, o všechno přichází.
 
 Děj tedy není vystavěn jako klasická válečná hrdinská legenda. Hrabal naopak ukazuje, že hrdinství může vyrůst z člověka, který vůbec nepůsobí heroicky. Miloš neprochází proměnou jako velký bojovník od začátku, ale jako obyčejný kluk, který se nejprve musí vyrovnat sám se sebou. Teprve potom je schopný udělat skutečně významný čin.
 
@@ -119,12 +123,13 @@ Závěr je silný právě tím kontrastem: po celé novele sledujeme drobné tra
 ## Mini-tahák:
 
 - **Miloš Hrma** je mladý železniční elév za války, citlivý a nejistý.
-- Nejprve řeší hlavně **své sexuální selhání s Mášou**, kvůli kterému se pokusí o sebevraždu.
-- Po návratu na stanici sledujeme komické i absurdní dění, hlavně kolem **výpravčího Hubičky**.
-- **Viktoria Freie** Milošovi pomůže překonat jeho blok a zároveň ho spojí s odbojem.
-- Miloš se zapojí do sabotáže **ostře sledovaného německého vlaku**.
-- Akci splní, ale je zastřelen. Umírá jako člověk, který konečně našel odvahu a dospěl.
-- Hlavní pointa: z obyčejného, nejistého kluka se v mezní situaci stane skutečný hrdina.
+- Rodinné historky: **praděd Lukáš** (bubeník s rentou), **děd Vilém** (hypnotizér zabitý tankem 15. 3. 1939), **otec** (strojvedoucí v penzi).
+- Nejprve řeší hlavně **své sexuální selhání s Mášou** (ejaculatio praecox), kvůli kterému se pokusí o sebevraždu (žíly na zápěstí ve vaně, zachráněn).
+- Po návratu na stanici sledujeme komické i absurdní dění, hlavně kolem **výpravčího Hubičky** (razítka na zadku **Zdeničky Svaté**, vyšetřování radou **Zedníčkem**).
+- **Viktoria Freie** Milošovi pomůže překonat jeho blok a zároveň ho spojí s odbojem (přiveze časovanou nálož).
+- Miloš se zapojí do sabotáže **ostře sledovaného německého muničního vlaku**.
+- Vyleze na návěstidlo, shodí nálož, je postřelen německým strážcem, ale **stihne ho zabít puškou (rána do oka)**, padne na něj. Voják umírá s voláním „**Mutti! Mutti!**". Miloš mu sundá medailónek s čtyřlístkem a nápisem „**Bringe Glück**" (přináší štěstí), uvědomí si že **„nepřinesl štěstí ani jednomu z nich"**. Vlak v dálce vybuchuje (hřibovitý oblak). Miloš vrátí čtyřlístek do mrtvé dlaně Němce, drží ho za ruku a sám umírá vykrvácením.
+- Hlavní pointa: z obyčejného, nejistého kluka se v mezní situaci stane skutečný hrdina – ale Hrabal odmítá hrdinský patos. **Voják a Miloš jsou si v poslední chvíli rovni: dva mladí muži, kteří by si v civilu možná rozuměli.**
 
 ---
 
