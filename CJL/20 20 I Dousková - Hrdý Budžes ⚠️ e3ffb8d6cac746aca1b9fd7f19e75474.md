@@ -16,7 +16,7 @@
 
 ## Časoprostor
 
-- **Čas:** normalizační 70. léta; děj zabírá zhruba **jeden školní rok** a končí posledními dny školy a **stěhováním do Prahy**. Na konci knihy Helenka říká, že se v sobotu stěhuje, a krátce nato jde „naposledy do školy“.
+- **Čas:** normalizační 70. léta; děj zabírá zhruba **jeden školní rok** a končí posledními dny školy a **stěhováním do Prahy** (do rodinného bytu po Helenčiných příbuzných). Na konci knihy Helenka říká, že se v sobotu stěhuje, a krátce nato jde „naposledy do školy“.
 - **Místo:** především fiktivní okresní město **Ničín**, kde Helenka chodí do školy a kde její rodina žije kolem divadla; dál se objevují **Zákopy** u babičky a dědy a také **Praha**, kam rodina směřuje. Text přímo uvádí adresu v Ničíně, opakovaně zmiňuje Zákopy a na konci i plánované stěhování do Prahy.
 - Atmosféra je dvojí: na jedné straně dětský svět školy, baletu, kamarádů a fantazie, na druhé straně dusivá realita normalizace, kde jsou všude Lenin, Gottwald, VŘSR, jiskřičky, „soudruzi“ a ideologické fráze.
 
@@ -42,7 +42,7 @@ Kniha je složená z epizod, ale postupně přituhuje. Objevují se motivy smrti
 
 Důležitá je i epizoda s dopisem od **Freisteina** a se „sociální pracovnicí“. Helenka objeví dopis, bojí se, že se kvůli němu stane něco strašného, a nakonec ho Kačence ukáže až cestou na vlak. Kačenka reaguje chladněji, než Helenka čeká, což je pro ni snad ještě děsivější než křik. Tohle je přesně moment, kdy dítě cítí velké nebezpečí, ale význam celé situace chápe jen napůl.
 
-Ke konci se začnou jednotlivé linky uzavírat. Kačenka jede do Prahy kvůli dalšímu soudu s divadlem, pak se objeví telefon z **divadla v Šumperku** a je zřejmé, že se rodina bude stěhovat. Helenka jde naposledy do školy, loučí se s Ničínem a nakonec v čítance zjistí, že **Hrdý Budžes nebyl žádný hrdina**, ale jen zkomolené „**hrdý buď, žes**“. Tím se uzavírá jedna z hlavních linií knihy: dítě přichází o další iluzi, podobně jako dřív o Ježíška nebo jiné jistoty. Závěr proto není klasicky veselý, spíš hořce osvobozující.
+Ke konci se začnou jednotlivé linky uzavírat. Oba rodiče jsou pod tlakem režimu nuceni z ničínského divadla odejít a rodina se rozhodne odstěhovat **do Prahy**, do rodinného bytu. Helenka jde naposledy do školy, loučí se s Ničínem a nakonec v čítance zjistí, že **Hrdý Budžes nebyl žádný hrdina**, ale jen zkomolené „**hrdý buď, žes**“. Tím se uzavírá jedna z hlavních linií knihy: dítě přichází o další iluzi, podobně jako dřív o Ježíška nebo jiné jistoty. Závěr proto není klasicky veselý, spíš hořce osvobozující – Helenka je ze stěhování paradoxně nadšená, protože Praha pro ni znamená velký svět a útěk z ničínského provincialismu.
 
 ## Charakteristika postav
 
@@ -68,12 +68,15 @@ Ke konci se začnou jednotlivé linky uzavírat. Kačenka jede do Prahy kvůli d
 - humor, u kterého je čtenáři zároveň úzko → základní tragikomický efekt knihy.
 - závěr s čítankou a odhalením „hrdý buď, žes“ → klíčové odkouzlení a pointa.
 
-## Co bych v tvém původním textu upravil
+## Podobní autoři (téma, období)
 
-- **„humoristická próza (tragikomická)”** je v pohodě, ale ještě přesnější je dodat, že jde o **epizodicky stavěnou novelu / kratší román** s dětským vypravěčem
-- **„Ničín = Příbram“** bych změnil na opatrnější formulaci: **Ničín je fiktivní město zjevně inspirované Příbramí**, autorka sama ale zdůrazňuje stylizaci a literární licenci.
-- **„Helenka Freisteinová (neoficiálně Součková)”** bych zpřesnil: právně se jmenuje **Freisteinová**, ale sama se identifikuje hlavně s Kačenkou a Pepou a chce být ve škole vedená jako **Součková**.
-- **„doba temna v kultuře“** bych nahradil konkrétněji: **kádrování, soud s divadlem, ideologické inscenace, opatrnost ve škole i v práci**. To je literárně silnější a méně školometské.
+- **Petr Šabach (1951–2017)** – česká próza po roce 1989, vzpomínkové normalizační příběhy s humorem; **Hovno hoří**, **Občanský průkaz**, **Šakalí léta**. Stejná generace, podobný pohled na normalizační absurditu, často přes mužský / dospělý vzpomínkový rámec.
+- **Michal Viewegh (* 1962)** – současná česká próza, humor a ironie; **Báječná léta pod psa** (1992) – tematicky velmi blízké, dětský/mladistvý pohled na normalizaci, otec problémový vůči režimu, podobná tragikomika.
+- **Ota Pavel (1930–1973)** – vzpomínkové autobiografické povídky o dětství (**Smrt krásných srnců**, **Jak jsem potkal ryby**); jiná doba (Protektorát a 50. léta), ale podobně dětský / vzpomínkový pohled na zvláštní rodinu v těžké době.
+- **Bohumil Hrabal** – tragikomický pohled na obyčejné lidi, humor a smutek pohromadě, spojení banality a velkých dějin.
+- **Mark Twain – Dobrodružství Huckleberryho Finna**: dětský vypravěč, který svým doslovným chápáním nechtěně odhaluje pokrytectví dospělých – stejný literární princip jako u Helenky.
+- **Roald Dahl – Matylda**: dětská hrdinka v nepříjemném dospělém světě, který nechápe – podobná hlavní postava, jiná země a žánr.
+- **Jaroslav Hašek – Osudy dobrého vojáka Švejka**: princip „naivního“ vypravěče, který svou doslovností odhaluje absurditu okolo, je v české literatuře hašekovský archetyp.
 
 ## Co říct u zkoušení, aby bylo vidět, že to fakt znáš
 

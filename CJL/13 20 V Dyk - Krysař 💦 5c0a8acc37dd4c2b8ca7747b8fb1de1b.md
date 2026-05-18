@@ -92,6 +92,29 @@ Nejdůležitější je nevylíčit **Krysaře** jen jako příběh o pomstě za 
 
 ### Podobní autoři (téma, období):
 
-- **Karel Hlaváček** – česká moderna, symbolismus, dekadence, tísnivá atmosféra, hudebnost, motiv smrti
-- **Otokar Březina** – symbolismus, filozofická a obrazná literatura, duchovní přesah, práce se symbolem
-- **Fráňa Šrámek** / **S. K. Neumann** / **František Gellner** / **Karel Toman** – generačně blízký okruh buřičů, i když stylově jsou jiní než Dyk
+**Česká moderna a generace anarchistických buřičů (přelom 19./20. století):**
+
+- **Karel Hlaváček (1874–1898)** – česká **dekadence a symbolismus**, tísnivá atmosféra, hudebnost, motiv smrti; **Pozdě k ránu**, **Mstivá kantiléna**.
+- **Otokar Březina (1868–1929)** – **symbolismus**, filozofická a obrazná literatura, duchovní přesah, mystika.
+- **Fráňa Šrámek (1877–1952)** – generační vrstevník Dyka, podobně **anarchistický buřič**; **Modrý a rudý**, **Stříbrný vítr**.
+- **S. K. Neumann (1875–1947)** – **anarchista**, později komunista, civilismus.
+- **František Gellner (1881–1914)** – buřičský sarkasmus, satira; **Po nás ať přijde potopa**.
+- **Karel Toman (1877–1946)** – generační vrstevník, **Měsíce**, lyrika.
+- **Petr Bezruč (1867–1958)** – **Slezské písně**; sociální a buřičský tón, jiný region (Slezsko).
+
+**Modernistický mýtus / symbolistická próza:**
+
+- **Edgar Allan Poe (1809–1849)** – americký romantismus, gotika, tísnivá atmosféra, smrt; vzdálenější předchůdce, ale podobná atmosféra.
+- **Maurice Maeterlinck** – belgický symbolismus, symbolistická dramata (**Modrý pták**).
+- **Hans Christian Andersen, bratři Grimmové** – romantická pohádka a pověst, ze které Dyk čerpá.
+
+**Téma davu a manipulace:**
+
+- **Elias Canetti – Masa a moc** (až 1960, ale teoreticky uchopí to, co Dyk ukazuje literárně).
+- **Karel Čapek – Bílá nemoc, Válka s mloky** – masová manipulace, ale jiný styl a doba.
+
+**Předloha:**
+
+- **Středověká německá pověst o krysaři z Hamelnu** (Pied Piper of Hamelin) – z konce 13. století; vyšla v různých verzích u **bratří Grimmů** (1816) a u **Roberta Browninga** (báseň 1842). Dyk z ní vychází, ale dělá z ní symbolický příběh české moderny.
+
+⚠️ **Důležité pro maturitu:** Dyk = **česká moderna, generace 1900 (buřiči)**, přelom 19./20. století. **Krysař** kompozičně i jazykem patří k **symbolismu a novoromantismu**, NIKOLIV k realismu. Není to ani modernistická psychologická próza jako Kafka.

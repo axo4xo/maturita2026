@@ -91,3 +91,15 @@ Před smrtí Hamlet předává pravdu **Horaciovi** a vysloví podporu **Fortinb
 Nejdůležitější je neudělat z Hamleta jen příběh „kluk váhá s pomstou“. Lepší je říct, že Hamlet **neváhá jen ze slabosti**, ale protože chce jistotu pravdy a zároveň vidí, že pomsta sama ho může morálně zničit. Proto si ověřuje Claudiovu vinu přes divadlo a proto ho nezabije ani ve chvíli, kdy by to fyzicky šlo snadno. 
 
 Druhá silná věc je, že hra není jen rodinná tragédie, ale i **tragédie státu**. Rozpad rodiny, špehování, lhaní a vražda na dvoře jdou ruku v ruce s politickou slabostí Dánska. Proto na konci přichází Fortinbras a přebírá moc: po osobní katastrofě zůstane i prázdný stát.
+
+## Podobní autoři (téma, období)
+
+- **Christopher Marlowe (1564–1593)** – Shakespearův současník, anglická renesance, tragédie velkých postav (**Doktor Faustus**, **Tamerlán**); zavedl blankvers do anglického dramatu.
+- **Sofokles (cca 496–406 př. n. l.)** – antická řecká tragédie; **Král Oidipús** je archetyp tragédie poznání a osudu, srovnatelný s Hamletovou snahou odhalit pravdu o otcově smrti.
+- **Pierre Corneille a Jean Racine** – francouzský klasicismus 17. století; tragédie cti a vášně (**Cid**, **Faidra**), ale s pevnými pravidly tří jednot, která Shakespeare ignoruje.
+- **Johann Wolfgang von Goethe – Faust (1808/1832)** – německý preromantismus / klasicismus; podobně velký monolog o smyslu existence a poznání.
+- **Friedrich Schiller** – německý preromantismus, drama velkých postav a morálních konfliktů (**Loupežníci**, **Don Carlos**).
+- **Henrik Ibsen** – pozdější (19. stol.) moderní drama o rodinném rozkladu a skryté vině; psychologicky se posouvá k tomu, co u Hamleta začalo.
+- **Fjodor Michajlovič Dostojevskij – Bratři Karamazovi**: téma otcovraždy, viny a synovských vztahů, vnitřních pochybností (i když je to román, ne drama).
+
+⚠️ **Důležité odlišení – nezaměňovat:** Shakespeare = **anglická renesance, přelom 16./17. století** (alžbětinské a jakubovské divadlo, blankvers, ignorování antických pravidel). **Klasicistní** Corneille a Racine jsou o století později a píší jinak (jednoty místa, času, děje).

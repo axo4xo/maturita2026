@@ -104,3 +104,14 @@ Na závěr se u hrobky sejdou zástupci obou rodů, kníže i bratr Vavřinec. P
 Nejdůležitější je neříct jen, že je to „tragédie o velké lásce“. To je pravda asi na úrovni hrnečku se srdíčkem. Lepší je říct, že Shakespeare ukazuje **střet mladého, spontánního citu s násilným světem rodové cti a staré nenávisti**. Romeo a Julie neumírají jen kvůli lásce, ale hlavně kvůli prostředí, ve kterém je láska od začátku ohrožená. 
 
 Druhá chytrá věc je, že hra není od začátku jen temná. Naopak první část má energii, humor, slovní lehkost a skoro komediální rytmus. O to tvrdší je pak přechod k tragédii po Mercutiově smrti. A právě proto ten konec tak bolí: nejdřív to vypadá jako příběh mladé lásky, ale postupně se ukáže, že celý svět kolem ní je proti ní nastavený.
+
+## Podobní autoři (téma, období)
+
+- **Christopher Marlowe (1564–1593)** – Shakespearův současník, anglická renesance; tragédie a milostné motivy (**Hero a Leander**).
+- **Dante Alighieri (1265–1321) – Božská komedie**: Itálie, středověk, motiv tragické nenaplněné lásky (Paolo a Francesca v *Pekle*).
+- **Francesco Petrarca (1304–1374)** – italská renesance, sonety o lásce k Lauře, **petrarkismus** (idealizovaná láska); Shakespeare se ve hře petrarkismu **vysmívá** (Romeo na začátku) i ho používá (balkónová scéna).
+- **Giovanni Boccaccio – Dekameron**: italská renesance, příběhy o lásce, intrice a vášni; obecné renesanční ovzduší.
+- **Karel Hynek Mácha – Máj (1836)**: český romantismus, mladí milenci, osudovost, smrt (i když o staletí později a v jiném žánru).
+- **Pierre Corneille – Cid (1637)**: francouzský klasicismus 17. století, milenci z nepřátelských rodů, čest vs. láska – stejné základní téma, ale klasicistně sevřené.
+
+⚠️ **Důležité odlišení – nezaměňovat:** Shakespeare = **anglická renesance, přelom 16./17. století** (alžbětinské divadlo). Není to klasicismus a neřídí se pravidly tří jednot.

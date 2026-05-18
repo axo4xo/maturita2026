@@ -13,7 +13,7 @@
 - **Molière**, vlastním jménem **Jean-Baptiste Poquelin**, byl francouzský dramatik, herec a vedoucí divadelní společnosti, považovaný za největšího autora francouzské komedie. Žil v letech **1622–1673** a působil hlavně ve Francii za vlády **Ludvíka XIV.**
 - Patří k vrcholům **francouzského klasicismu** 17. století. Ve svých hrách často kritizuje pokrytectví, snobství, přetvářku, fanatismus nebo lakotu.
 - Další známá díla: **Tartuffe**, **Misantrop**, **Zdravý nemocný**.
-- **Lakomec** byl poprvé uveden **9. září 1668**, vyšel tiskem **1669** a čerpá ze starší antické komedie, konkrétně z Plautovy Komedii o hrnci.
+- **Lakomec (L'Avare)** byl poprvé uveden **9. září 1668** v pařížském Palais-Royal, vyšel tiskem **1669** a čerpá ze starší antické komedie, konkrétně z **Plautovy Komedie o hrnci (Aulularia)**. Postava lakomce má i jméno spojené s tématem – řecké slovo „harpagos“ znamená „loupežník / chamtivec“.
 
 ## Téma a motivy
 
@@ -99,7 +99,15 @@ A druhá dobrá věc: závěr sice působí šťastně, protože mladí dostanou
 
 ### Podobní autoři (téma, období)
 
-- **Plautus** – antická komedie, motiv lakomce a pokladu; přímá předloha.
-- **Carlo Goldoni** – komedie charakterů a měšťanské společnosti
-- **Pierre de Marivaux** – francouzská komedie, vztahy, sňatek, společenské role
-- **Beaumarchais** – společenská satira, intriky, komedie mravů
+⚠️ **Důležité rozlišení – nezaměňovat:**
+
+- **Molière (1622–1673)** – **francouzský klasicismus, 17. století**, vláda Ludvíka XIV. Komedie charakteru („jedna pokřivená vlastnost dovedená do extrému“ – lakota, pokrytectví, misantropie). Postavy jsou typy, ne psychologické portréty. Píše v Paříži pro dvorské publikum.
+- **Carlo Goldoni (1707–1793)** – **italský**, **18. století (osvícenství / rokoko)**, působil v Benátkách a Paříži. Reformátor commedie dell'arte: nahradil improvizaci a masky pevně napsaným textem a realističtějšími měšťanskými charaktery. Komedie charakterů a měšťanské společnosti – ale o **století později** než Molière, v jiné zemi a v jiném literárním kontextu. Hlavní díla: **Sluha dvou pánů**, **Mirandolina (Hostinská)**.
+
+**Stručné mnemotechnické rozlišení:** Molière = **Francie, 17. stol., klasicismus**. Goldoni = **Itálie, 18. stol., osvícenství, reforma commedie dell'arte**.
+
+**Další srovnatelní autoři:**
+- **Plautus (cca 254–184 př. n. l.)** – antická římská komedie; v komedii **Komedie o hrnci (Aulularia)** vystupuje lakomý stařec Euclio, jehož postavu si Molière přímo přejal jako předlohu Harpagona.
+- **Pierre de Marivaux (1688–1763)** – francouzská komedie 18. století, jemnější psychologie vztahů, lásky, sňatku a společenských rolí (tzv. „marivaudage“).
+- **Pierre-Augustin Caron de Beaumarchais (1732–1799)** – francouzská komedie konce 18. století, společenská satira, intriky (**Lazebník sevillský**, **Figarova svatba**); kritika šlechty.
+- **William Shakespeare (1564–1616)** – angl. renesance, postava lichváře Shylocka v **Kupci benátském** je další obraz chamtivosti, ale psychologicky složitější než typový Harpagon.

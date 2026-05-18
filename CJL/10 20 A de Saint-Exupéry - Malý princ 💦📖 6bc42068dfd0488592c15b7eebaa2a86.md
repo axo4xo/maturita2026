@@ -101,3 +101,27 @@ Malý princ se pak rozhodne vrátit ke své růži. Nechává se **uštknout had
 - **Liška** – „správně vidíme jen srdcem“, odpovědnost za to, co si připoutáme.
 - **Studna a voda** – hledání podstatného, duchovní naplnění.
 - **Had a závěr** – odchod / návrat, nejednoznačná smrt podaná symbolicky.
+
+## Podobní autoři (téma, období)
+
+**Filozofická pohádka / alegorie:**
+
+- **Lewis Carroll – Alenka v říši divů (1865)**: dětský pohled v absurdním světě, hra s logikou, obrácená realita.
+- **J. M. Barrie – Petr Pan (1904)**: dětství a dospělost, idealizace dětského pohledu.
+- **C. S. Lewis – Letopisy Narnie (1950–56)**: alegorie, dětský pohled, duchovní podtext.
+- **Michael Ende – Nekonečný příběh (1979)**: dětská fantasie s filozofickým a melancholickým podtextem.
+- **Hermann Hesse – Siddhártha (1922)**, **Stepní vlk**: filozofická próza o hledání smyslu, duchovních cestách.
+
+**Francouzská literatura 1. poloviny 20. století:**
+
+- **André Gide (1869–1951)** – francouzský prozaik, **Nobelova cena 1947**; existenciální tázání, hledání autentického života.
+- **Albert Camus (1913–1960)** – francouzský existencialismus; **Cizinec**, **Mor**. Bez bezprostřední tematické podoby, ale stejné období a podobné otázky o smyslu a samotě.
+- **Jean-Paul Sartre** – francouzský existencialismus, **Nevolnost**; otázka svobody a smyslu.
+
+**České a obecné paralely:**
+
+- **Karel Čapek – Devatero pohádek**, **Dášeňka**: pohádkové prózy, ale spíš pro děti; Čapek a Saint-Exupéry sdílí humanistický optimismus.
+- **Richard Bach – Jonathan Livingston Racek (1970)**: filozofická novela-alegorie, hledání smyslu, podobný literární útvar.
+- **Jostein Gaarder – Sofiin svět (1991)**: filozofie podaná čtivě, pro mladší čtenáře.
+
+⚠️ **Pro maturitu:** *Malý princ* je **filozofická pohádka / alegorie**, ne fantasy. Vznikl **v New Yorku roku 1943 během 2. světové války**, kdy byl Saint-Exupéry v americkém exilu. Saint-Exupéry zemřel jako **válečný pilot** (mise nad Středozemním mořem 31. 7. 1944) – jeho život i smrt jsou neoddělitelně spojené s létáním, což se odráží i v rámcovém příběhu letce.

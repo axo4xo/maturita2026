@@ -141,8 +141,17 @@ Všechno jsou karikatury
 
 ## Podobní autoři (téma, období)
 
-- **Charles Dickens** - kritický realismus
-- **Honoré de Balzac** – společenská kritika, typizace postav, odhalování kariérismu a pokrytectví.
+- **Alexandr Sergejevič Puškin (1799–1837)** – ruský romantismus; Pushkin Gogolovi dal **náměty** k Revizorovi i k Mrtvým duším. Sám psal **Evžena Oněgina** a **Pikovou dámu**.
+- **Michail Jurjevič Lermontov (1814–1841)** – ruský romantismus, společenská kritika; **Hrdina naší doby**.
+- **Fjodor Michajlovič Dostojevskij (1821–1881)** – ruský realismus; psychologická hloubka, kritika ruské společnosti. Sám se k Gogolovi přiznával: **„Všichni jsme vyšli z Gogolova Pláště.“**
+- **Lev Nikolajevič Tolstoj** – ruský realismus 19. století; širší společenský záběr.
+- **Charles Dickens** – anglický kritický realismus 19. století; satirická kritika institucí (úřady, soudy, sirotčince), galerie typizovaných figurek.
+- **Honoré de Balzac** – francouzský realismus 19. století; **Lidská komedie** jako velký obraz společnosti, kariérismus, peníze, pokrytectví.
+- **Jaroslav Hašek – Osudy dobrého vojáka Švejka**: ironizace rakouského byrokratického a vojenského aparátu, „šveikování“ je v jistém smyslu rakouský protějšek Chlestakovova „úspěchu“.
+- **Karel Havlíček Borovský – Křest svatého Vladimíra, Tyrolské elegie**: česká obrozenecká satira, ironický pohled na úřady a moc; podobné období jako Gogol.
+- **Molière** – francouzská klasicistní komedie 17. století; jiný styl (komedie charakteru), ale příbuzná metoda – jedna lidská slabost dovedena do extrému.
+
+⚠️ **Důležité odlišení – nezaměňovat:** Gogol = **ruský realismus s prvky grotesky a satiry, 1. polovina 19. století**. Je to současník Mácha, **přítel Puškina**, dílo z roku **1836** (definitivní 1842).
 
 ## Co říct u zkoušení, aby bylo vidět, že to fakt znáš
 

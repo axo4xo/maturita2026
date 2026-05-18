@@ -21,10 +21,12 @@
 
 ### Autor
 
-- **Karel Jaromír Erben**
-- český básník, historik, archivář a sběratel lidové slovesnosti
-- patří do **české literatury národního obrození** (od konce 18. do poloviny 19. století)
-- jeho tvorba souvisí s **romantismem**, ale silně čerpá z **folkloru, lidové slovesnosti a národní tradice**
+- **Karel Jaromír Erben (1811–1870)**
+- český básník, historik, archivář (archivář města Prahy od 1851), sběratel lidové slovesnosti, překladatel
+- patří do **vrcholné fáze českého národního obrození** (Erben, Mácha, Tyl, Němcová – generace 1830/40)
+- jeho tvorba souvisí s **romantismem**, ale silně čerpá z **folkloru, lidové slovesnosti a národní tradice** (oproti Máchovi je mnohem víc spojený s lidovou tradicí než s individuálním romantismem)
+- **Kytice** byla jeho jediná básnická sbírka – pracoval na ní **desetiletí** (zhruba 1820/30–1853)
+- jako sběratel vydal **České písně národní** a **Prostonárodní české písně a říkadla** (1862–1864)
 - typické motivy:
     - vina
     - trest
@@ -295,9 +297,22 @@ Závěrečná skladba už není rodinná balada v úzkém smyslu, ale široce ro
 - jeho poetika je blízká **romantismu**, ale zároveň staví na **mravním řádu a folklorním základu**
 - Kytice patří k nejvýznamnějším dílům české poezie 19. století
 
-### Podobní autoři
+### Podobní autoři (téma, období)
 
-- **Božena Němcová** – lidová tradice, pohádky, národní prostředí
-- **Karel Hynek Mácha** – romantismus, osudovost, vina a trest
-- **Jan Neruda** – pozdější období, ale podobný zájem o české prostředí a člověka
-- **František Ladislav Čelakovský** – folklor, lidová slovesnost, národní tradice
+**Česká generace národního obrození (1830–1860):**
+
+- **Karel Hynek Mácha (1810–1836) – Máj**: český **romantismus**, individualistická lyrika; osudovost, vina a trest, tragický hrdina (Vilém). Mácha je o rok mladší než Erben a jejich tvorba se časově překrývá.
+- **Karel Jaromír Erben (1811–1870)** – romantik, ale **folklórní směr**, ne individualistický jako Mácha.
+- **Božena Němcová (1820–1862) – Babička, pohádky**: lidová tradice, idealizace venkova, sběratelka pohádek.
+- **František Ladislav Čelakovský (1799–1852) – Ohlas písní ruských, Ohlas písní českých**: folklorní inspirace, „ohlasová poezie“.
+- **Josef Kajetán Tyl (1808–1856) – Strakonický dudák, Fidlovačka**: dramatik národního obrození, autor textu hymny.
+
+**Zahraniční romantici se zájmem o folklor a baladu:**
+
+- **Bratři Grimmové** – německá sbírka pohádek, podobný projekt jako Erbenovy sběratelské práce.
+- **Adam Mickiewicz (Polsko) – Balady a romance**: polský romantismus, balady s folklorními a nadpřirozenými motivy.
+- **Alexandr Sergejevič Puškin – pohádky a balady**: ruský romantismus, lidová stylizace.
+- **Johann Wolfgang von Goethe – Král duchů (Erlkönig)**: archetypální německá balada, podobné motivy nadpřirozeného nebezpečí pro dítě.
+- **Friedrich Schiller** – německý preromantismus, dramatické balady.
+
+⚠️ **Důležité odlišení – nezaměňovat:** Erben = **česká folklórní větev romantismu, polovina 19. století (sbírka 1853)**. Není to obrozenecký „budovatel jazyka“ jako Jungmann nebo Dobrovský – ti jsou o generaci starší a působí jinak. Není to ani „velký romantik“ v máchovském smyslu (individualistický cit), ale **kolektivní hlas lidové tradice**.

@@ -129,8 +129,15 @@ V závěru se Dorian rozhodne zničit portrét, protože ho vnímá jako důkaz,
 
 ## Podobní autoři (téma, období)
 
-- **Charles Baudelaire** – dekadence, krása spojená se hříchem, fascinace zlem a estetikou úpadku.
-- **Edgar Allan Poe** – atmosféra hrůzy, fascinace krásou, smrtí a psychickým rozkladem.
+- **Charles Baudelaire (1821–1867) – Květy zla**: francouzský **dekadent / prokletý básník**, krása spojená se hříchem, fascinace zlem, estetika úpadku. Otec literární dekadence.
+- **Joris-Karl Huysmans (1848–1907) – À rebours / Naruby (1884)**: kanonický román francouzské dekadence; právě tato kniha bývá nejčastěji ztotožňována s **„žlutou knihou“**, kterou Lord Henry pošle Dorianovi.
+- **Edgar Allan Poe (1809–1849)** – americký romantismus, gotický horor, psychický rozklad; **Pád domu Usherů**, **Černý kocour**.
+- **Robert Louis Stevenson – Podivný případ doktora Jekylla a pana Hyda (1886)**: jiný viktoriánský román o **dvojí identitě** a skrytém zlu; přímá tematická paralela.
+- **Mary Shelley – Frankenstein (1818)**: gotický román o tvůrci a jeho výtvoru, který se mu vymkne z rukou.
+- **Arthur Rimbaud, Paul Verlaine** – francouzští prokletí básníci, dekadence a symbolismus konce 19. století.
+- **Karel Hlaváček, Otokar Březina** – česká dekadence a symbolismus přelomu 19./20. století.
+
+⚠️ **Důležité odlišení – nezaměňovat období:** Wilde = **anglická dekadence a estetismus konce 19. století** (fin de siècle, viktoriánská éra). Není to romantismus jako Poe ani realismus jako Dickens. Klíčové heslo: **„l'art pour l'art“** – umění pro umění.
 
 ## Co říct u zkoušení, aby bylo vidět, že to fakt znáš
 

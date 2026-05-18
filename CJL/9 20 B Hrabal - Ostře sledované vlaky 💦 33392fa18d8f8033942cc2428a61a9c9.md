@@ -11,14 +11,15 @@
 
 **Autor a literárněhistorický kontext:**
 
-- **Bohumil Hrabal** – významný český prozaik 20. století
-- **2. polovina 20. století**, hlavně česká literatura **60. let**
-- Hrabal často píše o **obyčejných lidech**, okraji společnosti, každodennosti, absurditě života, tělesnosti i náhodě
-- Pro jeho styl je typická **poetika všedního dne**, groteska, ironie, hospodská mluva, proud řeči, spojení humoru a smutku
+- **Bohumil Hrabal (1914–1997)** – významný český prozaik 20. století; narozen v Brně, dlouho žil v Praze (Libeň, kavárna **U Zlatého tygra**)
+- **2. polovina 20. století**, hlavně česká literatura **60. let** (zlatá éra české kultury, „pražské jaro“)
+- Hrabal vystudoval **právnickou fakultu UK**, ale po Únoru 1948 ji nepraktikoval; pracoval jako **dělník v Kladně, balič makulatury v Praze, výpravčí, kulisák**. Jeho civilní zaměstnání zásadně formují jeho prózu.
+- Často píše o **obyčejných lidech**, okraji společnosti, každodennosti, absurditě života, tělesnosti i náhodě
+- Pro jeho styl je typická **poetika všedního dne**, groteska, ironie, hospodská mluva, **proud řeči**, spojení humoru a smutku; vytvořil si vlastní termín **„pábitelé“** pro vypravěče, kteří „pábí“ = barvitě, fantasticky vyprávějí
 - Často zobrazuje postavy, které nejsou velkými hrdiny, ale přesto prožívají silné lidské situace
-- Další díla: **Obsluhoval jsem anglického krále, Postřižiny, Pábitelé, Příliš hlučná samota**
-- **Ostře sledované vlaky** vyšly v 60. letech a patří k jeho nejznámějším dílům
-- Dílo bylo také úspěšně **zfilmováno Jiřím Menzelem -** 1968 **Oscara za nejlepší cizojazyčný film**
+- Další díla: **Obsluhoval jsem anglického krále (1971/1989)**, **Postřižiny (1976)**, **Pábitelé (1964)**, **Příliš hlučná samota (1976/1989)**, **Slavnosti sněženek**
+- **Ostře sledované vlaky** vyšly poprvé roku **1965** v Československém spisovateli. Hrabal sám popisoval novelu jako „spletené lano“ ze dvou starších existenciálních textů: ***Kain* (1949)** a ***Fádní stanice* (1953)**. Pozdější přepracovaná verze materiálu **Kaina** vyšla 1968 v souboru **Morytáty a legendy** pod názvem **Legenda o Kainovi**.
+- Dílo bylo úspěšně **zfilmováno Jiřím Menzelem** roku **1966**; film získal **Oscara za nejlepší cizojazyčný film** v roce **1968** (až 2x do té doby získali Oscara čeští filmaři – druhý byl Kadár/Klos za Obchod na korze 1965)
 
 **Téma a motivy**
 
@@ -47,21 +48,30 @@
 
 Hlavním hrdinou a vypravěčem je **Miloš Hrma**, mladý elév na malé železniční stanici. Je citlivý, nejistý, nezkušený a spíš pasivní. Není to žádný klasický hrdina z vlastenecké legendy, ale obyčejný kluk, který víc než politiku řeší svoje osobní trapasy, sexualitu a to, jestli je „normální chlap“. Právě to je na novele důležité: válka běží v pozadí, ale Miloš ji zpočátku nevnímá jako velké historické poslání, spíš jako divnou a tíživou realitu kolem sebe.
 
-Na začátku se čtenář dozvídá i něco o Milošově rodině. Hrabal sem vkládá různé groteskní historky, třeba o dědečkovi fascinovaném hypnotizéry nebo o otci, který pracuje na dráze. Tyhle epizody nejsou jen „výplň“, ale ukazují typický hrabalovský svět: svět podivínů, obyčejných lidí a zvláštních osudů, kde je směšnost i lidskost těsně vedle sebe.
+Na začátku se čtenář dozvídá i něco o Milošově rodině, což je jedna z nejslavnějších pasáží knihy. Hrabalova rodina je galerie podivínů:
 
-Miloš pracuje na nádraží mezi zvláštními figurami. Důležitou postavou je **výpravčí Hubička**, sebejistý, zkušený a ženami oblíbený muž, který působí jako protiklad Miloše. Zatímco Miloš je nejistý a uzavřený, Hubička je uvolněný, hravý a sexuálně sebevědomý. Další postavou je přednosta stanice, který působí trochu směšně a maloměšťácky, ale zároveň dokresluje každodenní provoz nádraží.
+- **Praděd Lukáš** – bývalý vojenský bubeník, ve **18 letech zraněn studenty do kolena**, díky čemuž mu rakouský stát vyplácel doživotně rentu (jeden zlatý denně). Lidé ho proto nenáviděli – „pracoval“ tím, že brzy ráno šel na náměstí ukázat své pohodlí. Nakonec ho při příležitosti **15. března 1939** (vstup Němců) **dělníci ubili** v hospodě.
+- **Děd Vilém** – **hypnotizér v kočovných cirkusech**. Když Němci 15. března 1939 obsazovali Československo, postavil se před tanky a snažil se je **zastavit silou své vůle**. První tank ho přejel, hlava mu odlétla a kutálela se vedle těla. Symbolický kontrast: česká duchovnost vs. německý válečný stroj.
+- **Otec** – strojvedoucí, který šel do **předčasné penze ve 48 letech**. Od té doby tráví život zvláštními koníčky: sbírá a opravuje vyhozené předměty, kovový šrot, hodiny – tím vyvolává závist sousedů, kteří „celý život pracují“ a nic z toho nemají.
+- **Miloš sám** – pokračovatel rodinné tradice „nedělání“: vstupuje na dráhu jako elév právě proto, aby pokračoval ve „famílii, která se vyhýbá práci“.
 
-Miloš chodí s dívkou jménem **Máša**. Právě vztah k ní spustí jeho osobní krizi. Miloš se s ní pokusí o intimní sblížení, ale selže (předčasná ejakulace). Prožije to strašně silně, protože to chápe jako důkaz vlastní méněcennosti a mužského selhání. Nejde jen o erotickou epizodu, ale o zásah do jeho sebevědomí. Má pocit, že ztratil čest a že nemá žádnou hodnotu. Tohle je naprosto klíčové pro pochopení děje: jeho vnitřní problém je zpočátku silnější než sama válka.
+Tyhle epizody nejsou jen „výplň“, ale ukazují typický hrabalovský svět: svět podivínů, obyčejných lidí a zvláštních osudů, kde je směšnost i lidskost těsně vedle sebe. Zároveň dávají Miloši vrstvu: není to jen anonymní voják, ale potomek české rodiny, jejíž členové se vždycky postavili autoritě – směšně a tragicky zároveň.
 
-Kvůli tomuto ponížení se Miloš pokusí o sebevraždu. Podřeže si zápěstí a skončí v nemocnici. I tady je vidět zvláštní kontrast Hrabalovy poetiky: situace je vážná, ale podaná bez patosu, spíš civilně, skoro absurdně. Miloš není vykreslen jako tragický romantický hrdina, ale jako zmatený kluk, který se nedokáže vyrovnat s vlastním studem.
+Miloš pracuje na nádraží mezi zvláštními figurami. Důležitou postavou je **výpravčí Hubička**, sebejistý, zkušený a ženami oblíbený muž, který působí jako protiklad Miloše. Zatímco Miloš je nejistý a uzavřený, Hubička je uvolněný, hravý a sexuálně sebevědomý. Další postavou je přednosta stanice **Max Lánský**, holubář a sběratel; trochu směšný a maloměšťácký, ale zároveň dokresluje každodenní provoz nádraží.
 
-Po návratu z nemocnice se vrací na stanici. Mezitím se řeší známá aféra s výpravčím Hubičkou, který během služby otiskl razítka na zadek telegrafistky **Zdeničky Svaté**. Tahle epizoda je slavná, protože spojuje erotiku, komiku a absurditu úředního světa. Z banálního sexuálního žertu se stane skoro úřední skandál. Hubička kvůli tomu čelí vyšetřování. 
+Miloš chodí s **průvodčí Mášou (Pulpánovou)**, dívkou z vlaku. Po jednom společném výletu (návštěva u Mášina strýce-fotografa) se s ní pokusí o intimní sblížení v jejich pronajatém pokoji, ale selže (**ejaculatio praecox**, jak mu pak diagnostikuje doktor). Prožije to strašně silně, protože to chápe jako důkaz vlastní méněcennosti a mužského selhání. Nejde jen o erotickou epizodu, ale o zásah do jeho sebevědomí.
 
-Miloš se ale pořád trápí svým „selháním“. V té době se na stanici objeví **Viktoria Freie**, odbojová pracovnice nebo spojka, která je spojena s odporem proti Němcům. Zároveň však vstoupí i do Milošova osobního života. Pomůže mu překonat jeho sexuální blok a Miloš díky ní získá ztracené sebevědomí. Tato chvíle je pro jeho vývoj zásadní: konečně přestane být paralyzovaný studem a vnitřní nejistotou.
+Kvůli tomuto ponížení se Miloš pokusí o sebevraždu. Jde do hotelu, sedne si do **vany** a **podřeže si žíly na zápěstí**. Najde ho ale uklízeč, který přesně v té chvíli vstoupí do koupelny – Miloš je zachráněn. V nemocnici doktor mluví o „ejaculatio praecox“ jako o běžném problému, ale Miloš tomu v té chvíli ještě nerozumí. Hrabal celou scénu podává civilně, skoro až lhostejně, bez patosu – proto je tak silná.
 
-Tím se začne měnit i jeho vztah ke světu. Už není jen pasivní pozorovatel. Na stanici má projet důležitý německý muniční transport – tedy „ostře sledovaný vlak". Plán je sabotáž a Miloš dostane úkol umístit na vlak výbušninu. V závěru se ale ukáže typická hrabalovská ironie a absurdita války: děj nesměřuje k čistému, patetickému hrdinství, ale ke zmatku a osamělé smrti.
+Po návratu z nemocnice se vrací na stanici. Mezitím se řeší známá aféra s výpravčím Hubičkou. Hubička v noční směně otiskl **úřední razítka stanice na zadek a stehna spící telegrafistky Zdeničky Svaté** (kulaté, hranaté, datumovky – celá nádražní razítka). Když to ráno Zdenička objeví, dlouho mlčí, ale její **matka** to nakonec ohlásí. Vyšetřování vede **inspektor / rada Zedníček**, který se tváří přísně, ale ve skutečnosti je tím sám fascinován. Z banálního sexuálního žertu se stane absurdní úřední skandál – razítka jsou „úřední majetek říše“ a tím se z koníčku stává politický problém.
 
-Miloš vyleze na návěstidlo nad tratí a ve chvíli, kdy pod ním projíždí muniční vlak, shodí nálož. Všimne si ho ale německý voják z vlaku, začnou po sobě střílet. Miloš vojáka zasáhne, sám je však také zasažen a padá dolů do příkopu, kde spolu se svým protivníkem umírá. Sabotáž se podaří – vlak vybuchne – ale Milošova smrt nemá nic z patosu velkého hrdinského konce. Je to tichá, špinavá, téměř náhodná smrt mladíka v příkopu. Zrovna ve chvíli, kdy Miloš konečně dospěl, překonal svou nejistotu a dokázal jednat, o všechno přichází.
+Miloš se ale pořád trápí svým „selháním“. V této době ho Hubička zapojí do plánované sabotáže německého muničního vlaku. Z odboje dorazí spojka – mladá žena **Viktoria Freie** („vítězná svobodná“ – už její jméno je významové). Přiveze v balíčku **časovanou nálož**. Hubička ji požádá, aby Miloši pomohla i s jeho intimním problémem. Viktoria s ním stráví noc a Miloš díky ní **překoná svůj sexuální blok**. Není to vykresleno jako svádění, ale jako klidné, soucitné gesto. Pro Miloše je to **dvojí iniciace**: stane se mužem a zároveň získá odvahu zapojit se do skutečného odboje. Tato chvíle je pro jeho vývoj zásadní: konečně přestane být paralyzovaný studem a vnitřní nejistotou.
+
+Tím se začne měnit i jeho vztah ke světu. Už není jen pasivní pozorovatel. Na stanici má projet důležitý německý **muniční vlak** – „ostře sledovaný“ transport s vojenskou prioritou. Miloš dostane úkol shodit nálož na konkrétní vagon. V závěru se ale ukáže typická hrabalovská ironie a absurdita války: děj nesměřuje k čistému, patetickému hrdinství, ale ke zmatku a osamělé smrti.
+
+Miloš vyleze na **návěstidlo nad tratí** a ve chvíli, kdy pod ním projíždí muniční vlak, **shodí časovanou nálož** na jeden z vagonů. Z německého strážního vagonu ho ale spatří **německý strážce** a vystřelí na něj. Miloš je zasažen do břicha a padá dolů. Než padá, **stihne ze své služební pistole německého vojáka také zastřelit**. Oba spadnou do **příkopu vedle trati** a oba tam umírají vedle sebe.
+
+Závěrečná scéna je proslulá svou tichostí a absurditou: dva muži, kteří se nikdy neznali, leží mrtví v příkopu, zatímco vlak v dálce **exploduje**. Sabotáž se podařila. Hrabalova ironie spočívá v tom, že umírající Miloš a umírající Němec si v posledních chvílích vyměňují slova – sám Miloš si v té chvíli uvědomuje absurditu situace: dva mladí lidé, kteří se nikdy neviděli, se zabili kvůli válce, do které ani jeden nepatří. Sabotáž se tedy povedla, ale Milošova smrt nemá nic z patosu velkého hrdinského konce. Je to tichá, špinavá, téměř náhodná smrt mladíka v příkopu. Zrovna ve chvíli, kdy Miloš konečně dospěl, překonal svou nejistotu a dokázal jednat, o všechno přichází.
 
 Děj tedy není vystavěn jako klasická válečná hrdinská legenda. Hrabal naopak ukazuje, že hrdinství může vyrůst z člověka, který vůbec nepůsobí heroicky. Miloš neprochází proměnou jako velký bojovník od začátku, ale jako obyčejný kluk, který se nejprve musí vyrovnat sám se sebou. Teprve potom je schopný udělat skutečně významný čin.
 
@@ -72,12 +82,13 @@ Závěr je silný právě tím kontrastem: po celé novele sledujeme drobné tra
 ## Charakteristika:
 
 - **Miloš Hrma** – hlavní hrdina a vypravěč; mladý železniční elév; citlivý, nejistý, nezkušený, uzavřený; naivní; trápí ho otázka mužnosti a vlastní hodnoty; během děje dospívá a na konci vykoná odvážný čin
-- **Výpravčí Hubička** – sebejistý, zkušený, lehce provokativní a eroticky uvolněný; protiklad Miloše; komická i důležitá postava, která zosobňuje životní nadhled a bezprostřednost
-- **Máša** – Milošova dívka; důležitá pro jeho osobní krizi; vztah s ní odhalí jeho nejistotu a stud
-- **Viktoria Freie** – odbojová pracovnice; energická a rozhodná; pomůže Milošovi překonat jeho blok a spojí ho s odbojovou akcí
-- **Přednosta stanice** **Max Lánský** – maloměšťácký, úřednicky pečlivý, trochu směšný; dokresluje provoz stanice i kontrast malého světa s velkou válkou
+- **Výpravčí Hubička** – sebejistý, zkušený, lehce provokativní a eroticky uvolněný; protiklad Miloše; komická i důležitá postava, která zosobňuje životní nadhled a bezprostřednost; hybatel sabotáže
+- **Máša (Pulpánová)** – Milošova dívka, **průvodčí na trati**; mladá, hezká, otevřená; vztah s ní spustí Milošovu krizi a pokus o sebevraždu po neúspěšném sblížení
+- **Viktoria Freie** – odbojová spojka; energická, klidná, mateřsky vlídná; přiveze časovanou nálož a zároveň Milošovi pomůže překonat jeho intimní blok. Její jméno znamená „vítězná, svobodná“ – symbolika je záměrná
+- **Přednosta stanice Max Lánský** – maloměšťácký, úřednicky pečlivý, trochu směšný; chová holuby a má strach z prokuristů; dokresluje provoz stanice i kontrast malého světa s velkou válkou
 - **Zdenička Svatá** – telegrafistka; spojena s Hubičkovou aférou s razítky; díky ní vzniká jedna z nejznámějších groteskních scén díla
-- **Milošův dědeček a rodina** – vedlejší postavy ve vzpomínkách; pomáhají vytvořit hrabalovský svět podivínů, absurdit a zvláštní rodinné historie
+- **Rada / inspektor Zedníček** – úřední vyšetřovatel razítkové aféry; postavou symbolizuje absurditu protektorátní byrokracie, která řeší razítka na zadku v době, kdy je svět ve válce
+- **Praděd Lukáš (bubeník), děd Vilém (hypnotizér), otec (strojvedoucí v penzi)** – galerie podivínů ve vzpomínkách; tvoří hrabalovský svět rodinné absurdity a vzdoru
 
 ---
 
@@ -130,10 +141,23 @@ Závěr je silný právě tím kontrastem: po celé novele sledujeme drobné tra
 
 ### Podobní autoři (téma, období):
 
-- **Arnošt Lustig** – válka, okupace, židovství, člověk v mezní situaci
-- **Jan Otčenášek** – okupace, mladí lidé za války, osobní osudy v době dějin
-- **Josef Škvorecký** – 2. světová válka, dospívání, civilní a nehrdinský pohled na dějiny
-- **Ota Pavel** – válka, židovské motivy, osobní a rodinný rozměr dějin
+**Česká próza 60. let (zlatá éra):**
+
+- **Arnošt Lustig (1926–2011)** – válka, okupace, **židovství, Terezín a holocaust** (autor přežil); **Modlitba pro Kateřinu Horovitzovou**, **Démanty noci**. Stejné období, jiný tón – víc tragický a etický.
+- **Josef Škvorecký (1924–2012)** – 2. světová válka, dospívání, civilní a nehrdinský pohled na dějiny; **Zbabělci (psáno 1948/9, vydáno 1958)**, **Tankový prapor**. Stejná generace „nehrdinů“ jako Hrabalův Miloš.
+- **Jan Otčenášek (1924–1979)** – okupace, mladí lidé za války; **Romeo, Julie a tma** (love story uprostřed nacistické okupace).
+- **Ota Pavel (1930–1973)** – válka, židovské motivy, osobní rodinný rozměr dějin; **Smrt krásných srnců**, **Jak jsem potkal ryby**. Civilní hrabalovský humor a smutek.
+- **Milan Kundera (1929–2023)** – **Žert**, **Směšné lásky**; stejná generace, ale intelektuálnější, méně lidový styl.
+- **Vladimír Páral** – česká próza 60.–80. let, civilní moderní próza.
+- **Ladislav Fuks – Spalovač mrtvol (1967)**: stejné období, taky 2. svět. válka, ale úplně jiný styl (psychologická hrůza místo hrabalovské grotesky).
+
+**Mezinárodní paralely – nehrdinská válečná próza:**
+
+- **Joseph Heller – Hlava XXII (Catch-22, 1961)**: absurdita armády a války, satira, podobný groteskní pohled.
+- **Kurt Vonnegut – Jatka č. 5 (1969)**: válka jako absurdní zkušenost, civilní pohled.
+- **Jaroslav Hašek – Osudy dobrého vojáka Švejka (1921–23)**: český předchůdce nehrdinského pohledu na válku, ironický pasivní hrdina; Hrabal na něj přímo navazuje.
+
+⚠️ **Důležité pro maturitu:** Hrabal patří k **české literatuře 60. let**, jeho stylové řešení **„poetika všedního dne“ + „pábení“** je svébytné a typicky české. Nezaměňovat s francouzským novým románem (Robbe-Grillet apod.) nebo americkou „beat generation“ – Hrabalův styl má kořeny v české tradici (Hašek, Vančura).
 
 ---
 

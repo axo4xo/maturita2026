@@ -11,15 +11,14 @@
 
 **Autor a literárněhistorický kontext:**
 
-- **George Bernard Shaw** – irský dramatik píšící anglicky, působil hlavně v **Anglii**
-- **přelom 19. a 20. století**
-- Byl spojený s **kritikou společnosti**, zajímal se o sociální otázky, rozdíly mezi třídami a pokrytectví
-- Patřil k výrazným autorům anglického **dramatu**, navazoval i polemizoval s tradicí
-- Typické jsou pro něj **vtipné dialogy, ironie, intelektuální spor a společenská satira**
-- **kritický realismus, modernismus -** přelom 19. a 20. století
-- Další díla: **Svatá Jana, Člověk a nadčlověk, Caesar a Kleopatra**
-- Shaw získal **Nobelovu cenu za literaturu**
-- Název odkazuje na antický mýtus o **Pygmalionu**, který vytvoří sochu a „vtiskne jí život“; v této hře Higgins „vytváří“ z Lízy novou společenskou bytost
+- **George Bernard Shaw (1856–1950)** – **irský** dramatik píšící anglicky, působil hlavně v **Anglii** (Londýn). Narozen v Dublinu.
+- **Přelom 19. a 20. století**; **kritický realismus / moderní drama**.
+- **Pygmalion** byl poprvé uveden roku **1913 ve Vídni** v německém překladu (Hofburg-Theater), anglicky premiéra **11. dubna 1914** v Londýně (His Majesty's Theatre). Tiskem vyšel poprvé **1916**.
+- Byl spojený s **kritikou společnosti**, zajímal se o sociální otázky, rozdíly mezi třídami a pokrytectví; člen **Fabian Society** (umírněně socialistická skupina).
+- Typické jsou pro něj **vtipné dialogy, ironie, intelektuální spor a společenská satira**.
+- Další díla: **Svatá Jana, Člověk a nadčlověk, Caesar a Kleopatra, Pekelník**.
+- Shaw získal **Nobelovu cenu za literaturu roku 1925**. Je jediný člověk, který má zároveň Nobelovu cenu a Oscara (za scénář k filmovému *Pygmalionu* 1938).
+- Název odkazuje na antický mýtus z Ovidiových **Proměn**: **Pygmalion** byl kyperský sochař, který se zamiloval do své sochy Galateie, a Venuše mu ji oživila. Shaw mýtus ironizuje – Higgins ze své „sochy“ Lízy nedostane poslušnou múzu, ale samostatnou ženu, která se mu vzbouří.
 
 **Téma a motivy**
 
@@ -38,7 +37,7 @@
 **Časoprostor**
 
 - **Prostředí:** Londýn, hlavně **Covent Garden**, Higginsův byt a laboratoř, salon paní Higginsové
-- **Čas:** začátek 20. století; děj trvá **několik měsíců**, protože Líza prochází delším výcvikem
+- **Čas:** **edwardiánská Anglie** (kolem roku 1912, doba psaní hry); děj trvá **několik měsíců**, protože Líza prochází delším výcvikem
 - Prostředí ukazuje kontrast mezi ulicí a vyšší společností
 
 ---
@@ -74,7 +73,7 @@ V poslední části se Líza znovu střetne s Higginsem. Ten obdivuje, že se mu
 - **Líza Doolittlová** – chudá květinářka z lidového prostředí; zpočátku prostá, impulzivní a jazykově neupravená, ale zároveň inteligentní, houževnatá a citlivá; během děje se výrazně promění, nejde však jen o řeč, ale hlavně o sebeúctu a samostatnost
 - **Henry Higgins** – profesor fonetiky; velmi chytrý, sebevědomý, ironický, výstřední a egocentrický; lidi často bere jako objekty zkoumání; Lízu „vytvoří“, ale dlouho ji nedokáže respektovat jako rovnocennou bytost
 - **Plukovník Pickering** – Higginsův přítel a odborník na fonetiku; slušný, klidný, zdvořilý; na rozdíl od Higginse se k Líze chová s respektem, a právě to je pro její vývoj důležité
-- **Nepomuk** - expert na fonetiku, bývalý žák Higginse, tvrdí že Líza je podvodnice (princezna), protože mluví anglicky až příliš dokonale
+- **Nepomuk (originálně Nepommuck / Aristid Karpathy)** – maďarský samozvaný expert na fonetiku, bývalý žák Higginse; pyšný, žvanivý, ve hře komická figura. Na velvyslaneckém plese se snaží uhodnout Lízin původ a tvrdí, že je **maďarská princezna**, protože „mluví anglicky až příliš dokonale, takže to musí být cizinka, která se to musela naučit“. Tím Shaw vrcholně ironizuje celé téma – „pravost“ aristokracie se pozná podle **nedokonalostí**, ne podle dokonalosti
 - **Alfred Doolittle** – Lízin otec, popelář; komická, ale velmi chytrá a satirická postava; mluví otevřeně o morálce a penězích, zesměšňuje společenské přetvářky
 - **Paní Higginsová** – Higginsova matka; rozumná, klidná, společensky zkušená; často jako jediná vidí situaci střízlivě
 - **Freddy Eynsford-Hill** – mladík z lepší společnosti; okouzlený Lízou, představuje citovou linku, ale není hlavní hybatel děje

@@ -131,6 +131,28 @@ A druhá silná věc: **Kulička není jen „chudák holka“**. Je štědrá, 
 
 ### Podobní autoři (téma, období)
 
-- **Gustave Flaubert** – francouzský realismus, přesný styl, psychologická a společenská kresba; pro Maupassanta byl zásadní mentor a učitel.
-- **Émile Zola** – naturalismus, syrovost, tlak prostředí a společnosti na člověka; Maupassant s ním souvisí i přes okruh **Les Soirées de Médan**.
-- **Honoré de Balzac** – široký obraz společnosti, peníze, kariéra, společenské masky a pokrytectví; právě tuto linii francouzského realismu Maupassant dál rozvíjí.
+**Francouzský realismus a naturalismus 19. století:**
+
+- **Gustave Flaubert (1821–1880) – Paní Bovaryová, Citová výchova**: francouzský realismus, přesný styl, psychologická a společenská kresba; pro Maupassanta byl **zásadní mentor a kmotr** (přátelil se s jeho matkou).
+- **Émile Zola (1840–1902)** – **naturalismus**, syrovost, tlak prostředí a dědičnosti na člověka; **Zabiják, Nana, Germinal**, cyklus **Rougon-Macquartové**. Maupassant je člen jeho okruhu **Les Soirées de Médan** (1880), kde *Kulička* poprvé vyšla.
+- **Honoré de Balzac (1799–1850) – Lidská komedie**: starší francouzský realismus, široký obraz společnosti, peníze, kariéra, společenské masky a pokrytectví; Maupassant na něj navazuje.
+- **Stendhal – Červený a černý (1830), Kartouza parmská**: psychologický realismus, kariérismus, společenské intriky.
+
+**Realismus a naturalismus v dalších literaturách:**
+
+- **Lev Nikolajevič Tolstoj** – ruský realismus 19. století (**Vojna a mír**, **Anna Kareninová**); rozsáhlejší formát, ale podobně přesná psychologie.
+- **F. M. Dostojevskij** – ruský psychologický realismus; **Zločin a trest**, **Bratři Karamazovi**.
+- **Charles Dickens** – anglický kritický realismus; satira institucí, soucit s nižšími vrstvami.
+- **Anton Pavlovič Čechov (1860–1904)** – ruský **mistr krátké povídky** podobně jako Maupassant; civilní psychologický realismus, podtext. Čechov a Maupassant jsou často srovnáváni jako **největší povídkáři 19. století**.
+
+**Česká kontextová paralela:**
+
+- **Jan Neruda – Povídky malostranské (1878)**: stejné období, žánr krátké realistické povídky, společenská kresba; jen jiné prostředí (Praha místo Francie).
+- **Karel Václav Rais, Antal Stašek** – český vesnický realismus konce 19. století.
+
+**Tematická paralela – pokrytectví a oběť jednotlivce:**
+
+- **Henrik Ibsen – Nora / Domeček pro panenky (1879)**: stejné období, kritika měšťácké morálky a postavení ženy.
+- **Émile Zola – Tereza Raquinová**: naturalistická krátká próza o vině a společenském tlaku.
+
+⚠️ **Důležité pro maturitu:** Maupassant = **francouzský realismus / naturalismus, 2. polovina 19. století**. Patří k okruhu **Les Soirées de Médan** (Zola, Huysmans). *Kulička* je jeho **debutová povídka (1880)**, kterou na sebe naráz upozornil.

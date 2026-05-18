@@ -67,3 +67,25 @@ V knize se opakují pokusy o únik, léčbu a nový začátek, ale nic není jed
 kniha ukazuje **mechanismus pádu**: potřebu někam patřit, sílu party, sebeklam, postupnou ztrátu hranic a to, že závislost člověka neodstřihne jen od zdraví, ale i od normálního vztahu k lásce, rodině a sobě samému.
 
 A druhá dobrá věc: monotónnost návratů k heroinu není chyba knihy, ale součást jejího účinku. Text tím ukazuje, jak **závislost rozbíjí čas i vůli**. Člověk pořád slibuje, že přestane, a pořád se vrací do stejného kruhu. To je na knize možná děsivější než jednotlivé šokující scény.
+
+## Podobní autoři (téma, období)
+
+**Próza o drogové závislosti:**
+
+- **Radek John – Memento (1986)**: česká „odpověď“ na *Wir Kinder*, podobné téma a varovný účinek, jen v normalizačním Československu místo Západního Berlína. Memento vyšlo o **7 let později** než německá kniha.
+- **William S. Burroughs – Feťák / Junky (1953, USA)** a **Nahý oběd (Naked Lunch, 1959)**: prototyp moderní literatury o závislosti, beat generation, autobiografický styl.
+- **Irvine Welsh – Trainspotting (1993, Skotsko)**: brutální realismus, heroinová scéna 80./90. let, postavy ze skotské podtřídy.
+- **Hubert Selby Jr. – Requiem za sen (1978, USA)**: rozklad několika lidí závislostí, vyšlo téměř současně s Wir Kinder.
+- **Charles Bukowski (1920–1994)**: americký „špinavý realismus“, podtřída, alkoholismus, prostituce, drsný civilní jazyk.
+
+**Reportážní / dokumentární literatura faktu:**
+
+- **Truman Capote – Chladnokrevně / In Cold Blood (1966)**: kanonické „nonfiction novel“, podobně dokumentárně-literární metoda (rozhovory + zpracování).
+- **Norman Mailer – Píseň kata (1979)**: dokumentární román o vrahovi Gary Gilmoreovi, podobná metoda.
+
+**Generační próza o ztracené mládeži:**
+
+- **J. D. Salinger – Kdo chytá v žitě (1951)**: nespokojený dospívající hrdina, který se odcizuje světu dospělých (jen bez drog).
+- **Anthony Burgess – Mechanický pomeranč (1962)**: násilná mládež, společenská kritika.
+
+⚠️ **Důležité pro maturitu:** Kniha je **dokumentární / reportážní literatura faktu**, NIKOLIV beletristický román. Vznikla **z magnetofonových nahrávek** rozhovorů, které novináři **Kai Hermann a Horst Rieck** vedli s Christiane F. v rámci přípravy reportáže pro časopis **Stern**. Kniha vyšla **1978/79** v Hamburku a stala se senzací, protože poprvé ukázala dětskou drogovou scénu zevnitř, slovy 14leté závislé.
