@@ -3,30 +3,34 @@
 ### Druh a žánr
 
 - **lyriko-epika**
-- **sbírka lyricko-epických básní**, převážně **balady** - básně s ponurým dějem, tragické
+- **sbírka lyricko-epických básní**, převážně **balady** – básně s ponurým dějem, tragickým koncem, vinou a trestem (žánr s kořeny v ústní lidové slovesnosti)
+- plný název: **Kytice z pověstí národních**
 - celkem **13 skladeb**
 - ne všechny skladby jsou čisté balady:
-    - **Kytice** a **Věštkyně** mají spíš rámcový a symbolický charakter
-    - **Zlatý kolovrat** a částečně **Lilie** mají blízko i k **pohádce / pověsti**
-- typické rysy:
-    - dějovost
+    - **Kytice** a **Věštkyně** mají spíš **rámcový a symbolický** charakter
+    - **Zlatý kolovrat** a částečně **Lilie** mají blízko i k **pohádce / pověsti** (happy end u Zlatého kolovratu, vykoupení u Záhořova lože)
+- typické rysy balady:
+    - dějovost, dramatičnost, zkratka
     - osudovost
     - nadpřirozeno
     - vina a trest
-    - pravidla: jejich porušení = trest
-    - matka x dítě
-    - rouhání
-    - silná pointa
-- první vydání vyšlo roku **1853** (12 skladeb), později byla sbírka rozšířena o **Lilii**, takže se dnes běžně pracuje s verzí o **13 skladbách**
+    - porušení pravidel (slibu, řádu, mravního zákona) = trest
+    - vztah matka × dítě
+    - rouhání, vyřčená kletba/přání
+    - silná tragická pointa
+- **1. vydání 1853** (12 skladeb), **2. rozšířené vydání 1861** (přibyla **Lilie**) → dnes standardně **13 skladeb**
+- jediná Erbenova básnická sbírka, pracoval na ní **desetiletí** (od 30. let 19. stol.)
 
 ### Autor
 
 - **Karel Jaromír Erben (1811–1870)**
-- český básník, historik, archivář (archivář města Prahy od 1851), sběratel lidové slovesnosti, překladatel
-- patří do **vrcholné fáze českého národního obrození** (Erben, Mácha, Tyl, Němcová – generace 1830/40)
+- český **básník, historik, archivář, sběratel lidové slovesnosti, překladatel, folklorista**
+- archivář města Prahy od 1851 (později ředitel pražského archivu)
+- patří do **3. (vrcholné/závěrečné) fáze českého národního obrození** (50. léta 19. stol.) – generace Mácha, Erben, Tyl, Němcová
+- spolupracoval s **Boženou Němcovou** na sběru lidové slovesnosti
 - jeho tvorba souvisí s **romantismem**, ale silně čerpá z **folkloru, lidové slovesnosti a národní tradice** (oproti Máchovi je mnohem víc spojený s lidovou tradicí než s individuálním romantismem)
-- **Kytice** byla jeho jediná básnická sbírka – pracoval na ní **desetiletí** (zhruba 1820/30–1853)
-- jako sběratel vydal **České písně národní** a **Prostonárodní české písně a říkadla** (1862–1864)
+- **Kytice** je jeho jediná básnická sbírka – pracoval na ní zhruba 30 let
+- sběratelské dílo: **Prostonárodní české písně a říkadla** (1862–1864), **Pohádky** (posmrtně 1865) – pozor, Kytice NENÍ prostý sběr, ale **umělá literární sbírka** inspirovaná lidovou tradicí
 - typické motivy:
     - vina
     - trest
@@ -189,11 +193,11 @@ Střetnou se tu dva neslučitelné světy: lidský, rodinný, mateřský a pak n
 
 ---
 
-### 11. **Lilie - AŽ OD DRUHÉHO VYDÁNÍ!!! NEZRCADLÍ SE!!**
+### 11. **Lilie – AŽ OD DRUHÉHO VYDÁNÍ (1861)!!! NEZRCADLÍ SE!!**
 
-Mladá panna umírá velmi brzy a před smrtí si přeje, aby nebyla pohřbena na hřbitově mezi nářkem a lidským žalem, ale v lese, kde by bylo ticho, ptáci a příroda. Na jejím hrobě skutečně vyroste krásná lilie. Král ji při lovu uvidí a nechá přenést do své zahrady. Postupně se ukáže, že lilie není obyčejná květina: v noci se proměňuje v ženu. Král se do ní zamiluje, vezme si ji a narodí se jim dítě. Žena ho ale varuje, že je bytost noční a křehká, která nemůže být vystavena slunci. Když král musí odjet, svěří ji ochraně své matky. Ta však novou snachu nepřijme, nechá ji vystavit světlu a tím ji zahubí. Spolu s ní umírá i dítě. Král po návratu všechno nachází zničené a svou matku prokleje.
+Mladá panna umírá velmi brzy a před smrtí si přeje, aby nebyla pohřbena na hřbitově mezi nářkem a lidským žalem, ale v lese, kde by bylo ticho, ptáci a příroda. Na jejím hrobě skutečně vyroste krásná lilie. Při lovu ji uvidí mladý **pán** (šlechtic, „lech") a nechá přenést do své zahrady. Postupně se ukáže, že lilie není obyčejná květina: v noci se proměňuje v ženu. Pán se do ní zamiluje, vezme si ji a narodí se jim dítě. Žena ho ale varuje, že je bytost noční a křehká, která nemůže být vystavena slunci. Když musí pán odjet do královské služby (povolal ho dopisem **král**), svěří ženu ochraně své matky. Ta však novou snachu nepřijme („Zhyň, paní noční! Zhyň, obludo, zhyň!"), nechá ji vystavit světlu a tím ji zahubí. Spolu s ní umírá i dítě. Pán po návratu všechno nachází zničené a vlastní matku prokleje („Ó matko, matko, ty hadice zlá!").
 
-**Pointa:** křehké štěstí založené na překročení hranice mezi světy může snadno zničit cizí zásah a nepochopení; zlá tchyně, reinkarnace
+**Pointa:** křehké štěstí založené na překročení hranice mezi světy může snadno zničit cizí zásah a nepochopení; zlá tchyně, motiv proměny člověka v rostlinu
 
 ---
 
@@ -241,19 +245,19 @@ Závěrečná skladba už není rodinná balada v úzkém smyslu, ale široce ro
     
 2. **lidová stylizace**
     
-    jednoduchý, úderný jazyk, blízkost lidové písni
+    jednoduchý, úderný jazyk, blízkost lidové písni, zvukomalba
     
-3. **opakování, refrény, paralelismy**
+3. **opakování, refrény, paralelismy, anafora**
     
-    zvyšují naléhavost a melodičnost
+    zvyšují naléhavost a melodičnost („Stokrát jsem tě prosila…", „Vari od našeho prahu, vari pryč, ty lstivý vrahu")
     
 4. **symbolika**
     
-    voda, les, hřbitov, květiny, zvony, ptáci, noc
+    voda, les, hřbitov, květiny, zvony, ptáci, noc, kámen, kříž
     
 5. **kontrasty**
     
-    domov × divočina, den × noc, život × smrt, vina × čistota
+    domov × divočina, den × noc, život × smrt, vina × čistota, světlo × tma
     
 6. **nadpřirozeno**
     
@@ -261,30 +265,61 @@ Závěrečná skladba už není rodinná balada v úzkém smyslu, ale široce ro
     
 7. **veršovaná forma**
     
-    pravidelný rytmus, rým, písňovost a zvuková působivost
+    pravidelný rytmus (často **trochej** nebo **jamb**), pravidelný rým, písňovost a zvuková působivost; krátké, úsečné verše
+    
+8. **dialog a přímá řeč**
+    
+    výrazná dramatičnost (celá Dceřina kletba a Polednice jsou skoro výhradně dialogem)
+    
+9. **archaismy a knižní výrazy**
+    
+    „leč", „ana", „aniž", „kteráž", knižní inverze – přidávají vznešený, baladický tón
+    
+10. **personifikace přírody**
+    
+    příroda jako zrcadlo děje (bouře, mrazy, jaro v Záhořově loži)
     
 
 ---
 
 ## Mini poznávačka úryvků
 
-- **matka hrozí dítěti Polednicí** → *Polednice*
-- **rybník / jezero, vodník, dítě pod vodou** → *Vodník*
+- **matka hrozí dítěti Polednicí** → *Polednice* („Pojď si proň, ty Polednice…")
+- **rybník / jezero, vodník, dítě pod vodou** → *Vodník* („Sviť, měsíčku, sviť, ať mi šije niť")
 - **noc, hřbitov, mrtvý ženich vede dívku** → *Svatební košile*
 - **skála, Velký pátek, poklad, dítě uvnitř** → *Poklad*
 - **kolovrat odhaluje vraždu dívky** → *Zlatý kolovrat*
-- **holoubek jako hlas svědomí** → *Holoubek*
-- **peklo a kající se vrah** → *Záhořovo lože*
+- **holoubek jako hlas svědomí, vdova, hrob s kamenem na křižovatce** → *Holoubek*
+- **peklo, jabloň, kající se vrah a poutník** → *Záhořovo lože*
+- **dvě dívky věští o Štědrém večeru** → *Štědrý den* („Hoj, ty Štědrý večere…")
+- **lilie noční, zlá tchyně** → *Lilie*
+- **žena s duší ve vrbě, manžel ji pokácí** → *Vrba*
+- **dialog matka–dcera, „zabila jsem holoubátko"** → *Dceřina kletba*
+- **Libuše, Přemysl, prorocká vize budoucnosti národa** → *Věštkyně*
+- **mateřídouška na hrobě matky** → *Kytice* (úvod)
 
 ---
 
 ## Mini-tahák k ústní
 
 - **Erben = vina, trest, osud, rodina, nadpřirozeno**
-- v Kytici často vystupuje vztah **matka – dítě**
+- **Kytice (z pověstí národních), 1853 / 2. vyd. 1861, 13 balad**
+- závěr **3. (vrcholné) fáze národního obrození**, 50. léta 19. stol.
+- žánr: **lyricko-epická balada**, sbírka inspirovaná lidovou slovesností (ale ne sběr – umělá tvorba)
+- v Kytici často vystupuje vztah **matka – dítě** (selhání mateřské lásky)
 - nadpřirozeno není jen pro efekt, ale jako **nástroj spravedlnosti, strachu nebo svědomí**
-- sbírka bývá chápána jako **promyšlený celek**, ne jen jako náhodný soubor básní
-- důležitá je lidová stylizace, baladická zkratka a silná tragická pointa
+- sbírka bývá chápána jako **promyšlený celek** – rámcují ji *Kytice* a *Věštkyně*
+- důležitá je **lidová stylizace, baladická zkratka, silná tragická pointa, dialog**
+
+### Adaptace a inspirace
+
+- **Antonín Dvořák** – symfonické básně podle Erbena (1896):
+    - *Vodník* op. 107
+    - *Polednice* op. 108
+    - *Zlatý kolovrat* op. 109
+    - *Holoubek* op. 110
+- **F. A. Brabec** – film **Kytice** (2000) – povídkový film, sedm balad
+- **Bohuslav Martinů** – kantáta *Kytice* (volně inspirovaná lidovými motivy)
 
 ### Autor, historický kontext
 
@@ -320,3 +355,19 @@ Závěrečná skladba už není rodinná balada v úzkém smyslu, ale široce ro
 ## Mezilitarální paralely (přes maturitní seznam)
 
 - **Romeo a Julie (Shakespeare)** – sdílí motiv **vášně, která poruší řád, a tragédie, která z toho plyne**. U Shakespeara je řádem stará rodová nenávist, kterou se mladá láska pokusí přeskočit. U Erbena postavy porušují **mravní nebo přírodní řád** (rouhavá touha po mrtvém milém ve Svatebních košilích, překročení hranice světů ve Vodníkovi, vzpoura proti řádu v Polednici). V obou případech za nerespektování stanovených hranic platí nevinní tím nejvyšším trestem.
+
+- **Viktor Dyk – Krysař** – baladická povaha, pověst stylizovaná do novodobé prózy, motiv **kletby/pomsty a kolektivního trestu** (krysař odvede děti města do propasti, jako Erbenovy postavy překračují hranici a nesou trest). Stejný typ „pověsti se zlou pointou" jako u Erbena.
+
+- **Karel Hynek Mácha – Máj** – stejná generace, stejné téma **viny, osudu a trestu**. Mácha = individualistický romantik, lyrika subjektu (Vilém). Erben = kolektivní lidová stylizace. Oba ale řeší vinu, smrt, nezvratnost.
+
+- **Božena Němcová – Babička, Pohádky** – Erbenova přítelkyně, paralelní práce s lidovou tradicí, ale Němcová idealizuje vesnici, zatímco Erben ukazuje její temnou, démonickou stranu.
+
+- **Bratři Grimmové (Kinder- und Hausmärchen), H. Ch. Andersen** – evropská romantická vlna sběru lidových pohádek a balad; Erben patří do téhož paneuropského proudu.
+
+- **J. W. Goethe – Král duchů (Erlkönig)** – německá baladická paralela: nadpřirozená bytost si bere dítě / mladého člověka. Stejný typ baladického hororu jako *Polednice* nebo *Vodník*.
+
+- **Franz Kafka – Proměna** – motiv nadpřirozené **proměny člověka** (Řehoř v hmyz × žena ve vrbu/lilii). Liší se vykládacím rámcem (Kafka – moderní absurdno, Erben – mýtus a vina), ale formálně stejný motiv.
+
+- **Ladislav Fuks – Spalovač mrtvol** – psychologie viny a postupné morální rozkladu, jiným způsobem ale stejné téma „vina, která člověka rozkládá zevnitř" jako u Erbenova Holoubka.
+
+- **F. L. Čelakovský – Ohlas písní českých, Ohlas písní ruských** – ohlasová poezie, přímý předchůdce Erbenova přístupu k lidové slovesnosti.

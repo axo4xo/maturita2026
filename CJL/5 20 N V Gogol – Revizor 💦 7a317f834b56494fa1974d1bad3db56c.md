@@ -4,17 +4,19 @@
 
 - **Literární druh:** drama
 - **Žánr:** **satirická společenská komedie** o pěti aktech; má silné prvky **grotesky**, frašky a komedie mravů
-- **Kompozice:** **5 aktů**, děj je v zásadě **chronologický** a velmi sevřený
-- Hra byla **poprvé uvedena roku 1836** v Petrohradě; text pak Gogol ještě přepracovával a **definitivní verze vyšla roku 1842**
+- **Kompozice:** **5 aktů** (jednání) rozdělených do výstupů, děj je v zásadě **chronologický** a velmi sevřený (zachována jednota místa, času a do značné míry i děje, jako v klasicistní komedii)
+- Hra byla **poprvé uvedena 19. dubna 1836** v Alexandrově divadle v Petěrburgu; text pak Gogol ještě přepracovával a **definitivní verze vyšla roku 1842**
+- na premiéře byl i car Mikuláš I., který si hru užil – přesto kritika a část publika Gogola zklamala, což ho dlouho trápilo
 
 ## Autor
 
-- **Nikolaj Vasiljevič Gogol (1809–1852)** byl **ukrajinsky narozený** humorista, dramatik a prozaik, který psal **rusky** a zásadně ovlivnil vývoj ruské literatury
-- Patří k nejvýznamnějším autorům 1. poloviny 19. století
-- **ruský (kritický) realismus**, ale jeho styl silně využívá **satiru, grotesku, absurditu a karikaturu**
-- Další známá díla: **Mrtvé duše**, **Plášť**, **Nos**, **Petrohradské povídky**
+- **Nikolaj Vasiljevič Gogol (1809–1852)** byl **ukrajinského původu** humorista, dramatik a prozaik, který psal **rusky** a zásadně ovlivnil vývoj ruské literatury
+- Patří k nejvýznamnějším autorům **1. poloviny 19. století**
+- směr: **ruský (kritický) realismus s prvky romantismu**, jeho styl silně využívá **satiru, grotesku, absurditu a karikaturu** – odtud pojem **„gogolovská groteska“**
+- Další známá díla: **Mrtvé duše** (1842), **Plášť**, **Nos**, **Petrohradské povídky**, **Taras Bulba**, **Mirgorod**
 - K samotnému **Revizorovi** Gogol napsal, že chtěl „sebrat na jednu hromadu všechno špatné na Rusi“ a „vysmát se tomu jedním rázem“, přičemž za nejdůležitější „poctivou osobu“ hry považoval **smích**
-- přítel Alexandra Sergejeviče Puškina
+- byl přítelem **Alexandra Sergejeviče Puškina** – právě Puškin mu prý vyprávěl anekdotu o omylem zaměněném revizorovi (a také mu dal námět na **Mrtvé duše**)
+- na konci života upadl do náboženské krize, sebetrýznění a depresí; **10 dní před smrtí spálil druhý díl Mrtvých duší** a krátce poté zemřel vyhublý posty a kajícností
 
 ## Téma a motivy
 
@@ -35,8 +37,10 @@
 
 ## Časoprostor
 
-- Děj se odehrává v **bezejmenném okresním / provinčním městě** v první polovině 19. století
-- Hlavní prostory: kanceláře městské správy, hostinec, chudobinec, škola, nemocnice a hlavně **dům hejtmana**
+- Děj se odehrává v **bezejmenném okresním / provinčním ruském městě** v první polovině 19. století (Gogol sám hru lokalizoval přibližně do města **Kurska, kolem roku 1831**)
+- nikolajevská Rus – těžká doba cenzury, byrokracie a všudypřítomné policie
+- Hlavní prostory: pokoj v domě **policejního ředitele / hejtmana** (rusky **gorodničij**), hostinec (kde se ubytuje Chlestakov), zmínkou pak chudinské ústavy, soud, pošta, škola, nemocnice
+- celý děj se odehraje v rozmezí přibližně **jednoho dne až dvou dnů** – velmi sevřená kompozice
 
 ---
 
@@ -73,9 +77,10 @@ V úplném závěru přichází **četník** a oznamuje, že do města právě d
 Všechno jsou karikatury
 
 - **Ivan Alexandrovič Chlestakov**
-    - mladý petrohradský úředníček, bezvýznamný, lehkomyslný, marnivý a prázdný
+    - mladý petrohradský úředníček, **třiadvacetiletý** „cvok“ a „prázdná hlava“ (Gogolova charakteristika), hubený a štíhlý
+    - bezvýznamný, lehkomyslný, marnivý a prázdný; prohrál peníze v kartách, propil je, v hostinci nemá ani na účet
     - není to promyšlený podvodník, spíš nafoukaný slaboch, který se nechá unést situací
-    - lže spontánně, rád se předvádí, věří chvílemi skoro i vlastním lžím
+    - lže spontánně, rád se předvádí, věří chvílemi skoro i vlastním lžím – Gogol o něm píše: „lže s citem… je to vůbec nejnádhernější a nejpoetičtější okamžik jeho života“
     - ztělesňuje právě **chlestakovštinu**
 - **Osip**
     - Chlestakovův sluha
@@ -84,10 +89,11 @@ Všechno jsou karikatury
     - chápe nebezpečí situace dřív a pomáhá zařídit útěk
     - také ale zneužívá úředníky
 - **Anton Antonovič Skvoznik-Dmuchanovský, hejtman**
-    - hlavní představitel místní moci
+    - hlavní představitel místní moci (rusky **gorodničij**, v některých českých překladech **„policejní direktor“**, jinde **„městský hejtman“**)
+    - „muž ve svém úřadě už zestárlý a po svém způsobu vůbec ne hloupý“ – starý mazaný úředník, prošlý od píky
     - zkorumpovaný, hrubý, ale zároveň zbabělý před nadřízenou mocí
-    - bere, co se dá, stará se hlavně o vlastní prospěch
-    - zpráva o revizorovi ho rozloží a snadno ho dovede k omylu.
+    - bere, co se dá, stará se hlavně o vlastní prospěch; chodí do kostela a sám sebe považuje za věřícího
+    - zpráva o revizorovi ho rozloží a snadno ho dovede k omylu; v závěru ho zpráva o pravém revizorovi „uhodí jako blesk z jasného nebe“ – jeho situace je v té chvíli skoro tragická
 - **Anna Andrejevna**
     - hejtmanova žena
     - marnivá, snobská, okouzlená představou vyšší společnosti
@@ -105,33 +111,41 @@ Všechno jsou karikatury
     - přinášejí zprávy, šíří paniku, přerušují se, zmatkují
     - Gogol je charakterizuje jako lidi, jejichž životní hnací silou je vypravovat novinky
     - právě oni spustí mylnou identifikaci Chlestakova.
-- **Amos Fedorovič Ljapkin-Ťapkin**
-    - soudce, který se tváří důležitě a myslí si o sobě, že je trochu liberál
-    - je úplatný a neschopný, ale zároveň karikovaně sebevědomý.
-- **Artemij Filipovič Zemljanika**
+- **Amos Fedorovič Ljapkin-Ťapkin** (v některých překladech Ljapkin-Tjapkin, „**sudí**“)
+    - soudce, který „přečetl pět šest knížek a proto se má za trochu liberála“
+    - bere úplatky, ovšem podle sebe „nevinně“ – jen ve formě **štěňátek loveckých psů** („Štěňátka, prosím, štěňátka… to je něco docela jiného!“)
+    - karikaturně sebevědomý, basově hovořící, neschopný; v soudních místnostech mu visí karabáč a suší se tam prádlo
+- **Artemij Filipovič Zemljanika** (rusky „jahoda“)
     - kurátor chudinských ústavů
-    - vtíravě úslužný, tlustý, nepořádný a zároveň donašečský
-    - při návštěvě u Chlestakova okamžitě pomlouvá ostatní.
+    - vtíravě úslužný, tlustý, nepořádný a zároveň donašečský („hladký jako úhoř“)
+    - při návštěvě u Chlestakova okamžitě pomlouvá a udává všechny ostatní (poštmistra, sudího, školního inspektora) – nemá žádnou loajalitu
 - **Luka Lukič Chlopov, školní inspektor**
-    - ustrašený, nervózní, bázlivý
-    - před Chlestakovem se úplně rozpadá a koktá.
+    - ustrašený, nervózní, bázlivý – „třese se jako osikový list“
+    - před Chlestakovem se úplně rozpadá a koktá
+    - sám neví, co provedl, ale bojí se ze zvyku
+- **Christian Ivanovič Hübner** – okresní doktor, **Němec, neumí slovo rusky**, jen občas vydá ze sebe nečlánkovaný zvuk; komická figura
+- **Deržimorda, Svistunov, Pugovicyn** – brutální policisté hejtmana, ztělesnění nikolajevského policejního režimu
+- **Abdulin** + kupci – obyvatelé, které hejtman dlouhodobě „dře z kůže“; v 5. aktu si přijdou Chlestakovi stěžovat
 
 ## Jazykové a kompoziční prostředky
 
 - **rychlé dialogy, přerušování, zmatky, nedořečené věty** vytvářejí tempo, chaos a komický efekt; zvlášť krásně je to vidět u Bobčinského a Dobčinského.
-- **satira, ironie a groteska**: postavy jsou karikované, ale ne jen pro pobavení; jejich směšnost odhaluje stav celé společnosti.
-- **mluvící jména** v originále naznačují povahu postav a zesilují karikaturu; v češtině to nejde vždy plně převést, ale efekt zůstává.
-- **motivy dopisu a zprávy** rámují děj: na začátku dopis vyvolá paniku, na konci dopis odhalí pravdu.
-- **němá scéna** na konci funguje jako silný symbolický obraz viny, šoku a náhlého zastavení veškerého žvanění. Gogol chtěl, aby působila jako „živý obraz“.
+- **satira, ironie, hyperbola a groteska**: postavy jsou karikované, ale ne jen pro pobavení; jejich směšnost odhaluje stav celé společnosti.
+- **mluvící jména** v originále naznačují povahu postav a zesilují karikaturu (Ljapkin-Ťapkin = „odbýt-přebýt“, Skvoznik-Dmuchanovský = „průvan-naparovač“, Zemljanika = „jahoda“, Chlopov ≈ „chlap“, Deržimorda = „drž hubu“); v češtině to nejde vždy plně převést, ale efekt zůstává.
+- **motivy dopisu a zprávy** rámují děj: na začátku dopis Čmychova vyvolá paniku, na konci Chlestakovův dopis Trjapičkinovi odhalí pravdu – kompoziční oblouk (rámcová kompozice).
+- **charakterizace přes řeč** – každá postava mluví jinak: hejtman věcně a hrubě, sudí basem a protáhle, Bobčinský s Dobčinským překotně a koktavě, Osip drsně a přízemně, Chlestakov trhaně a impulzivně.
+- **groteska a zvrat komiky v tragiku** – Gogolův kompoziční princip; po čtyřech aktech bujarého smíchu přichází v závěru náhlé „zkamenění“, vážný šok.
+- **němá scéna** (živý obraz, ruský **живая картина**) na konci funguje jako silný symbolický obraz viny, šoku a náhlého zastavení veškerého žvanění. Gogol výslovně psal, že má trvat **2–3 minuty** (resp. „skoro minutu, než padne opona“) a působit jako **„živý obraz“** – výtvarná, sochařsky komponovaná skupina zkamenělých postav.
 
 ## Poznávačka úryvků
 
-- „**k nám jede revizor z Petrohradu – inkognito**“ → začátek hry, panika úředníků
-- hostinec, mladý muž z Petrohradu, neplatí účet → záměna Chlestakova za revizora
-- jednotliví úředníci nosí „půjčky“, udávají se navzájem → korupce a strach
-- dlouhé vytahování o Petrohradu, známostech, ženách, postavení → **chlestakovština**
-- poštmistr čte rozpečetěný dopis Trjapičkinovi → odhalení omylu
-- četník oznamuje příjezd pravého revizora, všichni zkamení → závěrečná němá scéna
+- „**Pánové, sezval jsem vás z toho důvodu, abych vám oznámil zatrápeně nepříjemnou věc: k nám jede revizor… Revizor z Petěrburgu – inkognito. A k tomu prý s tajnými instrukcemi!**“ → úvodní replika hejtmana, začátek hry, panika úředníků
+- hostinec, mladý muž z Petrohradu (Saratov, civilní šaty), neplatí účet → záměna Chlestakova za revizora (Bobčinský + Dobčinský)
+- „**Štěňátka, prosím, štěňátka… úplatky beru, ale jaké úplatky?**“ → sudí Ljapkin-Ťapkin (úplatkářství)
+- jednotliví úředníci nosí „půjčky“ a udávají se navzájem → korupce a strach
+- dlouhé vytahování o Petrohradu, známostech, ženách, postavení, „melounu za sedm set rublů“, řízení ministerstva → **chlestakovština** (3. akt, „lhaní s citem“)
+- poštmistr Špekin čte rozpečetěný dopis Trjapičkinovi („Život můj, druhu milený…“) → odhalení omylu
+- četník oznamuje příjezd **pravého revizora** z Petrohradu, který si žádá všechny do hostince → závěrečná **němá scéna**
 
 ## Maturitní interpretace
 
@@ -141,17 +155,28 @@ Všechno jsou karikatury
 
 ## Podobní autoři (téma, období)
 
-- **Alexandr Sergejevič Puškin (1799–1837)** – ruský romantismus; Pushkin Gogolovi dal **náměty** k Revizorovi i k Mrtvým duším. Sám psal **Evžena Oněgina** a **Pikovou dámu**.
+- **Alexandr Sergejevič Puškin (1799–1837)** – ruský romantismus; Puškin Gogolovi dal **náměty** k Revizorovi i k Mrtvým duším. Sám psal **Evžena Oněgina**, **Pikovou dámu**, **Kapitánskou dcerku**.
 - **Michail Jurjevič Lermontov (1814–1841)** – ruský romantismus, společenská kritika; **Hrdina naší doby**.
-- **Fjodor Michajlovič Dostojevskij (1821–1881)** – ruský realismus; psychologická hloubka, kritika ruské společnosti. Sám se k Gogolovi přiznával: **„Všichni jsme vyšli z Gogolova Pláště.“**
-- **Lev Nikolajevič Tolstoj** – ruský realismus 19. století; širší společenský záběr.
+- **Ivan Sergejevič Turgeněv** – ruský realismus; **Otcové a děti** (generační střet, kritika ruské společnosti).
+- **Fjodor Michajlovič Dostojevskij (1821–1881)** – ruský realismus; psychologická hloubka, kritika ruské společnosti. Sám se k Gogolovi přiznával: **„Všichni jsme vyšli z Gogolova Pláště.“** Díla: **Zločin a trest**, **Idiot**, **Bratři Karamazovovi**.
+- **Lev Nikolajevič Tolstoj** – ruský realismus 19. století; širší společenský záběr (**Vojna a mír**, **Anna Karenina**).
+- **Anton Pavlovič Čechov** – pozdější ruský realismus, drama; podobně využívá satiry a tragikomiky (**Tři sestry**, **Višňový sad**).
 - **Charles Dickens** – anglický kritický realismus 19. století; satirická kritika institucí (úřady, soudy, sirotčince), galerie typizovaných figurek.
 - **Honoré de Balzac** – francouzský realismus 19. století; **Lidská komedie** jako velký obraz společnosti, kariérismus, peníze, pokrytectví.
-- **Jaroslav Hašek – Osudy dobrého vojáka Švejka**: ironizace rakouského byrokratického a vojenského aparátu, „šveikování“ je v jistém smyslu rakouský protějšek Chlestakovova „úspěchu“.
-- **Karel Havlíček Borovský – Křest svatého Vladimíra, Tyrolské elegie**: česká obrozenecká satira, ironický pohled na úřady a moc; podobné období jako Gogol.
-- **Molière** – francouzská klasicistní komedie 17. století; jiný styl (komedie charakteru), ale příbuzná metoda – jedna lidská slabost dovedena do extrému.
+- **Jaroslav Hašek – Osudy dobrého vojáka Švejka**: ironizace rakouského byrokratického a vojenského aparátu, „švejkování“ je v jistém smyslu rakouský protějšek Chlestakovova „úspěchu“.
+- **Karel Havlíček Borovský – Křest svatého Vladimíra, Tyrolské elegie, epigramy**: česká obrozenecká satira, ironický pohled na úřady a moc; podobné období jako Gogol.
+- **Molière** – francouzská klasicistní komedie 17. století; jiný styl (komedie charakteru), ale příbuzná metoda – jedna lidská slabost dovedena do extrému (Lakomec, Tartuffe, Misantrop).
 
 ⚠️ **Důležité odlišení – nezaměňovat:** Gogol = **ruský realismus s prvky grotesky a satiry, 1. polovina 19. století**. Je to současník Mácha, **přítel Puškina**, dílo z roku **1836** (definitivní 1842).
+
+### Typické chyby / fake mýty (pozor u zkoušení!)
+
+- Gogol **psal rusky**, i když byl **ukrajinského původu** – patří do **ruské** literatury.
+- **Revizor není román** – je to **drama** (satirická komedie o 5 aktech).
+- **Chlestakov NENÍ revizor** – je to drobný úředníček omylem zaměněný za revizora; **pravý revizor přijíždí až úplně na konci** (a na jevišti se neobjeví – jen je ohlášen).
+- Konec **NENÍ happyend**, ale ani jednoduchý trest – je to **němá scéna**, otevřený groteskní finále, kdy postavy zkamení strachem.
+- Hra **nemá hlavní kladnou postavu** – Gogol výslovně psal, že jedinou „poctivou osobou“ hry je **smích**.
+- Chlestakov **NENÍ rafinovaný podvodník** – sám není ten, kdo by druhé chytře oklamal. Klame ho **strach a sebeklam** úředníků.
 
 ## Co říct u zkoušení, aby bylo vidět, že to fakt znáš
 

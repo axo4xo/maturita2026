@@ -1,19 +1,24 @@
 # 3/20: Molière – Lakomec 💦⚠️
 
+> ⚠️ **Pozor na záměnu autora!** Lakomce napsal **Molière** (Francie, 17. století, klasicismus), **NE Carlo Goldoni** (Itálie, 18. století, reforma commedie dell'arte; autor *Sluhy dvou pánů*). Jsou to dva úplně jiní autoři, dvě století, dvě země, dva literární směry. Viz oddíl „Podobní autoři“ níže.
+
 ## Druh a žánr
 
 - **Literární druh:** drama
-- **Žánr:** **komedie**, přesněji se běžně chápe jako **komedie charakteru** a zároveň **komedie mravů**
-- **Forma:** divadelní hra psaná **prózou**
-- **Kompozice:** **5 jednání**, děj je převážně chronologický a směřuje ke komediálnímu rozuzlení
-- Dílo patří do **francouzského klasicismu** (typická inspirace v antice)
+- **Žánr:** **komedie**, přesněji **komedie charakteru** (vystavěná na jedné extrémní povahové vadě – lakotě) a zároveň **komedie mravů** (satira měšťáctví, vztahu k penězům, sňatku jako obchodu)
+- **Forma:** divadelní hra psaná **prózou** – to je u Molièra **výjimka**: většinu velkých komedií psal ve verších (alexandrín, např. *Tartuffe*, *Misantrop*). Současníci byli prózou v „klasické“ komedii zaskočeni a Lakomec měl při premiéře jen vlažný úspěch.
+- **Kompozice:** **5 jednání** (typická klasicistní stavba), děj je převážně chronologický a směřuje ke komediálnímu rozuzlení („happy end“ přes odhalení identity).
+- Dílo patří do **francouzského klasicismu 17. století** (řád, typizace postav, blízkost antickým vzorům, snaha o jednoty – viz níže).
 
 ## Autor a literárněhistorický kontext
 
-- **Molière**, vlastním jménem **Jean-Baptiste Poquelin**, byl francouzský dramatik, herec a vedoucí divadelní společnosti, považovaný za největšího autora francouzské komedie. Žil v letech **1622–1673** a působil hlavně ve Francii za vlády **Ludvíka XIV.**
-- Patří k vrcholům **francouzského klasicismu** 17. století. Ve svých hrách často kritizuje pokrytectví, snobství, přetvářku, fanatismus nebo lakotu.
-- Další známá díla: **Tartuffe**, **Misantrop**, **Zdravý nemocný**.
-- **Lakomec (L'Avare)** byl poprvé uveden **9. září 1668** v pařížském Palais-Royal, vyšel tiskem **1669** a čerpá ze starší antické komedie, konkrétně z **Plautovy Komedie o hrnci (Aulularia)**. Postava lakomce má i jméno spojené s tématem – řecké slovo „harpagos“ znamená „loupežník / chamtivec“.
+- **Molière**, vlastním jménem **Jean-Baptiste Poquelin** (*1622 Paříž – †1673 Paříž*), byl francouzský dramatik, herec a vedoucí divadelní společnosti (působil i jako její principál a režisér), považovaný za největšího autora francouzské klasicistní komedie.
+- Pocházel z měšťanské rodiny dvorního čalouníka. Místo právnické dráhy zvolil divadlo: dvanáct let s kočovnou společností brázdil Francii, roku 1658 se vrátil do Paříže a získal **přízeň krále Ludvíka XIV.** („krále Slunce“). Hrál pak hlavně v divadle **Palais-Royal**.
+- Zemřel **17. února 1673** krátce po čtvrtém představení *Zdravého nemocného*, ve kterém sám hrál hlavní roli (chrlení krve). Pro divadelnické povolání mu kněží zprvu odepřeli i řádný církevní pohřeb.
+- Patří k vrcholům **francouzského klasicismu 17. století**, vedle tragiků **Pierra Corneilla** (*Cid*) a **Jeana Racina** (*Faidra*, *Britannicus*). Ve svých hrách kritizuje **pokrytectví, snobství, přetvářku, fanatismus, učenost na efekt a lakotu** – vždy přes jednu povahovou vadu dovedenou do extrému (komedie charakteru).
+- **Další známá díla:** *Tartuffe aneb Podvodník* (satira náboženského pokrytectví), *Misantrop*, *Don Juan*, *Zdravý nemocný (Le Malade imaginaire)*, *Měšťák šlechticem (Le Bourgeois gentilhomme)*, *Škola žen*, *Učené ženy*, *Směšné preciózky*.
+- **Lakomec (*L'Avare*)** byl poprvé uveden **9. září 1668** v pařížském **Palais-Royal** (Molière sám hrál Harpagona), tiskem vyšel **1669**. Látka i základní zápletka jsou inspirovány antickou komedií **Plauta – *Komedie o hrnci (Aulularia)*** s postavou skrblíka Euclia. Molière předlohu výrazně přetváří, zatímco Plautus končí spíš fraškou, Molièrův Harpagon má až tragické rysy.
+- **Etymologie jména Harpagon:** z latinského **harpago** = „hák, lupičský háček“ (na strhávání lodí), resp. z řeckého **ἁρπαγή / harpagé** = „uchopení, lup, hrabivost“. Jméno tedy hned napovídá charakter postavy: chamtivec, který vše hrabe k sobě.
 
 ## Téma a motivy
 
@@ -23,8 +28,10 @@
 
 ## Časoprostor
 
-- **Prostředí:** **Paříž**, konkrétně **dům Harpagonův**.
-- **Čas:** neurčený, ale děj působí jako krátký, souvislý úsek.
+- **Prostředí:** **Paříž, dům Harpagonův** (a jeho zahrada, kde má zakopanou kazetu s penězi). V textu Molière jednoznačně píše: „Děj v Paříži v domě Harpagonově.“ → splňuje klasicistní **jednotu místa**.
+- **Čas:** neurčený, ale děj se odehrává během **jednoho dne** (ráno → svatba téhož večera) → splňuje **jednotu času** (klasicistní pravidlo 24 hodin).
+- **Jednota děje:** jedna hlavní dějová linie (Harpagonova lakota a sňatkové intriky), všechny vedlejší linie (lichva, krádež kazety, dvě tajné lásky) se sbíhají k jedinému rozuzlení v 5. jednání → splňuje **jednotu děje**.
+- Lakomec tedy poměrně věrně dodržuje klasicistní **pravidlo tří jednot** (čas, místo, děj), které francouzský klasicismus přejal z aristotelské *Poetiky*.
 
 ---
 
@@ -36,32 +43,33 @@ Harpagon chce Elišku provdat za **Anselma** hlavně proto, že si ji chce vzít
 
 Harpagon se avšak chce oženit s **Marianou**, do které je zamilovaný i jeho syn Kleant. Tím vzniká klíčový konflikt otec versus syn, a to nejen kvůli penězům, ale i kvůli lásce. Harpagon nejdřív netuší, že Kleant miluje tutéž dívku, a když to vyjde najevo, dostanou se do otevřeného střetu.
 
-Další důležitá linie je Harpagonova **lichva**. Kleant zoufale potřebuje peníze a přes prostředníka si chce půjčit velkou částku, jenže nakonec zjistí, že bezohledným věřitelem je jeho vlastní otec. 
+Další důležitá linie je Harpagonova **lichva**. Kleant zoufale potřebuje peníze a přes prostředníka (lichváře **Simona**) si chce půjčit **patnáct tisíc franků** za neuvěřitelně vydřidušských podmínek. Když se obě strany sejdou tváří v tvář, vyjde najevo, že bezohledným věřitelem je jeho **vlastní otec Harpagon**. Z této scény vyplyne otevřený konflikt: syn obviní otce z lichvy, otec syna z rozhazovačnosti.
 
-Harpagon své bohatství skrývá v **kase** zakopané na zahradě. Sám si v jednu chvíli polohlasem pochvaluje, že tam zakopal **deset tisíc tolarů ve zlatě**. Právě tahle kasa je skutečným předmětem jeho lásky, mnohem důležitějším než rodina. Kleantův sluha **Čipera** ji nakonec objeví a ukradne. 
+Harpagon své bohatství skrývá v **kazetě (kasičce)** zakopané na zahradě. Sám si v monologu pochvaluje, že tam zakopal **deset tisíc tolarů ve zlatě** („pravé luisdory a těžké pistoly“). Právě tahle kazeta je skutečným předmětem jeho lásky, mnohem důležitějším než rodina. Kleantův sluha **La Flèche** (ve starších českých překladech, např. Vrchlického, „La Flèche“; v modernějších překladech bývá počeštěn jako **Čipera** nebo **Šipka** – jméno francouzsky znamená „šíp“) kazetu objeví a ukradne.
 
-Harpagon vběhne na jeviště a hystericky vykřikuje, že je ztracen, zavražděn a podříznut, protože mu ukradli peníze. Jeho reakce je záměrně přehnaná a ukazuje, že ztrátu pokladny prožívá skoro jako vlastní smrt. Tahle scéna je vrcholem **komiky charakteru**: Harpagonova posedlost je už tak extrémní, že z něj dělá téměř šílence. Přivolá policejního komisaře, podezírá úplně všechny a chvílemi působí, že by dal zatknout celé město.
+Ve **4. jednání, výstupu 7** přichází nejslavnější scéna celé hry – **Harpagonův monolog po ztrátě kazety**. Vběhne na jeviště bez klobouku a hystericky vykřikuje: *„Zloději! Zloději! Vrahové! Pomoc! – Vražda! (…) Jsem ztracen, zničen, zavražděn, podřezali mně chřtán! – Ukradli mi peníze!“* Mluví k sobě, chytá si vlastní ruku jako zloděje, oslovuje peníze jako milence („Mé drahé, ubohé peníze! Můj příteli, ukradli mi tebe!“) a hrozí, že dá pověsit celé město a nakonec sám sebe. Reakce je záměrně přehnaná a ukazuje, že ztrátu prožívá jako vlastní smrt. Vrchol **komiky charakteru** i **komiky jazykové** (hyperbola, řečnické otázky, výkřiky). Hra při tom dokonce naráží na **rozbití divadelní iluze**: Harpagon se obrací do hlediště („Není ukryt mezi vámi? Dívají se na mne a všichni se smějí!“). Přivolá policejního **komisaře** a podezírá úplně všechny.
 
-Vyšetřování se pak mění v další komickou řadu omylů. **Mistr Jakub** ze msty křivě obviní Valera. Harpagon si pak myslí, že Valer mluví o ukradené kase, zatímco Valer ve skutečnosti mluví o své lásce k Elišce. Vzniká tak známá komická scéna založená na nedorozumění: Harpagon slyší v každém slově narážku na peníze, i když se mluví o citech. 
+Vyšetřování se pak mění v další komickou řadu omylů. **Mistr Jakub** ze msty (Valer ho předtím porazil holí) **křivě obviní Valera**. Harpagon se s Valerem střetne v ikonické **scéně na dva významy (qui pro quo)**: Harpagon mluví o ukradené **kazetě**, Valer si myslí, že jde o jeho **lásku k Elise**, a tak se hrdě hlásí ke svému „činu“ a chválí krásu „toho pokladu“. Harpagon slyší v každém slově narážku na peníze, i když se mluví o citech. Hra slov je tak jedna z nejslavnějších komických scén celé francouzské klasiky.
 
-Rozuzlení přichází ve chvíli, kdy se ukáže, že Valer a Mariane jsou sourozenci a že jejich otec je právě **Anselm**, který se ve skutečnosti jmenuje **don Thomas d’Alburci**. Rodina byla kdysi rozdělena po neštěstí na moři. Anselm tak náhle pozná své děti a celé klubko vztahů se rozmotá. 
+Rozuzlení přichází přes klasický motiv **odhalení ztracené šlechtické identity** („agnitio“, antický postup): vyjde najevo, že **Valer a Mariana jsou sourozenci** a že jejich otcem je sám **Anselm**, ve skutečnosti urozený neapolský šlechtic **don Thomas d'Alburci**. Rodina byla kdysi rozdělena po ztroskotání lodi v moři během neapolského povstání (před šestnácti lety), všichni se navzájem považovali za mrtvé. Anselm pozná své děti, Mariana svou sestru a bratra. Závěr má rysy **deus ex machina** – Anselm „spadne z nebe“ ve správnou chvíli, vyřeší původ obou mladých milenců i finanční problémy.
 
-Na konci Anselm souhlasí, že uhradí náklady obou sňatků. Kleant si tedy může vzít Marianu, Valer Elišku, a Harpagon dostane zpět svou kasu. Jeho poslední starostí dokonce je, zda dostane i **nový oblek ke svatbě**, což krásně ukazuje, že se nijak nezměnil. Komedie tedy končí „šťastně“, ale satirická pointa zůstává: Harpagon se nepoučil a dál myslí hlavně na peníze. Úplně poslední replika zní, že on sám spěchá **ke své kasičce**.
+Na konci **Anselm souhlasí, že uhradí náklady obou sňatků** i poplatky komisaři. **Kleant** si tedy může vzít Marianu, **Valer** Elisu, a Harpagon dostane zpět svou kazetu (drží ji Kleant jako rukojmí: „buď mi dejte Marianu, buď oželte svou kasu“). Jeho poslední starostí dokonce je, aby dostal **nový oblek ke svatbě**, což ukazuje, že se nijak nezměnil. Komedie končí „šťastně“ pro mladé, ale satirická pointa zůstává: **Harpagon se nepoučil**. Úplně poslední replika hry zní – Harpagon: *„A já, rychle k své kasičce!“* Místo aby šel slavit dvě svatby svých dětí, utíká k penězům. Pravá láska Harpagonova není ani Mariana, ani rodina – jsou to peníze.
 
 ---
 
 ## Charakteristika postav
 
-- **Harpagon** – starší vdovec, měšťan, skrblík a lichvář; peníze miluje víc než vlastní děti. Je centrem komiky i hlavním terčem satiry. Jeho lakota je tak přehnaná, že se stává skoro chorobnou posedlostí.
-- **Eliška** – Harpagonova dcera; miluje Valera, ale bojí se otcovy vůle. Je citová, rozumná a stojí proti otcově bezcitnému obchodnímu uvažování. Už v prvním výstupu je jasné, že ji s Valerem spojuje skutečný cit a že má strach z otcova hněvu.
-- **Kleant** – Harpagonův syn; miluje Marianu a aktivně se staví proti otcově chamtivosti. Je impulzivnější než Elisa a vstupuje s otcem do přímějšího konfliktu.
-- **Mariana** – chudá, slušná dívka, kterou miluje Kleant a chce si ji vzít i Harpagon. Není jen pasivní figurka, ale důležitý bod střetu mezi láskou a obchodem. Nakonec se ukáže jako dcera Anselma a sestra Valera.
-- **Valer** – zamilovaný do Elisy; vstoupil do Harpagonovy služby, aby jí byl nablízku. Je schopný, přizpůsobivý a chytře si získává Harpagonovu důvěru. Nakonec se ukáže jako Anselmův syn.
-- **Anselm** – muž, kterému chce Harpagon dát Elisu, protože ji chce bez věna. V závěru se odhalí jako **don Thomas d’Alburci**, otec Mariany a Valera, a právě on financuje komediální rozuzlení. Takže není přesné psát jen „šlechtic“. Důležitější je jeho role ztraceného otce a nositele závěrečného usmíření.
-- **Čipera** – sluha Kleantův; mazaný, jízlivý a akční. Pomůže s krádeží kasy a stává se hybatelem zvratu.
-- **Mistr Jakub** – Harpagonův kuchař i kočí, výrazná komická figura. Ve vyšetřování ze msty obviní Valera a tím spustí slavnou scénu nedorozumění.
-- **Frosina** – pletichářka a dohazovačka; pomáhá rozhýbávat vztahové intriky kolem Harpagona a Mariany. MLP ji přímo uvádí jako **pletichářku**.
-- **Simon** – lichvářský prostředník v půjčce mezi Kleantem a Harpagonem; je užitečné ho znát, protože připomíná Harpagonovu finanční bezohlednost.
+- **Harpagon** – starší vdovec, **pařížský měšťan, skrblík a lichvář**; peníze miluje víc než vlastní děti. Centrum komiky i hlavní terč satiry. Klasicistní **typ** – jedna pokřivená vlastnost (lakota) dovedená do extrému. Současně chce mladou Marianu pro sebe, syna a dceru by nejraději provdal/oženil bez výdajů („**bez věna!**“). Skrz celou hru se podřekává, mluví ve finančních termínech i o citech (vše je „obchod“, „položka“). Nakonec se nepolepší.
+- **Elisa** (česky Eliška) – Harpagonova dcera; miluje **Valera**, který jí kdysi zachránil život z mořských vln. Je citová a rozumná, ale bojí se otcova hněvu. Stojí proti otcově obchodnímu uvažování o sňatku, otec ji chce násilím provdat za starého Anselma „bez věna“.
+- **Kleant** (Cléante) – Harpagonův syn; miluje **Marianu**, do které je zamilovaný i jeho otec → klíčový konflikt **otec versus syn** o tutéž ženu. Je impulzivnější než Elisa, otevřeně se s otcem hádá a v ději aktivně hraje (přes La Flèche zorganizuje krádež kazety jako vyděračskou páku, aby získal Marianu).
+- **Mariana** – chudá, slušná dívka; miluje Kleanta, Harpagon si ji chce vzít. Z nouze se zaplete do Frosininých intrik. Není jen pasivní figurka – v závěru se ukáže jako **dcera Anselma a sestra Valera**.
+- **Valer** (Valère) – zamilovaný do Elisy; vstoupil pod falešnou identitou do Harpagonovy služby jako **správce domu**, aby byl Elise nablízku. Je obratný pochlebník a chytře si získává Harpagonovu důvěru („podkuřuje“ mu i ve scéně „bez věna!“). Nakonec se odhalí jako **syn Anselma** (don Thomas d'Alburci), urozený Neapolitán.
+- **Anselm** – starší muž, kterému chce Harpagon dát Elisu, protože ji chce **bez věna**. V závěru se odhalí jako **don Thomas d'Alburci**, urozený Neapolitán, otec Mariany a Valera, který přežil ztroskotání lodi. Financuje obě svatby a uzavírá komedii usmířením – funguje jako **deus ex machina**.
+- **La Flèche / Čipera** (fr. „šíp“) – sluha Kleantův; mazaný, jízlivý, kuje pikle. Pomůže s krádeží kazety – on je tím, kdo „uloví“ Harpagonův poklad. Důležitý komentátorský hlas: jeho proslulé „Mor na lakotu i lakomce!“ je metaforické motto celé hry.
+- **Mistr Jakub** (Maître Jacques) – Harpagonův **kuchař i kočí v jedné osobě** (úsporný Harpagon mu nechce platit za dvě místa). Výrazná komická figura, který chce všem vyhovět. Ze msty (Valer ho ponížil holí) ho **křivě obviní** z krádeže a tím spustí slavnou scénu nedorozumění s Valerem.
+- **Frosina** – **pletichářka a dohazovačka**, snaží se Harpagonovi domluvit sňatek s Marianou, využívá jeho lakoty (přesvědčuje ho, že Mariana ho miluje a že je úsporná, „naučená nezdravým živobytím“). Komická figurka manipulátorky.
+- **Simon (Šimon)** – **lichvářský prostředník**, který Kleantovi zprostředkovává půjčku. V poznané scéně se ukáže, že věřitel je sám Harpagon – ukazuje to Harpagonovu finanční bezohlednost vůči vlastnímu synovi.
+- **Policejní komisař**, **paní Claude**, **Brindavoine a La Merluche** – vedlejší postavy služebnictva a úřadu.
 
 ## Kompozice a typ komiky
 
@@ -72,24 +80,46 @@ Na konci Anselm souhlasí, že uhradí náklady obou sňatků. Kleant si tedy m�
 
 ## Jazykové prostředky
 
-- **Hyperbola** – nejvýrazněji ve scéně po ztrátě kasy, kdy Harpagon křičí, že je zničen, zavražděn a podříznut.
-- **Opakování, výkřiky, otázky** – dávají dialogům nervózní tempo a podporují jevištní účinek. Harpagonův monolog po krádeži je v tomhle skoro učebnicový.
-- **Ironie a satira** – hra zesměšňuje lakotu, pokrytectví a sňatek jako ekonomickou transakci
-- **Kontrast** – mladí lidé jednají z lásky, Harpagon z vypočítavosti. Tohle je hlavní hodnotový střet celé hry.
-- **Deus ex machina** - příchod Anselma
+- **Próza** (ne verš) – jazyk je živý, hovorový, přizpůsobený postavám: Harpagon mluví obchodně, La Flèche jízlivě, milenci ozdobně.
+- **Hyperbola (nadsázka)** – nejvýrazněji v monologu po ztrátě kazety: „**zničen, zavražděn, podřezali mně chřtán**“, „dám pověsit celý svět“.
+- **Apostrofa** – Harpagon oslovuje peníze jako milence: „**Mé drahé, ubohé peníze! Můj příteli, ukradli mi tebe!**“
+- **Řečnické otázky a výkřiky** – dávají dialogům nervózní tempo a podporují jevištní účinek. Harpagonův monolog je v tomhle učebnicový.
+- **Anafora a repetice** – „Deset tisíc tolarů! / Deset tisíc tolarů!“; opakované „bez věna!“.
+- **Ironie a satira** – hra zesměšňuje lakotu, pokrytectví a sňatek jako ekonomickou transakci.
+- **Qui pro quo / komika nedorozumění** – Valer a Harpagon mluví o dvou různých věcech (Eliska × kazeta) a každý si vykládá druhého po svém.
+- **Kontrast** – mladí jednají z lásky, Harpagon z vypočítavosti. Hlavní hodnotový střet celé hry: **láska × peníze, mládí × stáří, cit × kalkulace**.
+- **Deus ex machina** – nečekaný příchod / odhalení Anselma jako don Thomase d'Alburci vyřeší zápletku.
+- **Typizace postav** (klasicistní princip) – postavy jsou nositelé vlastností, ne psychologické portréty: Harpagon = Lakota, Frosina = Pletichářství, La Flèche = Šibal, Anselm = Šlechetný otec.
 
-## Mini-tahák
+## Mini-tahák (klíčová fakta na jeden nádech)
 
-- **Scéna se ztracenou kasou** – vrchol Harpagonovy posedlosti; ukazuje, že peníze pro něj znamenají víc než lidé.
-- **„Bez věna!“** – perfektní ukázka, že Harpagon mění dceřin život v účetní kalkulaci.
-- **Střet o Marianu** – otec a syn milují tutéž dívku; komedie tím spojuje peníze, generace i lásku.
-- **Odhalení Anselma** – typické komediální rozuzlení přes ztracenou identitu a znovunalezenou rodinu.
-- **Konec** – všechno se vyřeší, protože Anselm zaplatí výdaje, Harpagon dostane kasu zpět a běží k ní jako ke svému pravému životnímu partnerovi. Jak něžné.
+- **Autor:** Molière, vl. jm. **Jean-Baptiste Poquelin** (**1622–1673**), Francouz, klasicismus, dvůr Ludvíka XIV. **NE Goldoni!** (ten je Ital, 18. stol.)
+- **Premiéra:** **9. září 1668**, Paříž, **Palais-Royal**. Tisk 1669.
+- **Originální název:** *L'Avare* (lakomec).
+- **Druh/žánr:** drama – **komedie charakteru** a komedie mravů; **5 jednání**, **próza** (u Molièra netypicky, většinou píše veršem).
+- **Předloha:** **Plautus – Komedie o hrnci (Aulularia)**, antický římský dramatik.
+- **Etymologie:** **Harpagon** z lat. *harpago* = hák / řec. *harpagé* = hrabivost.
+- **Místo a čas:** **Paříž, dům Harpagonův, jeden den** → splňuje **tři jednoty** (čas, místo, děj).
+- **Hlavní postavy:** Harpagon, Cléante (Kleant – syn), Élise (dcera), Mariana, Valère, Anselm (= don Thomas d'Alburci), Frosina, La Flèche (= Čipera), mistr Jakub, Simon.
+- **Klíčové scény:**
+  - „**Bez věna!**“ – Harpagon nutí Elisu vzít si Anselma, protože ji chce bez věna.
+  - **Půjčka s lichvou** – syn si chce půjčit u otce, oba to nevědí.
+  - **Krádež kazety** (10 000 tolarů ve zlatě, „luisdory a pistoly“) La Flèchem ze zahrady.
+  - **Monolog 4. jednání, 7. výstup** – „**Zloději! Zloději! Vrahové!**“; vrchol komiky charakteru.
+  - **Qui pro quo Harpagon × Valer** – jeden mluví o peněžence, druhý o Elise.
+  - **Odhalení Anselma** jako don Thomase d'Alburci, otce Mariany i Valera.
+  - **Závěr:** Anselm zaplatí obě svatby (Kleant + Mariana, Valer + Elisa), Harpagon dostane kazetu a poslední slovo hry: „**A já, rychle k své kasičce!**“
+- **Hlavní téma:** chorobná **lakota** ničí rodinu a vztahy; **peníze vs. láska**, **otec vs. syn**, **kalkul vs. cit**.
+- **Pointa:** Harpagon se NEPOLEPŠÍ. Satira zůstává trpká.
+- **Další Molière:** *Tartuffe*, *Misantrop*, *Don Juan*, *Zdravý nemocný*, *Měšťák šlechticem*, *Škola žen*.
+- **Současníci (FR klasicismus):** Corneille (*Cid*), Racine (*Faidra*), La Fontaine (*Bajky*), Boileau.
 
 ## Autor, historický kontext, zasazení
 
-- **Francouzský klasicismus** kladl důraz na řád, přehlednost, typizaci postav a jasně vedený děj. **Lakomec** do tohoto rámce dobře zapadá, i když Molière je živější a méně mechanický, než jak to někdy zní ve školních poučkách.
-- U **Lakomce** je správné mluvit o klasicistní přehlednosti a blízkosti jednot, hlavně **jednotě místa**, protože děj se odehrává v Harpagonově domě v Paříži. S pravidlem tří jednot bych ale zacházel opatrně a nepsal to jako absolutní poučku, protože to není to nejdůležitější, co chceš u maturity prodat. Důležitější je, že jde o komedii, která zesměšňuje jednu pokřivenou vlastnost dovedenou do extrému.
+- **Francouzský klasicismus (17. století)** byl umělecký směr, který se rozvíjel za vlády **Ludvíka XIV.** (1643–1715), tzv. „krále Slunce“ a centralizovaného absolutistického dvora ve Versailles. Klade důraz na **řád, rozum, harmonii, jasnou kompozici, typizaci postav a antické vzory** (Aristoteles, Horatius, Plautus, Seneca). V poetice se odráží v dramatu: **tři jednoty (času, místa, děje)**, oddělení žánrů (komedie x tragédie), vznešený styl pro tragédii.
+- **Lakomec** do tohoto rámce zapadá: dodržuje jednoty, postava Harpagona je čítankový **klasicistní typ** (jedna vlastnost = celá postava), zápletka pochází z antického Plauta, závěr směřuje k harmonickému uspořádání.
+- Molière je ale **živější než „chladná“ tragická klasika** Corneilla nebo Racina – využívá lidové prvky **commedie dell'arte** (typy služebníků, situační gagy, masky), kterou znal z italských kočovných herců působících v Paříži. Zatímco italská commedia dell'arte stála na improvizaci a maskách, klasicismus to nahradil **pevně napsaným textem** – a v této tradici působil v 17. století Molière (a o století později ji v Itálii reformoval Goldoni; ti dva jsou ale jiná epocha a jiný literární kontext, viz níže).
+- **Český kontext:** klasicismus byl v českých zemích slabý a opožděný – v 17. století u nás vrcholí baroko (Komenský, Bridel, Michna). První polovina 18. století je v Čechách stále barokní, klasicismus přichází až s pozdním osvícenstvím (J. Dobrovský, J. Jungmann) a hlavně v podobě **národního obrození**, které má jiné priority než společenská satira.
 
 ## Co říct u zkoušení, aby bylo vidět, že to fakt znáš
 
@@ -99,19 +129,54 @@ A druhá dobrá věc: závěr sice působí šťastně, protože mladí dostanou
 
 ### Podobní autoři (téma, období)
 
-⚠️ **Důležité rozlišení – nezaměňovat:**
+⚠️ **KRITICKY DŮLEŽITÉ ROZLIŠENÍ – Molière ≠ Goldoni!**
 
-- **Molière (1622–1673)** – **francouzský klasicismus, 17. století**, vláda Ludvíka XIV. Komedie charakteru („jedna pokřivená vlastnost dovedená do extrému“ – lakota, pokrytectví, misantropie). Postavy jsou typy, ne psychologické portréty. Píše v Paříži pro dvorské publikum.
-- **Carlo Goldoni (1707–1793)** – **italský**, **18. století (osvícenství / rokoko)**, působil v Benátkách a Paříži. Reformátor commedie dell'arte: nahradil improvizaci a masky pevně napsaným textem a realističtějšími měšťanskými charaktery. Komedie charakterů a měšťanské společnosti – ale o **století později** než Molière, v jiné zemi a v jiném literárním kontextu. Hlavní díla: **Sluha dvou pánů**, **Mirandolina (Hostinská)**.
+| | **Molière** | **Carlo Goldoni** |
+|---|---|---|
+| Národnost | **Francouz** | **Ital** |
+| Doba | **1622–1673** (17. století) | **1707–1793** (18. století) |
+| Směr | **klasicismus** | osvícenství / rokoko |
+| Působil | Paříž, dvůr Ludvíka XIV. | Benátky, později Paříž |
+| Klíčové dílo | **Lakomec**, *Tartuffe*, *Misantrop*, *Don Juan* | **Sluha dvou pánů**, *Mirandolina* |
+| Postavy | klasicistní **typy** (jedna vlastnost) | reálnější měšťanské charaktery |
+| Forma | pevný klasický text, často veršem (alex.) | reforma commedie dell'arte (nahradil masky a improvizaci pevným textem) |
 
-**Stručné mnemotechnické rozlišení:** Molière = **Francie, 17. stol., klasicismus**. Goldoni = **Itálie, 18. stol., osvícenství, reforma commedie dell'arte**.
+**Mnemotechnika:** Molière = **F**rancie, **17.** st., **klasicismus**. Goldoni = **I**tálie, **18.** st., **commedia dell'arte**. Dělí je **století** a **Alpy**.
 
-**Další srovnatelní autoři:**
-- **Plautus (cca 254–184 př. n. l.)** – antická římská komedie; v komedii **Komedie o hrnci (Aulularia)** vystupuje lakomý stařec Euclio, jehož postavu si Molière přímo přejal jako předlohu Harpagona.
-- **Pierre de Marivaux (1688–1763)** – francouzská komedie 18. století, jemnější psychologie vztahů, lásky, sňatku a společenských rolí (tzv. „marivaudage“).
-- **Pierre-Augustin Caron de Beaumarchais (1732–1799)** – francouzská komedie konce 18. století, společenská satira, intriky (**Lazebník sevillský**, **Figarova svatba**); kritika šlechty.
-- **William Shakespeare (1564–1616)** – angl. renesance, postava lichváře Shylocka v **Kupci benátském** je další obraz chamtivosti, ale psychologicky složitější než typový Harpagon.
+**Současníci Molièra – francouzský klasicismus 17. století:**
 
-## Mezilitarální paralely (přes maturitní seznam)
+- **Pierre Corneille (1606–1684)** – tragik, **Cid** (rytířská tragédie cti a lásky, alexandrín).
+- **Jean Racine (1639–1699)** – tragik mladší generace, **Faidra**, *Britannicus*, *Andromaché* – psychologicky propracovaná klasicistní tragédie.
+- **Jean de La Fontaine (1621–1695)** – Molièrův přítel, autor veršovaných **Bajek** podle Ezopa.
+- **Nicolas Boileau (1636–1711)** – teoretik klasicismu (*Umění básnické / L'Art poétique*).
 
-- **Revizor (Gogol)** – obě hry jsou **komedie o totální ztrátě lidské důstojnosti**. Jedna lidská neřest (Harpagonova chamtivost / strach úředníků o místo) udělá z lidí absurdní karikatury. Harpagon kvůli penězům ničí štěstí vlastních dětí a chce dceru provdat bez věna; Gogolovi úředníci kvůli strachu o teplá místečka zahodí důstojnost a plazí se před úplnou nulou. **Pod humorem je v obou dílech drsná satira na to, jak nízko dokáže člověk klesnout** kvůli jedné posedlosti.
+**Antická předloha:**
+- **Plautus (cca 254–184 př. n. l.)** – antická římská komedie; v jeho **Komedii o hrnci (Aulularia)** vystupuje lakomý stařec **Euclio**, který našel hrnec se zlatem a má strach o něj – přímá předloha Harpagona.
+
+**Pozdější autoři komedií (mimo klasicismus):**
+- **Pierre de Marivaux (1688–1763)** – francouzská komedie 18. století, jemnější psychologie lásky („marivaudage“).
+- **Pierre-Augustin Caron de Beaumarchais (1732–1799)** – francouzská komedie konce 18. století, společenská satira, **Lazebník sevillský**, **Figarova svatba** (kritika šlechty, předzvěst revoluce).
+- **William Shakespeare (1564–1616)** – angl. renesance, postava lichváře **Shylocka** v **Kupci benátském** je další obraz chamtivosti, psychologicky složitější než typový Harpagon.
+- **N. V. Gogol (1809–1852)** – ruský realismus, **Revizor** – komedie typů, ostrá satira úřednické chamtivosti.
+
+## Mezilliterární paralely (přes maturitní seznam)
+
+- **Revizor (N. V. Gogol)** – obě hry jsou **komedie o totální ztrátě lidské důstojnosti** kvůli jedné neřesti. U Molièra Harpagonova chamtivost ničí štěstí dětí a chce dceru provdat „bez věna“; u Gogola provinční úředníci ze strachu o teplá místečka uplácejí a plazí se před úplnou nulou (Chlestakov). Oba autoři používají **typizované postavy** (lakomec / podplatitelný úředník) a tvrdou **satiru měšťanské/úřednické morálky**. Závěr je u obou hořký: Harpagon utíká ke kasičce, gogolovští úředníci ztuhnou v němé scéně.
+
+- **Romeo a Julie (W. Shakespeare)** – stejný motiv **střetu mladé lásky a starého rodičovského diktátu**. Cléante a Élise nemohou volně milovat, otec určuje sňatek (Marianě se chce dvořit, Elisu prodá Anselmovi). U Shakespeara končí tragicky, u Molièra díky odhalení identity šťastně – **komedie/tragédie podle žánru**. Společné: peníze a rodičovská autorita stojí proti lásce.
+
+- **Pygmalion (G. B. Shaw)** – komedie společenských konvencí, kde se ukazuje, že peníze a vrstva (Higgins, Doolittle) deformují vztahy. Shawův komentář je modernější, ale princip **satiry přes komediální situaci** je týž; Doolittle navíc – stejně jako Harpagon – mluví obchodním jazykem o vztazích.
+
+- **Hrdý Budžes (I. Dousková)** – moderní česká humoristická satira o normalizaci viděné dětskýma očima; má společné **komediální nadhled nad pokřivenou společností** a typizaci postav (komediální karikatury učitelů, soudruhů), byť kontext je úplně jiný.
+
+- **Kupec benátský (W. Shakespeare)** – postava lichváře **Shylocka** je další obraz **chamtivosti a obchodního přístupu k lidskému životu** („libra masa“). Shylock je ale **psychologicky složitější** (uražený menšinový žid, mstí se), Harpagon je čistší **klasicistní typ** (lakota a basta). Obě postavy ale ukazují, jak peníze deformují lidskost.
+
+- **Obraz Doriana Graye (O. Wilde)** – jiná epocha (dekadence), ale podobné téma: **jedna posedlost (mládí/krása vs. lakota) dovedená do extrému ničí člověka i okolí**. Dorian a Harpagon mají společné to, že obětují vztahy svému „pokladu“ (krása / kazeta).
+
+- **Krysař (V. Dyk)** – téma **chamtivosti a zrady slibu** v měšťanském Hammeln. Rada Hammelnu nezaplatí krysaři za splněnou službu – obraz měšťanské lakoty, který by Molière okamžitě poznal jako variantu svého tématu. (Tématický kontrast: Krysař je novela symbolistní, Lakomec je klasicistní komedie.)
+
+- **Kulička (G. de Maupassant)** – realistická novela o pokrytectví měšťanské společnosti. Cestující využijí Kuličku a pak ji opovrhnou – stejný princip **pokrytectví a vypočítavosti měšťanů** jako u Molièrova Harpagona, jen v jiném žánru a době.
+
+- **Spalovač mrtvol (L. Fuks)** – jedna posedlost (smrt, „čistota“) dovedená do extrému ničí celou rodinu. Karel Kopfrkingl, podobně jako Harpagon, **mluví láskyplným jazykem o své obsesi** (krematorium / kazeta) a tím se odhaluje jako monstrum. Žánrově úplně jinde (psychologická novela), ale princip „komika/hrůza skrz extrémní typ“ je společný.
+
+- **R.U.R. (K. Čapek)** – nezní to podobně, ale opět jde o **lidskou hamižnost (továrníci chtějí roboty kvůli zisku)**, která zničí lidstvo. Harpagonovy peníze a Domínovy roboty jsou obě **modly, kterým je obětována lidskost**.

@@ -7,6 +7,7 @@
 - **Žánr:** **román**; přesněji **filozofický a psychologický román**
 - **prvky estetismu a dekadence**, zároveň s prvky **gotického** a **morálně fantastického** románu
 - spíš román o **kráse, svodu, morální zkáze a dvojím životě**, který používá gotické prostředky: tajný pokoj, proměňující se obraz, atmosféru viny a skrytého hříchu.
+- **Kompozice:** **20 kapitol** + autorská **Předmluva** (manifest esteticismu). První časopisecká verze (1890) měla **13 kapitol**, pro knižní vydání 1891 dopsal Wilde **šest kapitol** (3., 5., 15., 16., 17., 18.) – mimo jiné rozšíření o Jamese Vanea a opiová doupata.
 
 ## Autor
 
@@ -14,9 +15,13 @@
 - **dekadence, estetismus**
 - **Obraz Doriana Graye** je jeho **jediný román**.
 - Nejprve vyšel roku **1890**; roku **1891** pak knižně v rozšířené verzi o **šest kapitol**
-- Wilde byl mluvčím ideje **„*l'art pour l'art*“**, tedy že umění má hodnotu samo o sobě a nemá být poměřováno jen morálkou. To výslovně zazní i v předmluvě k románu.
-- Další díla: **Jak je důležité míti Filipa**, **Ideální manžel**, **Šťastný princ a jiné povídky / pohádky**.
-- Wilde byl ženatý, později měl vztah s **Lordem Alfredem Douglasem** a roku **1895** byl v Anglii odsouzen za **„gross indecency“** mezi muži na **dva roky nucených prací**
+- Wilde byl mluvčím ideje **„*l'art pour l'art*“** (umění pro umění), tedy že umění má hodnotu samo o sobě a nemá být poměřováno jen morálkou. To výslovně zazní i v předmluvě k románu: *„Není nic takového jako morální nebo nemorální kniha. Knihy jsou buď dobře napsány, nebo špatně napsány. Toť vše.“* / *„Veškeré umění je zcela neužitečné.“*
+- Další díla:
+    - **divadelní hry:** *Jak je důležité míti Filipa* (The Importance of Being Earnest), *Ideální manžel*, *Bezvýznamná žena*, *Vějíř lady Windermerové*, *Salome* (původně francouzsky)
+    - **pohádky:** *Šťastný princ a jiné pohádky*, *Granátový dům*
+    - **poezie po vězení:** *Balada o žaláři v Readingu* (1898)
+    - **vězeňská zpověď:** *De profundis*
+- Wilde byl ženatý (Constance Lloydová, dva synové), později měl vztah s **lordem Alfredem Douglasem** („Bosie“) a roku **1895** byl v Anglii odsouzen za **„gross indecency“** (hrubá nemravnost) mezi muži na **dva roky nucených prací** (Reading Gaol). Po propuštění už nesměl publikovat pod svým jménem, žil v chudobě ve Francii a zemřel 1900 v Paříži.
 
 ## Téma a motivy
 
@@ -101,17 +106,24 @@ V závěru se Dorian rozhodne zničit portrét, protože ho vnímá jako důkaz,
 
 ## Jazykové a kompoziční prostředky
 
-- **Er-forma**, ale vyprávění se často silně přimyká k Dorianovu prožívání a ke konverzačnímu stylu Lorda Henryho.
-- **Aforismy** (lidové pořekadlo) **a paradoxy** hlavně u Lorda Henryho. Jeho řeč je vtipná, elegantní a nebezpečná, protože převrací běžné morální jistoty.
-- **Bohaté smyslové popisy**: květiny, látky, vůně, šperky, interiéry, hudba. To podporuje atmosféru estetismu a kultu krásy
+- **Er-forma**, ale vyprávění se často silně přimyká k Dorianovu prožívání a ke konverzačnímu stylu Lorda Henryho (vnitřní fokalizace).
+- **Aforismy** (krátké, vtipné, špičaté výroky) **a paradoxy** hlavně u Lorda Henryho. Jeho řeč je vtipná, elegantní a nebezpečná, protože převrací běžné morální jistoty.
+    - „Jediný způsob, jak se zbavit pokušení, je vzdát se mu.“
+    - „Dovedu odolat všemu, kromě pokušení.“
+    - „Svědomí a zbabělost, to je ve skutečnosti jedno a totéž.“
+    - „Žádný umělec netouží nic dokazovat.“ (předmluva)
+- **Bohaté smyslové popisy**: květiny, látky, vůně, šperky, interiéry, hudba (zvlášť kapitola XI – přehlídka Dorianových sbírek). To podporuje atmosféru estetismu a kultu krásy.
+- **Lyrizace prózy**: básnické přívlastky, dlouhá souvětí, metafory (např. úvod – ateliér plný „syté vůně růží“).
 - **Symbolika**:
     - portrét = duše, svědomí, viditelný záznam viny
     - krása = maska
-    - žlutá kniha = svod idejemi
-    - opium = pokus uniknout paměti a svědomí.
+    - **žlutá kniha** = svod idejemi (literární předobraz: Huysmansův román **Naruby / À rebours** – Wilde ji nikdy nepojmenuje, ale popis sedí)
+    - opium = pokus uniknout paměti a svědomí
+    - **bílá květina, čilimník, šeřík** = motivy mládí a křehkosti (úvod)
 - **Kontrast**: mladý Dorian × znetvořený obraz; salonní lesk × londýnské podsvětí; krásná forma × morální rozklad.
-- **Gotické prvky**: tajná místnost, proměňující se předmět, vražda, noční město, atmosféra skrytého hříchu.
-- **Reference / odkazy**: Shakespeare - Hamlet, Romeo a Julie; Platón; Bible
+- **Gotické prvky**: tajná místnost (bývalá dětská učebna v podkroví), proměňující se předmět, vražda, noční mlhavé město, atmosféra skrytého hříchu.
+- **Ironie a paradox** jako stavební princip – často převrácení viktoriánských morálních klišé.
+- **Reference / odkazy**: Shakespeare – *Hamlet*, *Romeo a Julie*, *Kupec benátský* (role Sibyl); Platón (řecký ideál krásy); Bible; antika (Adónis, Narkissos, Antinoos).
 
 ## Poznávačka úryvku
 
@@ -134,7 +146,7 @@ Tohle je důležitější než samotná „magie obrazu“. Lord Henry je ztěle
 
 ### Klíčový citát: Wilde rozpitvává sám sebe
 
-Wilde sám výslovně napsal: „**Basil Hallward je to, co si o sobě myslím, že jsem. Lord Henry je to, co si o mně myslí svět. A Dorian je to, čím bych chtěl být – možná v nějakém jiném věku.**“
+Wilde sám napsal v dopise Ralphu Paynovi (1894): „**Basil Hallward je to, co si o sobě myslím, že jsem. Lord Henry je to, co si o mně myslí svět. A Dorian je to, čím bych chtěl být – možná v nějakém jiném věku.**“
 
 To je u maturity zlatá karta. Ukazuje, že román není manifest estetismu, ale Wildeova vlastní **sebereflexe a zátěžový test** jeho vlastní filozofie:
 
@@ -153,6 +165,10 @@ Wilde tedy estetismus nepopírá – ale ukazuje jeho limity. Funguje na plátn�
 ## Mezilitarální paralely (přes maturitní seznam)
 
 - **Spalovač mrtvol (Fuks)** – stejný motiv **zrůdy za dokonalou maskou**. Dorian je navenek anděl, miláček společnosti, zatímco jeho duše hnije. Kopfrkingl je „jemný, milý člověk, abstinent a nekuřák“ – a přitom chladnokrevný vrah rodiny. Obě díla bourají mýtus, že padouch musí vypadat jako monstrum.
+- **Goethe – Faust** – přímá **faustovská paralela**: vzdání duše (zde za věčné mládí, ne za poznání). Dorianovo přání u portrétu je v podstatě smlouva s ďáblem, jen místo Mefista zde funguje jako „svůdce“ Lord Henry.
+- **Kafka – Proměna** – motiv tělesné metamorfózy jako zrcadla vnitřního stavu člověka. U Wilda se ale mění **obraz**, ne tělo, a změna není fyziologická, ale **morální**.
+- **Stevenson – Podivný případ dr. Jekylla a pana Hyda** – přímá viktoriánská paralela **dvojnictví** (split personality), skryté zlo za úctyhodným měšťanským povrchem; Wilde i Stevenson čerpají z téže fin-de-siècle úzkosti.
+- **Dostojevskij – Zločin a trest** – motiv **viny a svědomí**, které dohánějí pachatele i bez vnějšího trestu.
 
 ## Podobní autoři (téma, období)
 
@@ -162,12 +178,31 @@ Wilde tedy estetismus nepopírá – ale ukazuje jeho limity. Funguje na plátn�
 - **Robert Louis Stevenson – Podivný případ doktora Jekylla a pana Hyda (1886)**: jiný viktoriánský román o **dvojí identitě** a skrytém zlu; přímá tematická paralela.
 - **Mary Shelley – Frankenstein (1818)**: gotický román o tvůrci a jeho výtvoru, který se mu vymkne z rukou.
 - **Arthur Rimbaud, Paul Verlaine** – francouzští prokletí básníci, dekadence a symbolismus konce 19. století.
-- **Karel Hlaváček, Otokar Březina** – česká dekadence a symbolismus přelomu 19./20. století.
+- **Karel Hlaváček, Jiří Karásek ze Lvovic, Otokar Březina, Antonín Sova** – česká dekadence a symbolismus přelomu 19./20. století (časopis **Moderní revue**).
 
-⚠️ **Důležité odlišení – nezaměňovat období:** Wilde = **anglická dekadence a estetismus konce 19. století** (fin de siècle, viktoriánská éra). Není to romantismus jako Poe ani realismus jako Dickens. Klíčové heslo: **„l'art pour l'art“** – umění pro umění.
+⚠️ **Důležité odlišení – nezaměňovat období a národnost:**
+- Wilde = **britská (přesněji irská) dekadence a estetismus konce 19. století** (fin de siècle, viktoriánská éra).
+- **Není** to romantismus jako Poe ani realismus jako Dickens.
+- Wilde se narodil v **Dublinu** – je tedy **Ir**, ne Angličan. V Anglii jen působil a byl odsouzen.
+- Klíčové heslo: **„l'art pour l'art“** – umění pro umění.
 
 ## Co říct u zkoušení, aby bylo vidět, že to fakt znáš
 
 Nejdůležitější je neudělat z toho jen historku „obraz stárne místo něj“. To je jen mechanismus děje. Skutečně důležité je, že Dorian nejdřív miluje **krásu**, pak začne milovat **vlastní beztrestnost** a nakonec se snaží zabít svědomí tím, že zničí jeho obraz. Jenže právě tím zabije sebe.
 
 Druhá chytrá věc k ústnímu: Sibyl není jen „holka, co se kvůli němu zabije“. Je důkazem, že Dorian ve skutečnosti nemiluje člověka, ale **estetický dojem**. Jakmile se z herečky stane reálná žena s citem, přestane pro něj být zajímavá. A to přesně ukazuje, co je na jeho postoji od začátku zkažené.
+
+## Mini-tahák (poslední pohled před zkoušením)
+
+- **Autor:** Oscar Wilde (1854–1900), **Ir**, britská **dekadence + estetismus**, „l'art pour l'art“.
+- **Dílo:** *Obraz Doriana Graye* (časopis 1890, kniha 1891 – **20 kapitol** + Předmluva). **Jediný Wildův román.**
+- **Forma:** **filozofický román** s **gotickými** prvky, er-forma.
+- **Místo/čas:** **pozdně viktoriánský Londýn** (fin de siècle) – ateliér, salóny, divadlo, opiové doupě, venkovské sídlo.
+- **Postavy:** Dorian Gray (krásný mladík), **Basil Hallward** (malíř, svědomí), **Lord Henry Wotton** (svůdce-teoretik), **Sibyl Vaneová** (herečka, sebevražda jedem), **James Vane** (její bratr, omylem zastřelen na honu), **Alan Campbell** (vydíraný chemik, později sebevražda).
+- **Děj v jedné větě:** Dorian si přeje, aby místo něj stárl obraz – obraz nese jeho hříchy a stárnutí, on zůstává krásný; nakonec **probodne obraz nožem a umírá** jako znetvořený stařec, obraz je opět krásný.
+- **Faustovský motiv:** mládí + krása za cenu duše.
+- **Téma:** rozpor krásy a morálky, dvojí život, hedonismus, marnivost, vina, role umění.
+- **Klíčové motivy:** portrét = duše, **žlutá kniha** (= Huysmans, *Naruby*), opium, maska, tajný pokoj.
+- **Citáty na efekt:** *„Není nic takového jako morální nebo nemorální kniha.“* / *„Jediný způsob, jak se zbavit pokušení, je vzdát se mu.“* / *„Veškeré umění je zcela neužitečné.“*
+- **Skandál:** kritika označila knihu za amorální → 1895 odsouzen za homosexualitu na 2 roky těžkých prací (Reading Gaol).
+- **Paralely:** Stevenson – *Jekyll a Hyde*, Goethe – *Faust*, Fuks – *Spalovač mrtvol*, Huysmans – *Naruby*, Baudelaire – *Květy zla*.

@@ -4,13 +4,17 @@
 
 - **Literární druh:** epika
 - **Žánr:** nejpřesněji **dokumentární / reportážně zpracovaná próza**, literatura faktu s výraznou **autobiografickou stylizací v ich-formě**
+- Originální podtitul knihy zní v překladu zhruba **„autobiografie 14leté drogově závislé prostitutky“** – už podtitul tedy přiznává dokumentární, nikoli románový charakter.
 - Není úplně přesné mluvit o „čistém autobiografickém románu“, protože kniha vznikla **na základě magnetofonových nahrávek a rozhovorů** s Christiane F., které literárně zpracovali novináři **Kai Hermann a Horst Rieck**. Carlsen i archivní metadata anglického vydání to uvádějí výslovně.
+- V němčině žánrově **„Tatsachenbericht“ / „Tonbandprotokoll“** (reportáž, magnetofonový protokol), česky bychom řekli **literatura faktu / non-fiction novela**.
 
 ## Autor a vznik knihy
 
-- Kniha je spojena se jménem **Christiane F.** (Christiane Felscherinow), ale autorsky ji sepsali novináři **Kai Hermann a Horst Rieck** podle jejích výpovědí. Na titulní stránce německého vydání stojí: **„Nach Tonbandprotokollen aufgeschrieben von Kai Hermann und Horst Rieck“**.
-- Příběh se stal veřejně známým roku **1978**. Archivní metadata a oficiální zdroje uvádějí, že po Christianeině svědectví v procesu proti muži, který platil nezletilým dívkám heroinem za sex, vznikly rozsáhlé rozhovory, z nichž se pak stala kniha. Stern dnes připomíná i zveřejnění původních pásek z roku 1978.  [](https://archive.org/details/zoostationamemoi0000fchr)
-- Jde o prostředí **Západního Berlína** konce 70. let, zejména mládežnické a drogové scény kolem diskotéky **Sound**, Kurfürstenstraße a stanice **Bahnhof Zoo**. Carlsen shrnuje, že Christiane se ve dvanácti dostala k hašiši v evangelickém mládežnickém centru, ve třinácti v diskotéce k heroinu a později chodila s dalšími závislými dětmi na dětskou prostituci u Bahnhof Zoo.
+- Kniha je spojena se jménem **Christiane F.** = **Christiane Vera Felscherinow** (*1962, Hamburk), ale autorsky ji sepsali němečtí novináři **Kai Hermann a Horst Rieck** podle jejích výpovědí. Na titulní stránce německého vydání stojí: **„Nach Tonbandprotokollen aufgeschrieben von Kai Hermann und Horst Rieck“**.
+- **Jak kniha vznikla:** Horst Rieck pracoval na reportáži o berlínské drogové scéně a v r. 1978 oslovil tehdy 15letou Christiane jako svědkyni u soudu (proces s mužem, který platil nezletilým dívkám heroinem za sex). Plánovaný dvouhodinový rozhovor se protáhl na **dva měsíce nahrávání**. Rieck pak přizval kolegu Kaie Hermanna a oba z magnetofonových pásek vytvořili ich-formové vyprávění.
+- Text vyšel nejprve jako **dvanáctidílná reportáž v časopise Stern** a na podzim **1978** ho jako knihu vydal Stern-Verlag (Hamburk).
+- Jde o prostředí **Západního Berlína** konce 70. let (Berlín byl tehdy rozdělené město, před pádem zdi v r. 1989), zejména mládežnické a drogové scény kolem diskotéky **Sound**, Kurfürstenstraße a stanice **Bahnhof Zoo (Berlin Zoologischer Garten)** – tedy nádraží/stanice, ne zoologická zahrada. Christiane vyrůstala na panelovém sídlišti **Gropiusstadt** v berlínském Neuköllnu. Carlsen shrnuje, že se ve dvanácti dostala k hašiši v evangelickém mládežnickém centru, ve třinácti v diskotéce k heroinu a později chodila s dalšími závislými dětmi na dětskou prostituci u Bahnhof Zoo.
+- Christiane Felscherinow později napsala i pokračování **„Mein zweites Leben“ (Můj druhý život, 2013)**, kde popisuje další dekády své závislosti – tedy příběh nekončí tam, kde končí kniha.
 
 ## Téma a motivy
 
@@ -87,5 +91,17 @@ A druhá dobrá věc: monotónnost návratů k heroinu není chyba knihy, ale so
 
 - **J. D. Salinger – Kdo chytá v žitě (1951)**: nespokojený dospívající hrdina, který se odcizuje světu dospělých (jen bez drog).
 - **Anthony Burgess – Mechanický pomeranč (1962)**: násilná mládež, společenská kritika.
+- **Irena Dousková – Hrdý Budžes (1998)**: i tady je vypravěčem **dítě** a svět vidíme jeho očima – jenže místo berlínské drogové scény jde o normalizační Československo. Společný jmenovatel je **dětský/dospívající vypravěč jako kritika světa dospělých**.
 
-⚠️ **Důležité pro maturitu:** Kniha je **dokumentární / reportážní literatura faktu**, NIKOLIV beletristický román. Vznikla **z magnetofonových nahrávek** rozhovorů, které novináři **Kai Hermann a Horst Rieck** vedli s Christiane F. v rámci přípravy reportáže pro časopis **Stern**. Kniha vyšla **1978/79** v Hamburku a stala se senzací, protože poprvé ukázala dětskou drogovou scénu zevnitř, slovy 14leté závislé.
+## Mezilliterární paralely (vyzdvihni u maturity)
+
+- **Memento (Radek John, 1986) ↔ My děti ze stanice ZOO (1978):** dvě středoevropské knihy o heroinové generaci, obě s dokumentárním přesahem, obě varovné. Rozdíl: ZOO je novinářský přepis výpovědi reálné dívky (ich-forma, autentický slang), Memento je beletrističtější román s reportážními prvky a hraje se v normalizační Praze 80. let. Často se uvádí, že **ZOO lépe zachycuje psychologii závislosti**, protože ho „diktovala“ sama závislá.
+- **Hrdý Budžes ↔ ZOO:** obě knihy mají **dětského/dospívajícího vypravěče v ich-formě**, který nevědomky odhaluje absurditu a brutalitu světa dospělých. U Douskové komicky, u Christiane F. tragicky.
+
+## Filmové zpracování
+
+- **Christiane F. – Wir Kinder vom Bahnhof Zoo** (1981), režie **Uli Edel**, hl. role **Natja Brunckhorst**. Kultovní film, který získal status filmu generace.
+- **David Bowie** ve filmu hraje sám sebe (cameo) – natáčelo se v říjnu 1980 v newyorském klubu Hurrah, který byl upraven tak, aby vypadal jako berlínský klub. Bowie tehdy hrál v New Yorku v divadle, proto musel Edel scénu točit tam.
+- Soundtrack tvoří hudba Davida Bowieho z jeho „berlínské trilogie“ – ústřední skladbou je **„Heroes“** (nahraná v r. 1977 v Berlíně), která ironicky kontrastuje s pádem postav.
+
+⚠️ **Důležité pro maturitu:** Kniha je **dokumentární / reportážní literatura faktu**, NIKOLIV beletristický román. Vznikla **z magnetofonových nahrávek** rozhovorů, které novináři **Kai Hermann a Horst Rieck** vedli s Christiane F. v rámci přípravy reportáže pro časopis **Stern**. Kniha vyšla **1978** v Hamburku a stala se senzací, protože poprvé ukázala dětskou drogovou scénu zevnitř, slovy 14leté závislé. „Stanice Zoo“ je **vlakové nádraží Berlin Zoologischer Garten**, ne zoologická zahrada – to je oblíbený chyták.

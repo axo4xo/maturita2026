@@ -13,10 +13,12 @@ audio: /CJL/audio/Hrdy_Budzes-NotebookLM.m4a
 
 ## Autor a literárněhistorický kontext
 
-- **Irena Dousková** je současná česká spisovatelka, narozená roku **1964 v Příbrami** v herecké rodině. Od roku **1976** žije v Praze. Sama na svém oficiálním webu uvádí bibliografii, podle níž **Hrdý Budžes** poprvé vyšel **1998** a znovu **2002**.
-- Kniha patří do **současné české literatury**, ale dějově je zasazená do **normalizačních 70. let**. Autorka v rozhovoru výslovně potvrzuje, že část dětství prožila v **hornické Příbrami v době normalizace**
-- že Ničín je **fiktivní město zjevně inspirované Příbramí**
-- kniha zachycuje první roky **husákovské normalizace**, tedy školní ideologii, kádrování, tlak na konformitu, kulturní úpadek a opatrnost dospělých ve veřejném prostoru. To velmi přesně shrnuje jak anotace knihy, tak samotný text s jiskřičkami, VŘSR, lampionovým průvodem a ideologickým divadlem.
+- **Irena Dousková** (* 1964 v Příbrami) – současná česká spisovatelka, vyrostla v herecké rodině (matka herečka, ona sama vystudovala práva). Od roku **1976** žije v Praze. Píše prózu, drama i poezii; pro její texty je typický **humor, ironie a dětský/ženský vypravěč**.
+- **Hrdý Budžes** poprvé vyšel **1998**, znovu **2002**. Má dvě pokračování s touž hrdinkou: **Oněgin byl Rusák** (2006, Helenka jako dospívající v 80. letech) a **Darda** (2011, Helenka jako dospělá v polistopadové době).
+- Kniha patří do **současné české literatury (próza po roce 1989)**, dějově je ale zasazená do **normalizačních 70. let**. Autorka v rozhovorech potvrzuje, že část dětství prožila v hornické Příbrami v době normalizace, a **Ničín** je proto **fiktivní město zjevně inspirované Příbramí**.
+- Kniha zachycuje první roky **husákovské normalizace**, tedy školní ideologii, kádrování, tlak na konformitu, kulturní úpadek a opatrnost dospělých ve veřejném prostoru. To velmi přesně shrnuje jak anotace knihy, tak samotný text s jiskřičkami, VŘSR, lampionovým průvodem a ideologickým divadlem.
+- **Známé divadelní zpracování** – monodrama Divadla v Dlouhé s **Bárou Hrzánovou** v hlavní roli Helenky (premiéra 2003); inscenace se stala kultovní a dodnes se hraje.
+- **Název knihy** vychází z verše básníka **Stanislava Kostky Neumanna** „**Hrdý buď, žes vytrval**“ – dětská Helenka ho slyší jako jméno hrdiny „Hrdý Budžes“ a teprve v závěru objeví v čítance pravý význam.
 
 ## Časoprostor
 
@@ -54,7 +56,7 @@ Ke konci se začnou jednotlivé linky uzavírat. Oba rodiče jsou pod tlakem re�
 - **Kačenka** – Helenčina matka, herečka. Nervózní, prudká, často křičí a kouří, ale zároveň je zřejmé, že je pod silným tlakem režimu, pracovních problémů i rodinných konfliktů. Není „hodná maminka z obrázku“, ale živá a složitá postava.
 - **Pepa** – Kačenčin partner a pro Helenku faktický otec. Působí klidněji, lidštěji a bezpečněji než ostatní dospělí; často funguje jako protiváha Kačenčina napětí. Text ho přímo staví do role „opravdickýho táty“.
 - **Babička a děda ze Zákopů** – důležitá rodinná opora i zdroj konfliktů. Babička je tvrdohlavá, přísná a pořád řeší Freisteina; dědeček František působí klidněji a laskavěji. Zákopy navíc tvoří zvláštní protipól k šedému Ničínu.
-- **Vedlejší postavy z divadla a školy** – učitelka Koláčková, režisér Novotný, pan Dusil, Andrea Kroupová a další nejsou jen kulisa. Každý z nich pomáhá ukazovat nějakou stránku normalizační reality: trapnou ideologii, zbabělost, tlak na konformitu nebo lidské selhání.
+- **Vedlejší postavy z divadla a školy** – učitelka Koláčková (ideologická, ponižuje Helenku kvůli jménu), režisér, pan Dusil (Kačenčin kolega, který po prohraném soudu s divadlem zemře), Andrea Kroupová (herečka, kamarádka rodiny), spolužačka Olinka Hlubinová (umře hned v 1. kapitole), Luděk Starý, doktor Macháček, kluk z baletu **Norodom Sihanuk** (skutečně princ – další z absurdit normalizace). Žádná z nich není jen kulisa – každý ukazuje stránku normalizační reality: trapnou ideologii, zbabělost, tlak na konformitu nebo lidské selhání.
 
 ## Jazykové a kompoziční prostředky
 
@@ -88,7 +90,25 @@ Nejlepší je neříct jen „je to vtipná knížka o normalizaci očima dítě
 
 A druhá chytrá věc: **Hrdý Budžes** není jen legrační zkomolenina. Je to symbol Helenčiny potřeby vydržet a věřit v nějakého hrdinu, a proto je závěrečné zjištění, že šlo jen o „**hrdý buď, žes**“, tak silné. Není to jen slovní gag, ale další rozpad dětské jistoty. Trochu kruté, ale lidé si na tom postavili celé 20. století.
 
-## Mezilitarální paralely (přes maturitní seznam)
+## Mezilitarární paralely (přes maturitní seznam)
 
 - **Malý princ (Saint-Exupéry)** – obě díla pracují s **naivní dětskou optikou, která demaskuje prázdnotu a pokrytectví světa dospělých**. Malý princ nechápe dospěláckou posedlost čísly, majetkem a mocí (byznysmen, král); Helenka Součková doslova interpretuje komunistické fráze a normalizační rituály. Dítě v obou příbězích funguje jako **reflektor**: protože nechápe „pravidla hry“, naplno odhaluje, jak absurdní a vylhaný je dospělý svět.
-- **Bylo nás pět (Karel Poláček)** – naprosto klasická česká paralela. Obě knihy stojí na stejném geniálním triku – **dětský, doslovný a naivní vypravěč** nechtěně, ale o to přesněji odhaluje pokrytectví a absurditu světa dospělých.
+- **Bylo nás pět (Karel Poláček)** – naprosto klasická česká paralela. Obě knihy stojí na stejném geniálním triku – **dětský, doslovný a naivní vypravěč** (Petr Bajza × Helenka) nechtěně, ale o to přesněji odhaluje pokrytectví a absurditu světa dospělých. Stejně jako Poláček si Dousková hraje s **dětskou mluvou, komoleninami a doslovným chápáním frází**.
+- **Günter Grass – Plechový bubínek** – Oskar Matzerath, dítě, které odmítá růst, vypráví o nacistickém Polsku/Německu z dětské perspektivy. Stejný princip jako Helenka u normalizace: **dětský pohled jako filtr velkých dějin**, který odhaluje jejich absurditu.
+- **Mark Haddon – Podivný případ se psem** – dětský/dospívající vypravěč (autistický Christopher), který svět chápe doslovně a tím nechtěně obnažuje dospělé pokrytectví. Stejný literární princip „vidím přesně, nechápu kontext“.
+- **Michal Viewegh – Báječná léta pod psa** (1992) – tematicky nejbližší česká próza: dětsko-mladistvý pohled na normalizaci, otec problémový vůči režimu, podobná tragikomika.
+- **Bohumil Hrabal** – obecnější paralela: tragikomický pohled na obyčejné lidi v dějinách, spojení banality a velkých dějin, „pábitelská“ poetika.
+
+## Souhrn pro rychlou orientaci
+
+| Položka | Hodnota |
+|---|---|
+| Autor | Irena Dousková (* 1964) |
+| Rok vydání | 1998 |
+| Druh / žánr | epika, novela / kratší román, tragikomická próza |
+| Forma vyprávění | ich-forma, osmiletá Helenka Součková |
+| Doba děje | normalizační 70. léta, cca jeden školní rok |
+| Místo děje | fiktivní město **Ničín** (inspirováno Příbramí), Zákopy, závěr Praha |
+| Hlavní téma | dětský pohled na normalizační absurditu; tragikomika |
+| Pokračování | Oněgin byl Rusák (2006), Darda (2011) |
+| Slavné zpracování | monodrama s Bárou Hrzánovou (Divadlo v Dlouhé) |
