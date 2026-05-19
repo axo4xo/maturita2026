@@ -250,11 +250,15 @@ const staticExtensions = new Set([
   '.html',
   '.jpeg',
   '.jpg',
+  '.m4a',
+  '.mp3',
+  '.ogg',
   '.pdf',
   '.png',
   '.pptx',
   '.svg',
   '.txt',
+  '.wav',
   '.webp',
   '.xlsx'
 ])
@@ -319,8 +323,28 @@ function escapeVueMustachesOutsideCode(source: string): string {
     .join('')
 }
 
+function injectAudioPlayer(source: string): string {
+  const fmMatch = source.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n/)
+  if (!fmMatch) return source
+
+  const audioMatch = fmMatch[1].match(/^audio:\s*["']?(.+?)["']?\s*$/m)
+  if (!audioMatch) return source
+
+  const audioPath = audioMatch[1].trim()
+  const directive = `\n@audio ${audioPath}\n`
+  const body = source.slice(fmMatch[0].length)
+  const h1Match = body.match(/^#\s+.+\r?\n/m)
+
+  if (!h1Match || h1Match.index === undefined) {
+    return `${fmMatch[0]}${directive}${body}`
+  }
+
+  const insertAt = fmMatch[0].length + h1Match.index + h1Match[0].length
+  return `${source.slice(0, insertAt)}${directive}${source.slice(insertAt)}`
+}
+
 function normalizeMarkdown(source: string): string {
-  return normalizeSectionDirectoryLinks(escapeVueMustachesOutsideCode(normalizeNotionAsides(source)))
+  return normalizeSectionDirectoryLinks(escapeVueMustachesOutsideCode(injectAudioPlayer(normalizeNotionAsides(source))))
 }
 
 function normalizeSectionDirectoryLinks(source: string): string {
@@ -420,6 +444,29 @@ function phantomRendererPlugin(md: any): void {
     `<span class="llm-phantom" aria-hidden="true">${md.utils.escapeHtml(tokens[index].content)}</span>`
 }
 
+function audioPlayerPlugin(md: any): void {
+  md.block.ruler.before('paragraph', 'audio_player', (state: any, startLine: number, _endLine: number, silent: boolean) => {
+    const start = state.bMarks[startLine] + state.tShift[startLine]
+    const end = state.eMarks[startLine]
+    const line = state.src.slice(start, end).trim()
+
+    if (!line.startsWith('@audio ')) return false
+    if (silent) return true
+
+    const token = state.push('audio_player', 'div', 0)
+    token.content = line.slice('@audio '.length).trim()
+    token.map = [startLine, startLine + 1]
+
+    state.line = startLine + 1
+    return true
+  })
+
+  md.renderer.rules.audio_player = (tokens: any[], index: number) => {
+    const src = md.utils.escapeHtml(tokens[index].content)
+    return `<figure class="audio-player">\n<audio controls preload="metadata" src="${src}"></audio>\n<figcaption>AI audiorozbor díla</figcaption>\n</figure>\n`
+  }
+}
+
 export default defineConfig({
   srcDir,
   title: 'Maturita 2026',
@@ -486,6 +533,7 @@ export default defineConfig({
     },
     config(md) {
       md.use(phantomRendererPlugin)
+      md.use(audioPlayerPlugin)
     }
   },
   themeConfig: {
