@@ -1,3 +1,7 @@
+---
+audio: /CJL/audio/Ceske_nebe-NotebookLM.m4a
+---
+
 # 16/20: Svěrák, Smoljak, Cimrman - České nebe ⚠️
 
 ### Druh a žánr

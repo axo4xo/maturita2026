@@ -1,3 +1,7 @@
+---
+audio: /CJL/audio/Ostre_sledovane_vlaky-NotebookLM.m4a
+---
+
 # 9/20: B. Hrabal - Ostře sledované vlaky 💦
 
 **Druh a žánr:**
