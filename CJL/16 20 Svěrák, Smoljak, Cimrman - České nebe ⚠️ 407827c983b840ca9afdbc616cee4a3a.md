@@ -95,3 +95,7 @@ Na **českém nebi** se za **1. světové války** schází **Česká nebeská k
 České nebe není „jenom legrace“, ale **závěť a sebeironický pohled na český národ**. Cimrmanovský humor pracuje na dvou rovinách: vědecký seminář si dělá legraci z akademismu a fikce „nalezeného textu“, samotná hra si dělá legraci z národních mýtů. **Klíčové je, že Smoljak a Svěrák tu velikány nesnižují, ale uzemňují** – ukazují je jako lidi, kteří se hádají, mají ego a slabosti, a přesto to za národ nějak doklepou. To je ta typická česká povaha: malost a velikost vedle sebe.
 
 A druhá chytrá věc: hra premiérovala přesně **28. 10. 2008**, tedy na 90. výročí vzniku ČSR, a sám Smoljak ji označil za **„Cimrmanův dramatický kšaft“**. Není to tedy jen další hra, ale **rozloučení s divadelní tradicí**, která vznikla v roce 1967.
+
+## Mezilitarální paralely (přes maturitní seznam)
+
+- **Ostře sledované vlaky (Hrabal)** – obě díla **zničí český „mramorový“ obraz hrdinství**. Češi nejsou klasičtí patetičtí hrdinové; velké dějiny u nás vždycky zakopávají o obyčejnou lidskou malost a trapnost. Cimrmani vzali největší národní ikony (Husa, Havlíčka, Komenského) a posadili je do komise, kde se hádají jako úředníci v malé kanceláři. Hrabal vzal téma odboje a války, ale jeho hrdina Miloš Hrma je nevyzrálý kluk, co řeší sex, ne vlastenectví. **Obě díla z nás dělají hrdiny navzdory naší směšnosti, ne díky dokonalosti.**

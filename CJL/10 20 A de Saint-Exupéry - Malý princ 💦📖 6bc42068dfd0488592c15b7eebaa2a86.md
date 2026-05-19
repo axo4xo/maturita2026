@@ -125,3 +125,7 @@ Malý princ se pak rozhodne vrátit ke své růži. Nechává se **uštknout had
 - **Jostein Gaarder – Sofiin svět (1991)**: filozofie podaná čtivě, pro mladší čtenáře.
 
 ⚠️ **Pro maturitu:** *Malý princ* je **filozofická pohádka / alegorie**, ne fantasy. Vznikl **v New Yorku roku 1943 během 2. světové války**, kdy byl Saint-Exupéry v americkém exilu. Saint-Exupéry zemřel jako **válečný pilot** (mise nad Středozemním mořem 31. 7. 1944) – jeho život i smrt jsou neoddělitelně spojené s létáním, což se odráží i v rámcovém příběhu letce.
+
+## Mezilitarální paralely (přes maturitní seznam)
+
+- **Hrdý Budžes (Dousková)** – obě díla pracují s **naivní dětskou optikou, která demaskuje prázdnotu a pokrytectví světa dospělých**. Malý princ nechápe dospěláckou posedlost čísly, majetkem a mocí (byznysmen, král, opilec); Helenka Součková doslova interpretuje normalizační rituály a komunistické fráze. Dítě v obou příbězích funguje jako **reflektor**: protože nechápe „pravidla hry“, naplno odhaluje, jak absurdní a vylhaný je dospělý svět.

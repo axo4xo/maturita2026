@@ -121,11 +121,38 @@ V závěru se Dorian rozhodne zničit portrét, protože ho vnímá jako důkaz,
 - opium, noční město, strach, sledování = pozdní fáze Dorianova rozkladu
 - Sibyl + divadlo + „Prince Charming“ = milostná a tragická linie.
 
+## Lord Henry jako intelektuální svod (klíč k románu)
+
+Tohle je důležitější než samotná „magie obrazu“. Lord Henry je ztělesnění **absolutního estetismu** a „**l'art pour l'art**“. Pojmy „dobro“ a „zlo“ jsou pro něj jen nudné společenské konstrukty – existuje jen „krásné“ a „ošklivé“. Učí Doriana, že **jediným smyslem života je intenzivní zážitek**, bez ohledu na to, jestli někomu ublíží.
+
+- **Oddělení estetické krásy od etické odpovědnosti**: po Sibylině sebevraždě má Dorian nejdřív výčitky. Lord Henry mu situaci přerámuje – ať to nebere jako reálnou tragédii, ale jako **krásnou scénu z divadelní hry**. Tím Dorianovi morálně „rozvazuje ruce“ a učí ho vnímat cizí utrpení jen jako estetickou podívanou.
+- **Proč „svod“ a ne otevřené zlo:** Henry sám v knize nikoho nezabije, nic přímo neudělá. Jen **mluví** – aforismy, paradoxy, převracení starých pravd. Funguje to jako jed: zaseje myšlenky do Dorianovy naivní mysli a pak z povzdálí pozoruje, jak v něm klíčí. Dorian si jeho **teoretické řeči** převede do drsné praxe.
+- **Kompoziční role:** Henryho estetismus je **motorem celého románu**:
+    - **Katalyzátor:** dokud Dorian nepotká Henryho, je naivní kluk. Až Henryho proslov o mládí a kráse v něm vyvolá paniku ze stárnutí a fatální přání.
+    - **Mefistofeles** (našeptávač) ve struktuře: trojúhelník **Basil (svědomí) – Dorian (duše, o kterou se hraje) – Henry (svod)**.
+    - **Žlutá kniha** uprostřed románu: Henryho aforismy se v ní zhmotní do „návodu k životu“, podle kterého se Dorian začne řídit.
+
+### Klíčový citát: Wilde rozpitvává sám sebe
+
+Wilde sám výslovně napsal: „**Basil Hallward je to, co si o sobě myslím, že jsem. Lord Henry je to, co si o mně myslí svět. A Dorian je to, čím bych chtěl být – možná v nějakém jiném věku.**“
+
+To je u maturity zlatá karta. Ukazuje, že román není manifest estetismu, ale Wildeova vlastní **sebereflexe a zátěžový test** jeho vlastní filozofie:
+
+- **Henry (teoretik)** = Wildeova veřejná maska. Provokatér v salonech, ale nepáchá žádné velké hříchy – jen si s myšlenkami hraje v bezpečí teorie.
+- **Basil (tvůrce)** = Wildeova skutečná duše. Umělec, který do díla dává příliš mnoho ze sebe, věří v hranice a to ho nakonec zničí.
+- **Dorian (experiment v praxi)** = co by se stalo, kdyby se „umění pro umění“ vzalo doslova a aplikovalo se na lidský život. Dorian selže proto, že porušil základní pravidlo: **umění má být povrch, na který se díváš, ne návod, jak ničit lidi kolem sebe**.
+
+Wilde tedy estetismus nepopírá – ale ukazuje jeho limity. Funguje na plátně nebo v básni, kde se morálka řešit nemusí. Jakmile se ale odhodí svědomí v reálném životě, stane se z člověka prázdná zrůda.
+
 ## Maturitní interpretace
 
 - Román ukazuje, že **krása sama o sobě člověka nezušlechťuje**. Naopak může fungovat jako štít, za který se schová egoismus, krutost a rozklad.
 - Wilde zároveň provokativně zkoumá vztah **umění a morálky**. V předmluvě tvrdí, že kniha sama není morální nebo nemorální, ale děj románu zároveň ukazuje, že život bez svědomí vede ke zkáze. To napětí je na díle strašně důležité.
 - Lord Henry není jen „zloduch“, Basil není jen „hodný malíř“ a Dorian není jen „marnivý hezounek“. Román je silný právě tím, že ukazuje, jak se člověk nechá svést krásnými myšlenkami, ale zlo pak musí vykonat **sám**.
+
+## Mezilitarální paralely (přes maturitní seznam)
+
+- **Spalovač mrtvol (Fuks)** – stejný motiv **zrůdy za dokonalou maskou**. Dorian je navenek anděl, miláček společnosti, zatímco jeho duše hnije. Kopfrkingl je „jemný, milý člověk, abstinent a nekuřák“ – a přitom chladnokrevný vrah rodiny. Obě díla bourají mýtus, že padouch musí vypadat jako monstrum.
 
 ## Podobní autoři (téma, období)
 

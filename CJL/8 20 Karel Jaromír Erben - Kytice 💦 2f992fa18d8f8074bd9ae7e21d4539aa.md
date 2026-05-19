@@ -316,3 +316,7 @@ Závěrečná skladba už není rodinná balada v úzkém smyslu, ale široce ro
 - **Friedrich Schiller** – německý preromantismus, dramatické balady.
 
 ⚠️ **Důležité odlišení – nezaměňovat:** Erben = **česká folklórní větev romantismu, polovina 19. století (sbírka 1853)**. Není to obrozenecký „budovatel jazyka“ jako Jungmann nebo Dobrovský – ti jsou o generaci starší a působí jinak. Není to ani „velký romantik“ v máchovském smyslu (individualistický cit), ale **kolektivní hlas lidové tradice**.
+
+## Mezilitarální paralely (přes maturitní seznam)
+
+- **Romeo a Julie (Shakespeare)** – sdílí motiv **vášně, která poruší řád, a tragédie, která z toho plyne**. U Shakespeara je řádem stará rodová nenávist, kterou se mladá láska pokusí přeskočit. U Erbena postavy porušují **mravní nebo přírodní řád** (rouhavá touha po mrtvém milém ve Svatebních košilích, překročení hranice světů ve Vodníkovi, vzpoura proti řádu v Polednici). V obou případech za nerespektování stanovených hranic platí nevinní tím nejvyšším trestem.

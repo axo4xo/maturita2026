@@ -159,4 +159,13 @@ Nejdůležitější je nevysvětlit děj jen větou „spletli si Chlestakova s 
 
 A druhá chytrá věc: **Chlestakov není rafinovaný manipulátor**. Gogol výslovně psal, že není „řemeslný lhář“. Je to lehký, prázdný člověk, kterého okolí samo nafoukne do role důležité osobnosti. Tím je ta hra ještě ostřejší: celou městskou správu neobelstí žádný génius, ale obyčejný nafoukaný nula. 
 
+### Pozor – udávání kolegů neproběhne až v dopise
+
+Často se to plete: ten dopis Trjapičkinovi na konci je spíš **hořká třešnička na dortu** (ukáže, co si o nich Chlestakov celou dobu myslel). Skutečné **podrážení kolegů** probíhá už **přímo během hry**, když úředníci chodí ke Chlestakovovi do pokoje s úplatky **jeden po druhém** (ne najednou). Místo aby drželi basu, snaží se zachránit vlastní kůži tím, že hází špínu na ostatní. Nejvíc to dělá **kurátor chudinských ústavů Zemljanika (Jahoda)** – donáší na soudce, na poštmistra, pomlouvá školního inspektora. Myslí si, že když ostatní potopí a ukáže se jako „jediný poctivý a loajální“, šplhne si u revizora. Mezi úředníky tedy **neexistuje žádná skutečná loajalita** – jakmile jde o krk, neznají bratra.
+
 kritika dobových mravů a dobové společnosti
+
+## Mezilitarální paralely (přes maturitní seznam)
+
+- **Kulička (Maupassant)** – stejné jádro: **strach o vlastní pohodlí a postavení vede skupinu k obětování morálních zásad a k sebeklamu**. V Revizoru úředníci zradí jeden druhého, aby si zachránili koryta; v Kuličce „počestná“ elita obětuje prostitutku, aby mohla pohodlně odjet. V obou dílech maska slušnosti padá ve chvíli krize – a skutečné zlo přichází zevnitř společnosti, ne zvenčí.
+- **Lakomec (Molière)** – obě hry jsou **komedie o totální ztrátě lidské důstojnosti**. Jedna lidská neřest (chamtivost / strach) udělá z lidí absurdní karikatury. Harpagon je kvůli penězům ochotný zničit štěstí vlastních dětí; Gogolovi úředníci se kvůli strachu o teplá místečka plazí před úplnou nulou. Pod humorem je v obou dílech drsná satira na to, jak nízko dokáže člověk klesnout.

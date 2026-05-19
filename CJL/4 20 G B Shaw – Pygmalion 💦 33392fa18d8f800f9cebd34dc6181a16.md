@@ -144,3 +144,10 @@ V poslední části se Líza znovu střetne s Higginsem. Ten obdivuje, že se mu
 Takže **nejde jen o proměnu vzhledu a řeči**, ale o otázku, **co s člověkem udělá, když ho společnost přetvoří, ale nepřijme ho jako rovnocenného**. To je celé jádro Pygmaliona, žádná salonní sranda o výslovnosti a kloboucích.
 
 [https://youtu.be/62Vt-NH2Frs](https://youtu.be/62Vt-NH2Frs)
+
+## Mezilitarální paralely (přes maturitní seznam)
+
+Společný princip: **systém (nebo jednotlivec) tě redukuje jen na tvoji užitečnost / projekt.**
+
+- **Proměna (Kafka)** – Řehoř Samsa přestane vydělávat a rodina ho okamžitě odhodí jako parazita – jeho lidská hodnota byla jen v penězích. Higgins bere Lízu úplně stejně: ne jako člověka s city, ale jako **fonetický experiment** ve své laboratoři. Jakmile experiment splní účel, postavu to zbavuje hodnoty. U Kafky funkce končí biologicky (proměna), u Shawa sociálně (Líza dosáhne kýženého stavu) – princip je ale stejný.
+- **R. U. R. (Čapek)** – Čapkovi roboti jsou rovnou vyrobeni bez „zbytečného“ (housle, radost, city), čistě jako levná pracovní síla. Mladý Rossum „vyhodil všechno, co neslouží přímo práci“. Higgins dělá to samé s Lízou v menším měřítku: ořezává z ní „nevhodné“ (přízvuk, výrazy, manýry) a chce z ní vyrobit „dámu“ – produkt, ne osobu.

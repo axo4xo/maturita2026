@@ -111,3 +111,7 @@ A druhá dobrá věc: závěr sice působí šťastně, protože mladí dostanou
 - **Pierre de Marivaux (1688–1763)** – francouzská komedie 18. století, jemnější psychologie vztahů, lásky, sňatku a společenských rolí (tzv. „marivaudage“).
 - **Pierre-Augustin Caron de Beaumarchais (1732–1799)** – francouzská komedie konce 18. století, společenská satira, intriky (**Lazebník sevillský**, **Figarova svatba**); kritika šlechty.
 - **William Shakespeare (1564–1616)** – angl. renesance, postava lichváře Shylocka v **Kupci benátském** je další obraz chamtivosti, ale psychologicky složitější než typový Harpagon.
+
+## Mezilitarální paralely (přes maturitní seznam)
+
+- **Revizor (Gogol)** – obě hry jsou **komedie o totální ztrátě lidské důstojnosti**. Jedna lidská neřest (Harpagonova chamtivost / strach úředníků o místo) udělá z lidí absurdní karikatury. Harpagon kvůli penězům ničí štěstí vlastních dětí a chce dceru provdat bez věna; Gogolovi úředníci kvůli strachu o teplá místečka zahodí důstojnost a plazí se před úplnou nulou. **Pod humorem je v obou dílech drsná satira na to, jak nízko dokáže člověk klesnout** kvůli jedné posedlosti.

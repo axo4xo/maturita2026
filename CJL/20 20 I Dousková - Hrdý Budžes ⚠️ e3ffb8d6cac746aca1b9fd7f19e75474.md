@@ -83,3 +83,8 @@ Ke konci se začnou jednotlivé linky uzavírat. Oba rodiče jsou pod tlakem re�
 Nejlepší je neříct jen „je to vtipná knížka o normalizaci očima dítěte“. To je sice pravda, ale dost chudá. Lepší je říct, že právě **dětský vypravěč** umožňuje, aby čtenář **viděl víc než Helenka**. Ona nerozumí politice, ale o to přesněji odhaluje, jak směšné, kruté a trapné byly normalizační rituály a dospělácké lhaní. 
 
 A druhá chytrá věc: **Hrdý Budžes** není jen legrační zkomolenina. Je to symbol Helenčiny potřeby vydržet a věřit v nějakého hrdinu, a proto je závěrečné zjištění, že šlo jen o „**hrdý buď, žes**“, tak silné. Není to jen slovní gag, ale další rozpad dětské jistoty. Trochu kruté, ale lidé si na tom postavili celé 20. století.
+
+## Mezilitarální paralely (přes maturitní seznam)
+
+- **Malý princ (Saint-Exupéry)** – obě díla pracují s **naivní dětskou optikou, která demaskuje prázdnotu a pokrytectví světa dospělých**. Malý princ nechápe dospěláckou posedlost čísly, majetkem a mocí (byznysmen, král); Helenka Součková doslova interpretuje komunistické fráze a normalizační rituály. Dítě v obou příbězích funguje jako **reflektor**: protože nechápe „pravidla hry“, naplno odhaluje, jak absurdní a vylhaný je dospělý svět.
+- **Bylo nás pět (Karel Poláček)** – naprosto klasická česká paralela. Obě knihy stojí na stejném geniálním triku – **dětský, doslovný a naivní vypravěč** nechtěně, ale o to přesněji odhaluje pokrytectví a absurditu světa dospělých.

@@ -123,6 +123,10 @@ Druhý den ráno je dostavník konečně připraven k odjezdu. Když Kulička vy
 - Povídka není jen o zlu okupanta, ale hlavně o tom, že **cizí útlak odhalí domácí malost**. Pruský důstojník je hrubá síla, ale skutečnou morální špínu předvádějí sami „slušní“ Francouzi.
 - Důležité je i to, že Maupassant nekritizuje jen jednu třídu. Selže tu skoro celý průřez společností: šlechta, měšťané, církev i politický demokrat
 
+## Mezilitarální paralely (přes maturitní seznam)
+
+- **Revizor (Gogol)** – sdílí přesně to **jádro**: strach o vlastní pohodlí nebo postavení vede skupinu k **obětování morálních zásad a k sebeklamu**. V Kuličce „počestná“ elita obětuje prostitutku, aby mohla pohodlně odjet – a navíc si to omluví vlastenectvím, historií a náboženstvím. V Revizoru úředníci zahodí důstojnost a navzájem se udávají, jen aby si zachránili svá místa. V obou dílech **skutečné zlo nepramení zvenčí** (Prus / revizor), ale z toho, že **společnost sama je prolezlá pokrytectvím a malostí**. Maska slušnosti drží jen dokud lidem neteče do bot.
+
 ## Co říct u zkoušení, aby bylo vidět, že děj opravdu znáš
 
 Neříkej jen, že „ostatní přinutili prostitutku vyspat se s důstojníkem“. To je kostra, ale bez masa. Lepší je zdůraznit, že se to děje **postupně a rafinovaně**: nejdřív s ní pohrdají, pak jí snědí jídlo, potom se tváří jako obránci její cti, pak ji pomocí historie, náboženství a vlastenectví zmanipulují k oběti a nakonec ji znovu odkopnou. Právě tenhle oblouk je na povídce nejdůležitější. 

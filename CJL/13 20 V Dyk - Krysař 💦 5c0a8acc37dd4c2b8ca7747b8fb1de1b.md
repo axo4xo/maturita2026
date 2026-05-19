@@ -118,3 +118,7 @@ Nejdůležitější je nevylíčit **Krysaře** jen jako příběh o pomstě za 
 - **Středověká německá pověst o krysaři z Hamelnu** (Pied Piper of Hamelin) – z konce 13. století; vyšla v různých verzích u **bratří Grimmů** (1816) a u **Roberta Browninga** (báseň 1842). Dyk z ní vychází, ale dělá z ní symbolický příběh české moderny.
 
 ⚠️ **Důležité pro maturitu:** Dyk = **česká moderna, generace 1900 (buřiči)**, přelom 19./20. století. **Krysař** kompozičně i jazykem patří k **symbolismu a novoromantismu**, NIKOLIV k realismu. Není to ani modernistická psychologická próza jako Kafka.
+
+## Mezilitarální paralely (přes maturitní seznam)
+
+- **Hamlet (Shakespeare)** – sdílí motiv **osamělého mstitele v prohnilém světě**. Výjimečný, přemýšlivý jedinec se štítí morální hniloby okolí, má v rukou moc trestat, ale dlouho váhá. Hamlet vidí „něco shnilého ve státě dánském“, Krysař vidí pokrytectví a malost měšťáků v Hammelnu. U obou nakonec nástroj pomsty (čin / píšťala) přinese **masovou smrt** mimo původní cíl – ne jen viníky, ale i nevinné.

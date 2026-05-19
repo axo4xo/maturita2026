@@ -103,3 +103,7 @@ Druhá silná věc je, že hra není jen rodinná tragédie, ale i **tragédie s
 - **Fjodor Michajlovič Dostojevskij – Bratři Karamazovi**: téma otcovraždy, viny a synovských vztahů, vnitřních pochybností (i když je to román, ne drama).
 
 ⚠️ **Důležité odlišení – nezaměňovat:** Shakespeare = **anglická renesance, přelom 16./17. století** (alžbětinské a jakubovské divadlo, blankvers, ignorování antických pravidel). **Klasicistní** Corneille a Racine jsou o století později a píší jinak (jednoty místa, času, děje).
+
+## Mezilitarální paralely (přes maturitní seznam)
+
+- **Krysař (Dyk)** – sdílí motiv **osamělého mstitele v prohnilém světě**. Výjimečný, přemýšlivý jedinec se štítí morální hniloby okolí, má v rukou moc trestat, ale dlouho váhá. Hamlet vidí, že „je něco shnilého ve státě dánském“, Krysař vidí pokrytectví, malost a falešnou důstojnost měšťáků v Hammelnu. U obou pak nástroj pomsty (čin / píšťala) přinese **masovou smrt** mimo původní cíl.

@@ -115,3 +115,7 @@ Druhá chytrá věc je, že hra není od začátku jen temná. Naopak první č�
 - **Pierre Corneille – Cid (1637)**: francouzský klasicismus 17. století, milenci z nepřátelských rodů, čest vs. láska – stejné základní téma, ale klasicistně sevřené.
 
 ⚠️ **Důležité odlišení – nezaměňovat:** Shakespeare = **anglická renesance, přelom 16./17. století** (alžbětinské divadlo). Není to klasicismus a neřídí se pravidly tří jednot.
+
+## Mezilitarální paralely (přes maturitní seznam)
+
+- **Kytice (Erben)** – sdílí motiv **vášně, která poruší řád, a tragédie, která z toho plyne**. Porušení stanovených pravidel (společenských nebo přírodních) nevyhnutelně končí smrtí. V Romeovi a Julii je tím řádem stará rodová nenávist Monteků a Kapuletů, kterou se mladá prudká láska pokusí přeskočit. U Erbena postavy porušují **mravní nebo přírodní řád** (rouhavá touha po mrtvém milém ve **Svatebních košilích**, překročení hranice dvou světů ve **Vodníkovi**, vzpoura proti přirozenému řádu v **Polednici**). V obou případech za nerespektování těchto daných hranic platí nevinní tím nejvyšším trestem.

@@ -175,3 +175,7 @@ Takže u té knížky je důležité říct, že **nejde jen o válečný příb
 A jo, přesně to je ten hrabalovský trik, kdy se mezi razítka, zadky, vlakové rozkazy a trapasy úplně nenápadně vecpe válka a zabíjení. Lidstvo miluje dělat dějiny i na těch nejdivnějších kulisách.
 
 “ostře sledovaný vlak" - vojenské vlaky (s municí, technikou atd.), které měly na železnici absolutní přednost před vším ostatním a železničáři je museli bedlivě střežit a hlásit jejich průjezd ze stanice do stanice
+
+## Mezilitarální paralely (přes maturitní seznam)
+
+- **České nebe (Svěrák/Smoljak/Cimrman)** – obě díla **zničí český „mramorový“ obraz hrdinství**. Češi u nás nikdy nejsou pateticky velcí hrdinové – velké dějiny zakopávají o obyčejnou lidskou malost a trapnost. Cimrmani uzemňují Husa, Havlíčka, Komenského do role hádajících se úředníků; Hrabal vzal téma odboje a války, ale jeho hrdina Miloš Hrma je nevyzrálý kluk, co řeší předčasnou ejakulaci, ne vlastenectví. **Obě díla z nás dělají hrdiny navzdory směšnosti, ne díky dokonalosti.**
