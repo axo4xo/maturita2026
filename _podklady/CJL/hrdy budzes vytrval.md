@@ -1,0 +1,425 @@
+# divadelní hra
+### taková hrátká předehra
+- promluvení na diváky: dítě může být super ale musí se stát součástí socialistického režimu
+- 20. srpna 1964 - Helenka Součková - vlastně ne Součková, ale Freisteinová
+- ale to je komplikované 
+- soudružko součková, co to máte
+- dopis od JFK
+- to je problém
+- dopis od tatínka, nejspíše někde v Americe (Ňůjorku) nebo v Izraeli
+- poruštěno
+### začátek
+- barbora hrzánová v hlavní roli Heleny Součkové-Freisteinové
+- básnička ve školním rozhlase
+- hrdý budžes, vytrval i přes všelijaké potíže
+- jsem tlustá, ve třídě se mi smějí
+- ale rozhodla jsem se, že budu jako ten Hrdý Budžes a vytrvám
+- je to taková nemilá věc: pan soudruh Vytlačil - maminka v divadle herečka a táta taky 
+- lebky a kostry se bojím ze všeho nejvíc na světě
+- paní soudružka koláčková - přišli jsme do školi - pěkně potichu posedíme - teda vlastně ne když jsme přišli ale když ta škola už končila
+	- tady se projevuje dětský vypravěč
+	- vtipné
+- tvářila se nemilá věc
+- jako když vyvolala hrůzu a ten se díval tak nějak divně a on se dívá tak nějak divně vlastně pořád
+	- dětský, chaotický vypravěč
+- láďa hrůza -> do pomocné školy
+- stalo se něco moc smutného - olinka hlubinová, umřela protože byla moc nemocná od srdce
+- jak je to možný že umřela?
+- co to znamená to od srdce?
+- prej je to tak že srdce je ta nejhorší nemoc
+- jakmile má někdo srdce tak skoro určitě umře
+- dostala jedničky = šla na dort do cukrárny (normálně nemůže, tlustá), měla jsem tak nějak radost ale vlastně ne protože umřela družinářka Olga Jeřábková
+- „ona se umřela sama“ řekli až doma
+- otrávila se plynem a vybuchla a vybuchla celej ten byt a vybouchnul barák a s ní i cizí a nevinný lidí
+- ptala jsem se kačenky -> kačenka - mamince tak říkám -> nevěděla (říká tatínkovi, že ji uštvali ty svině)
+	- takže to museli bejt rusáci nebo komunisti
+	- protože rusáci a komunisti jsou svině, akorát se to nesmí říkat
+- kačenka s andreou kroupovou (taky herečka- kačenky kamarádka) - ti to říkaj pořád
+- jiskřičky - malý komunisti
+- celá třída chodí na jiskřičky kromě helenky
+- chodí různě
+- na němčinu k paní učitelce freimannový
+	- chodí jenom ona
+	- noóbl a velice inteligentní žena - umí německy
+	- je moudrá
+- chodím na sochání
+- chodím na balet poněvadž jsem tlustá tak se musím pořád hejbat
+- chtěla by chodit na jiskřičky
+- mám skoro určitě potíže v hlavě
+- šla jsem z němčiny a foukal vítr, trochu jsem jedla sníh (ten může, ten není sladkej)
+	- dělala jsem stopy
+	- dívala se domů na Ničín, oranžový a žlutý světýlka
+	- vánoční ozdoby
+	- papírnictví, voňavý čtvrtky
+- ježíšku přines mi 
+- tvoje helena součková antonína zápotockého 429 ničín 5
+- pak jsem šla domů a dvakrát jsem upadla
+- prej se budu muset nad sebou zamyslet ale vlastně jsem už teď hrozně zamyšlená
+- scéna s jahodama? (loutky)
+- dobrou noc helenko
+- asi za 14 dní jsou vánoce a já už myslím jenom na vánoce
+- kačenka je na mě ještě zase už mrzutá
+- aby ježíšek si nemyslel že zlobím
+- všelijaký nedorozumění
+	- nejsem součková ale freisteinová jako nějakej karel freistein - něco jako můj táta
+	- můj táta to vůbec není, já ho neznám, nezná mě a ani tady nebydlí
+	- jenom ho mám takňák v krvi
+	- nejdřív jsem měla jenom kačenku, pak pepu a to je můj opravdickej táta 
+	- a pak jsem měla pepíčka, mladší bráška
+	- kačenka se jmenuje součková protože je to herečka
+	- pepa se jmenuje brďocho
+	- kačenka je někdy součková/brďochová/součková-brďochová
+	- já jsem freisteinová, vůbec to nechci a všichni se mi za to smějou
+- když byla na podzim paní koláčková u nás nová, tak chtěla vědět jak se jmenujeme
+- "no ne děti, už jste něco takového viděli? tady helenka se jmenuje freisteinová, její maminka se jmenuje součková a její tatínek se jmenuje brďoch, no to jsem ještě nikdy neviděla ale u divadla se asi tak nebere;"
+- tak já sama osobně si říkám součková, když píšu ježíškovi a pan pecka to naprosto toleruje
+- holky kluci mi říkaj různě - mobydik (nějaká strašně tlustá velryba) nebo atomová bomba, teďka díky paní koláčkový frankensteinová - ještě nevím co to znamená
+- nechci aby kačenka kvůli tomu šla do školy
+- poprosit ježíška aby se mohla jmenovat součková
+- Brďochová nemůžu - "Ty brďo", "Prďochu" a to by mi teda vůbec nepomohlo
+*scénka s přicházejícími vánoci, do školy ze školy, vánoce*
+- ježíšek možná neexistuje, dostala jsem fixy - jenom ty malý, modelínu, kocoura, oblečky
+- jenomže já jsem tu modelínu viděla zastrčenou vzadu ve špajzu pro 1-2 vanilkový rozhlíčky
+- ve škole to dávno říkali, že je to jenom jako
+- "dárky nosej dospělí" a eliáše se babička ptá
+- děti věří všelijakým hloupostem 
+	- mistra jana husa ve filmu mistr jan hus musel hrát trestanec odsouzenej smrti, poněvadž ho nakonec upálili
+	- zdeněk štěpánek normální herec
+- já si myslím, že oni maj všichni hrozně hloupý maminky tatínky
+	(horníky, zedníky, komunisti)
+- klímová, válová - ty maj tatínky plukovníky a důstojníky u armády
+	- to jsou komunisti tuplovaný, to říkal pepa
+	- na podzim nám takovýho hnusnýho horníka na podstavci postavili před školu, všichni tam museli jít 
+	- naši zase nešli
+	- za nějakýho uranoviče havířenka není vůbec zvedavá
+	- šla s kristýnkou macháčkovou - její tatínek pan doktor macháček - má úplně bílý vlasy a fousy vypadá jako její dědeček
+- patolog
+	- já taky nevím, domnívám se, že patolog znamená něco jako trpělivý
+	- hned po horníkovi jsem běžela do divadla před divadlo k divadlu, zájezd do čáslavi
+- luděk starý se mi líbí, rodiče se s ním baví nějak moc dlouho, kačenka to ví a dělá si ze mě legraci
+- on si ji nevezme, je to dospělá legrace
+- jsem ještě malá a ošklivá
+- pan dusil - když potkám pana dusila, starej pán
+- starej herec, pokaždý mi dá sisinku
+- chci sisinku
+- pan Vorel, to je taky dost starej herec, má hrozně mladou milenku
+- většinou hrává vojevůdce kníže pány ředitele
+- jeho milenka je ještě mladši, učitelka
+- mohla by hrát nanejvýš něčí sestru
+- pan řidič měl puštěné rádio a zpíval si 
+- potom hlásili že v praze vyhořel veletržní palác
+- praha je velice krásné starobylé a hlavní město, to mi říká dědeček františek
+- reference na vyhoření národního divadla
+- byli jsme v čáslavi, museli jsme vystupovat
+- v čáslavi zemřel slavný "husista" jan žižka, na kterého volali "chraň holého" a vystřelili mu oko
+- u hradu rábí
+- čáslav je krásné, starobylé a okresní město 
+- to mě naučil zákopecký dědeček františek, který mě učí krásné starobylé československé a socialistické dějiny
+- v hotelu na záchodě "na kostele zvoní zvon, seru, sereš, sere on"
+- "na mou věru jak tak seru tak mi přišlo na mysl, jak sral kníže přemysl"
+- a pod tím "horší nežli rusák je ten čůrák husák"
+- a pod tím "dělej mi to zezadu"
+- tomu jsem nerozuměla
+- kačenko co by to mohlo znamenat, ta taky vůbec neví
+- andrea kroupová by to mohla vědět
+- kačenka se opravdu hodně mračí
+- hráli jsme zkrocení zlé ženy 
+- kačenka to hrála strašně krásně, už to viděla pětkrát
+- pan dusil leží venku na lavičce, udělalo se mu blbě
+- doktora, děláte mi starosti
+- kačenka panu dusilová MOŽNÁ pohladila ruku
+- andrea řekla že jsme pozvaní k panu kubálkovi
+- všichni šli kromě my a pana dusila
+- pan soudruh kubálek, co měl před představením proslov
+- pan dusil plivnul na chodník
+*scéna turkestanu sibiři nová bavlna, symboly srpu a kladiva, kačenka tam mezitím fluše na terč*
+- zase se koukala na ničín, na světýlka, na nejvyšších budovách svítily červený komunistický hvězdičky
+- než jsem usnula tak jsem slyšela víc než dost
+- kačenka si má dát pozor na andreu kroupovou která se nějak motá se soudruhem pelcem, kterej má bejt největším komunistou v ničíně
+- kačenka řekla že andrea kroupová je naše kamarádka a je vdaná s robertem čuškem
+- kačenka je naivní jako dědeček františek, mám strach aby jí někdo neoblafnul
+- jsem přesvědčený, ten freistein jí vyloženě oblafnul
+- rodiče mají premiéru "Ty špinavý kurvy"
+- s kuurvama jsem měla taky problém 
+- hrála si v zákopech a kluci říkali ty kurvo ty kurvo ty kurvo
+- to slovo se mi líbilo, babička na mě zavolala "večeře" "děkuju ještě nemám hlad ty kurvo"
+- babička prudce zabouchla okno a všechny paní se hrozně smály a já měla doma velikou nepříjemnost
+- kurva je strašně sprostý slovo
+- nějaká strašně zlá paní, nechtěli mi vysvětlit, jak přesně je zlá
+- kačenka mě tím svým křikem probudila, měla jsem špatnej sen
+- zdálo se mi že si hraju úplně sama *popisuje sen*
+- já bych už chtěla bejt velkej starej člověk
+- velký starý lidi se sobě navzájem nesmějou, když jsou tlustý a nedělaj si hnusný věci, jako si dělaj děti navzájem
+- ve školce kluk mi řekl že tatínek má náklaďák a že ji přejede tím náklaďákem
+- člověk do školy musí chodit pořád, pořád vlastně taky ne, jednou budu stará, nebudu muset nikam chodit a vůbec nic se mi nebude zdát
+*scéna - libuše u vytržení, vidím město veliké jehož sláva hvězd se bude dotýkat*
+- byli jsme v praze!!!! jó celý dva dni!!!!! tak strašně krásný že tam v hlavě furt jsem
+- umřela teta aňa, já a pepíček jsme nemuseli a pepa rozhodl že tam přespíme
+- ráno teta marta krausová, chtěla jsem vidět všechno z prahy, věž daliborku, rytíř se mi strašně líbí, ale to je tajemství
+- já jsem si jeho obrázek vystříhla a složila, nosím ho v penále a když jsem v bezpečí tak ho rozložím a dívám se
+- je krásnej, má hlad, ze zoufalství hraje na housle, jak mu sekaj hlavu, miluju ho
+- teta mě pozvala na zmrzlinu a sebe na tři cigárka 
+- celou druhou světovou válku schovávala protože ho němci neměli rádi
+- hugo krause po válce utekl do ameriky
+- když jsme přijeli domů, hračky
+- AV - americké věci
+- UNP - upomínky na prahu
+- taky dostala svícen, na kterým je napsáno ISRAEL a pod tím jsou klikyháky a mám si to nechat na "až budu velká"
+- krabice UJV - úplně jiné věci a jsem teda fakt hodně spokojená
+*červené vlajky - krásný úděl máte dnes..*
+- protože už je hezky teplo, začali potíže s tělocvikem
+- už jenom svlíknout se do trenýrek a do trička nestojí za nic
+- hned je břicho vidět ze všech stran a člověk s tím nemůže vůbec nic dělat
+- tělocvik jako učení tlustejch a neohrabanejch dětí
+- včera byl na cvičišti sportovní den protože "Vladimir iljič lenin měl narozeniny"
+- nejdřív proslovy, pak recitace, pak se všichni líbali a pak běh na 50 metrů
+- mobydik do toho
+- upadla jsem hned jak jsem se rozběhla udělala jsem si díru do nohy odřela ruce nohy hlavu asi fakt hodně
+- všude možně crčí krev, díra v koleni, škvára v ní, byla jsem moc spokojená
+- válová mě doprovodila
+- před kačenky šatnou kouří iveta panýrková
+- kačenky šatna nešla otevřít
+- za dveřma andrea kroupová, 36, nevstupuje do SSM
+- kačenka byla tak rozčílená že si nevšimla jak vypadám (od krve)
+*scéna normalizace zas a opět, básně jiskra*
+- naši mi dovolili chodit na jiskřičky
+- kačenka uplakaná a mluvila dost sprostě
+- jiskřičky nejsou "vůbec žádný zasraný" a že to bude príma
+- náš oddíl se jmenuje "veselí lumíci" a paní vedoucí je slečna anděla chodí už na gymnázium
+- výlet 9.5. rusáci spolu s komunistama a partizánama osvobodili od fašistickéhojihá
+- partizáni bydleli v zemljankách, díry do země co vymysleli v sovětským svazu
+- nedělali hrobeček a pak to zaplácali aby ho nikdo nenašel
+- pan vladimír - specialista na partizány
+- vypadá jako jeíšek když byl ukřižovanej
+- lenka krátká "soudruhu vladimíre že vy se jmenujete podle iljiče lenina"
+- "no, je to možný, oni je naši moc nechtěli"
+- soudružko holčičko
+- konečně se setmělo - ohníček
+- ničínský partizáni - zvláštní druh partizánů, děsně mrňavý a hbití a uměli kličkovat mezi stromama 
+- oheň dohoříval
+- hledají mrtvoly v hromadě šišek mezitím co "zmizí" vedoucí s vladimírem
+- secký "tyvole noha"
+- lenka krátká tralala se nám strachy posrala
+- já jsem se musela smát i když vím jaký to je když se všichni 
+- narazila jsem na něco tuhýho, zdena pomáhá
+- našli kost (byl to partizán)
+- secký že to je drsný
+- zdena řvala tak dlouho i slečna anděla šla nějak divně, byla pocuchaná, má na padrť rozbitý brejle
+- vrátili jsme se zpátky do ničína, drogérie na náměstí byla otevřená
+- anděla s panem vladimírem na sebe dělaj usinky a pan vladimír vytáhl partizána a hodil ho do popelnice a odešli
+- jsem partizána vzala
+- herečka berenčičová: kam nese tu prasečí kost
+	- to je partizán
+- partizána jsem ukryla v křoví před naším barákkem a šla jsem na dorty
+- pepa měl narozeniny
+- přidala jsem si dorty
+- kačenka pepovi koupila gramofon a tři desky (má vlast, lidové písně (w. matuška), ztracenka zpívá (asi od ztracenky))
+- přišla berenčičová, kapala krev odevšaď na ten svetříček z maďarské lidové republiky kterej bych taky fakt moc potřebovala
+- "zmlátily mě, kroupová s panýrkovou, ať podepíšu to jejich SSM"
+- "jsem stejně velká kurva jako oni" 
+- "nalejte mi pořádnýho panáka"
+- prasečí kost už tam ze školy nebyla
+*scéna střelby, zákopy, červené vlajky, vladimír stuchl*
+- včera jsme měli k obědu strašně hnusnou věc "pličky na smetaně"
+- malinký kousky masa, strašně slizký, jak kdyby do smetany někdo naplival
+- rozbolelo mě břicho jako čert
+- tetu martu krausovou pustili do ameriky
+- rusové vždycky nikdy nikoho do ameriky nepustěj a komunisti jakbysmet
+- už je strašně stará
+- už se nám nevrátí, to mě mrzí
+- teta marta krausová je moje moc dobrá pražská přítelkyně, vlastně asi úplně nejlepší
+- kačenka udělala řízky, koupil pivo a poslední česká večere a šmidra a mě poslali spát
+- zazvonil zvonek a ozvalo se zabouchání
+- robert čušek, manžel andrey kroupový
+- "tyvole to je dost, jsem se tady málem poblil"
+- k pelcovi se jeho žena stěžuje, už je bejvalá
+- kačenka stála v chodbě a tvářila se hrozně divně
+- robert odchází, poblil se
+### KONEC PRVNÍ ČÁSTI ???? buhví co to znamená
+### DRUHÁ ČÁST
+*scéna my češti umělci UV KSČ, UV NF ČSSR k volbám, nové vedení strany v čele s gustavem husákem, moucha, zadupnutí*
+- ve čtvrtek nepřišla slečna anděla na jiskřičky
+- šli domů
+- měla v divadle generálku
+- secký a eliáš
+- secký mě má v hrsti co na mě něco ví
+- to je tajem, strašlivý tajemství
+- se mnou je definitivní konec
+- tak jsem klukům ukázala...
+- vylezli jsme na první balkón
+- nad potálem jsou ty dvě hlavy kde se jedna mračí a druhá usmívá (komédie - tragédie)
+- na jevišti
+- ROZBŘESK NA DOLE KAREL
+- nějaký dělníci byli hrozně chudý, měli hrozně moc práce, a hrozně málo peněz, byli nešťastný
+- o práci přišli, byli ještě chudší a ještě nešťastnější
+- přišla revoluce - horníci tancovali zpívali se a smáli se až do smrti
+- secký "je tohle komédie nebo tragédie?"
+- zeptáme se, probíhá "pausa", všichni budou v kuřárně
+- stál sám pán režisér
+- je to spíš komédie nebo tragédie
+- já se domnívám že to je tragédie
+- pan režisér neřekl ani slovo a řekl kačence "no teda že si nedáte pokoj, já se vám teda divim"
+- hned jsme šli domů, měli jsme návštěvu
+- paní magistra glancová a její oční lékař manžel glanc
+- podala mi černej sešítek, hrobeček, rakvičky, svíčičky "osiřelo dítě 3 ilustrované vydání"
+- kačence jógou k vyrovnané mysli
+- cestou na koupaliště
+- kačenka může dostat čurdu v divadle
+- když při Zkrocení zlé ženy nehrajete tu zlou ženu, ale tu komornou
+- a kačenka v předposlední inscenaci komornou hrála
+- a poslední hrála paní co přejde zleva doprava
+- andrea kroupová teď hraje samý hlavní role
+- kačenka je v nebezpečí
+*scéna kámen na rohu čeká na tebe soudruhu buď v práci v 6*
+- babička mě rozmrzela
+- měla jsem chuť jít do krásného starobylého města ohrady, kde už je tři dny pepa s kačenkou
+- bych tam došla hubená
+- nesměla jsem sníst ani 1 nanuka
+- musela jsem poslouchat o freisteinovi
+- slovem a jídlem je na mě babička hodná
+- ty hlavní věci strašně zkazí
+- jedla jsem buchty a malovala jsem si pohádku
+- pak to sešiju dohromady
+- pokaždý zvedne náladu
+- některý obrázky pepíček počmáral mamutama
+- u babičky v nočním stolku to bylo
+- dopis freisteinovi
+- "milý karle, máme teď na čas naštěstí helenku u sebe. staráme se o ni tak, jak byste si to přál. je to velice hodná, velice nadaná holčička. vlastního otce tomu dítěti nikdo nahradit nemůže. přikládám obrázky."
+- roztrhala jsem ten dopis a spláchla do záchoda
+- freisteinovi zastřelili maminku přímo před očima
+- našla obrázek na rubu "den karl, seine mutti" - karlíčkovi, maminka
+- na fotografii je babička
+- děda říkal že "za války fašisti babičku i s freisteinem upekli v peci"
+- jaký to je fašistama bejt upečenej v peci..?
+- fotku jsem si nechala
+- babička - návštěva
+- boženka veverková strašně tlustá paní smrdí jako kdyby se počůrala
+- ja jsem se taky jednou počůrala a secký to viděl
+- to je ten velkej tajem, kvůli kterýmu mě má v hrsti
+- secký to do smrti nikomu nepoví
+- dědeček františek většinou uteče
+- ale paní veverková má františka ráda, protože ji pomohl napsat dopis na Národní výbor, když ji JZD zasmrdělo zahradu
+- vypustilo všechnu močuvku, zkazilo vodu ve studni
+- paní veverkovou zasmradilo asi JZD
+- zákopecký zámeček
+- v rozích je dost silně nakaděno
+- za mnou přišli malý cikáni co bydlej v přízemí, já je vůbec neviděla
+- ale oni nebyli zlí
+- oni byli strašně zvědavý, jak to na tom zámku bylo za dávných časů
+- a pak jsme si udělali ples protože umí strašně pěkně tancovat
+*scéna tance*
+- babička udělala strašnej kravál
+- nebyla ráda, "jak se vůbec můžeš bavit s cikánama který nic nedokážou a strašně smrdí"
+- babička by si měla očuchat boženku veverkovou
+*scéna - daliborovy housle - opereta*
+- už je podzim
+- chodím do třetí třídy ale to nevadí
+- secký se odstěhoval
+- doma mi kačenka řekla, že secký se neodstěhoval jen tak normálně, ale secký utekli do západního německa
+- já utíkám strašně pomalu
+- on je takovej dobrodružnej a hlavně má tu dvojku z chování
+- teď už na mě nemůže nic říct ale je mi to líto
+- kačenka umí stát na hlavě ale v divadle jí neobsadí
+- kačenka je strašně smutná, bojí se, že z divadla bude muset odejít a že nebudeme mít žádný peníze
+- 2 dobrý věci
+- psala teta marta krausová, ve švýcarsku se zastavila a kamarád se jí líbí ještě víc "egon blunthal" a vezme si ho
+- za 14 dní bude mít v ničíně koncert miluška voborníková
+*scéna*
+- stala se mi nemilá věc, příšerná věc
+- může za to kačenka
+- těšila jsem se na milušku voborníkovou
+- chtěla jsem se s ní seznámit, namalovala jsem jí obrázek, v princeznovskejch šatech
+- nejmilejší zpěvačka
+- já měla slíbeno když do pátku nedostanu žádnou spatnou známku tak v sobotku budu moct na koncert
+- v pátek kačenka dostala pohlednici, v sobotu přijede teta irma, arnoštem, mařkou a jejich blbou holkou soňou
+- kačenka mě zklamala
+- miluškou voborníkovou prostě musím vidět
+- holt se bez pitomý milušky voborníkový budu muset obejít
+- v pátek jsme jeli do zákopů a celej víkend žádná návštěva nepřijela
+*scéna, průvod, lampióny*
+- já mám strach aby se kačence nic nestalo
+- ředitel vytlačil řekl aby kačenka odešla sama od sebe, dostane výpověď
+- od ledna nebude mít skoro žádný angažmá, pan Dusil, režisér macháček, jana březinová
+- přemejšlela jsem jestli paní učitelka koláčková je taky proletářka nebo komunistka, no asi jo, když je tak blbá
+- přemejšlela jsem jestli byl taky komunista hrdej budžes, to by byla škoda
+- o něm pořád recitujeme
+- taky to mohl bejt nějakej velice statečnej indián "vinnetou"
+- hrdý budžes vytrval
+- to zní přece úplně indiánský
+- on to byl někdo asi jako julius fučík nebo maruška kodeříková
+- stejně to byl hrdina
+- a taky umřel pan dusil
+- soud v praze s divadlem, dopadl špatně, panu dusilovi se udělalo nevolno a ráno umřel
+- měla jsem strašně ošklivej sen
+- nastává zima
+- zákopecká babička: dopis od freisteina *zatímco má menoru a jarmulku*
+- "vaše řeči mě trápí.. já bych jí věnoval každou vteřinu svého života.. oslovení sociální pracovnice.. spoléhám na vaši lásku, váš žel bohu tak nedokonalý Todá rabá karel freistein"
+- kačenka jela do prahy na tři dni na další soud s divadlem, řekla jsem jí o tom dopise, kouřila jednu cigaretu od druhý, až se vrátí, tak si to s babičkou vyřídí
+- v praze to na tom soudu dopadlo špatně
+- v pátek jsme jeli do zákopů, "neuvěřitelná sprosťárna, darebáctví"
+- maminka křičí i na helenku
+- dědeček zápotockej píše prezidentovi
+- husák je na to určitě tak zvědavej
+- děda františek pořád píše ve dveřích s tím dopisem
+- chtěla jsem bejt hrdej budžes, ale rozplakala jsem se
+- nejsem žádnej hrdej budžes, jsem sralbotka
+- kačenka si šla pro věci do divadla, sbalila si věci a celá rodina půjde na loutkovou pohádku
+- my jsme se s pepíčkem pěkně oblíkli, pepíček koukal na fotbal
+- půjdeme kačence naproti
+- kačenka v divadle prej vůbec nebyla, doma nás pepa uložil do postýlky
+- a ráno pepa seděl v kuchyni a kouřil a najednou vyšla z vedlejší místnosti pražská babička dáša
+- musím bejt rozumná holčička
+- kačenka šla do divadla a jak foukal vítr tak z vedlejšího domu z lešení spadl trám kačence přímo na hlavu
+- a prej malinkej a jenom trošku
+- prej bude všecko úplně dobrý ale jestli mi kačenka umře, tak to nevím
+- a v noci se mi zdál strašnej sen
+- ráno přijel zákopeckej dědeček františek
+- umřela paní boženka veverková, klepla ji pepka v kuchyni, když ji našli tak z ní zbyla jenom půlka, tu půlku sežrali velký myši
+- kačenka už je v pořádku poněvadž hnedko začal nadávat na zákopeckou babičku
+- kačenka se za tři dny vrátila
+- ježíšek neexistuje ani trochu
+- za babičkou a dědou do zákopů nejedeme, dárky kupujeme
+- kačenka mi dala stovku
+- přijel nás navštívit zákopeckej dědeček františek - šli jsme na svatej vršek na jesličky - andrea kroupová s panem soudruhem pelcem
+- není to náhodou malá freisteinová
+- kačenka není vůbec žádnej hrdej budžes, rozplakala se hned na ulici
+- měli jsme se ve škole naučit básničku
+- těšila jsem se do knihovny
+- "to je zbytečný, josef václav sládek - jsem ještě dívčina mladičká"
+- "já to nebudu recitovat"
+- "mě se to moc nelíbí"
+- "je to takový divný, dívčina"
+- ještě že ten leden je tak daleko, třeba se na to nějak zapomene
+- celý schodiště nebo chodba byly pokapaný krví
+- bála se o vraždu, že pepa zavraždil kroupovou
+- šla jsem po stopách, na klice našich dveří zajíc, měl černou díru a z vykapávala krev
+- před barákem uviděla zákopeckou babičku
+- babička se nám sama vrátila
+- na vánoce jsme přeci jenom jeli do zákopů, na štědrý den přijela pražská babička dáša
+- jestli chceme, tak se můžeme hnedko nastěhovat do prahy do bytu po tetě martě krausový
+- má radost
+- do školy už chodím jen tak
+- bez učení
+- stala se mi taková nemilá věc, úplně příšerná
+- listovala si v básničce o hrdým budžesovi
+- básnička o hrdým budžesovi
+- nebyl to ani indián, ani partyzán
+- hrdý budžes nebyl vůbec
+- hrdý budžes: "A hrdý buď, žes"
+- to je ještě horší, než kdyby to byl komunista
+- stanislav kostka neumann - a hrdý buď
+- a hrdý buď, žes vytrval, žes neposkvrnil ústa ani hruď falešnou řečí
+- nejdřív freistein, potom ježíšek a teď i hrdý budžes. ještě že už se stěhuju
+- "helena součková - prase" za našimi, za vraty vysedává prase, hleďme ho, už zase
+- celá třída i paní učitelka koláčková se strašně smáli
+- naposledy do divadla
+- paní součková - hovor z divadla z bušberku nebo co
+- já vám dám dceru
+- pane řediteli, no, to asi nepůjde, kačenka včera dostala angažmá do národního divadla, sólistka činohry, to vaše angažmá nebude moct přijmout, do bušberku nebude moct přijet
+- tohle se kačenka v žádným případě nesmí dozvědět
+- "milá helenko, když tak ráda maluješ, snad tě potěší tyhle barvičky. Vaše krásné vánoce přeje karel freistein" 
+- nejkrásnější fixy na celým širém světě
+- barevnej dopis od freisteina
+- balíček s fixama, vyšla jsem ven
+- lehla jsem si na chodník před barákem a všechny ty fixy jsem naházela do kanálu
+- pan prezident gustav husák dědečkovi františkovi ještě neodpověděl

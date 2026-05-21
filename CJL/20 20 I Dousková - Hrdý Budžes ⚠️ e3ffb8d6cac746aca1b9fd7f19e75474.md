@@ -66,6 +66,25 @@ Ke konci se začnou jednotlivé linky uzavírat. Oba rodiče jsou pod tlakem re�
 4. **Tragikomika** – čtenář se směje, ale zároveň ví, že za humorem je smutek, strach a ponižování. To je nejtypičtější účinek celé knihy. Ostatně i autorka na svém webu mluví o ironii a naivitě, které tíživou dobu odlehčují, ale nezjednodušují.
 5. **Epizodická výstavba** – kapitoly mají výrazné názvy a fungují jako samostatné historky, ale zároveň posouvají Helenčinu psychiku i celkovou situaci rodiny k závěrečnému odchodu z Ničína.
 
+## Divadelní zpracování (monodrama, Divadlo v Dlouhé)
+
+- **Premiéra 2003**, v hlavní (a v podstatě jediné) roli **Bára Hrzánová**, která hraje Helenku i všechny ostatní postavy. Inscenace je kultovní a dodnes se hraje. Pokud u zkoušení padne otázka „znáte nějaké zpracování?“, tohle je odpověď.
+- **Struktura:** hra má **dvě části** s přestávkou. První část končí scénou, kdy k nim domů přijde **Robert Čušek** (manžel Andrey Kroupové), zařve „tyvole to je dost, jsem se tady málem poblil“ a opravdu se v chodbě poblije. Druhá část začíná blokem normalizačních hesel („my čeští umělci ÚV KSČ, ÚV NF ČSSR k volbám, nové vedení strany v čele s Gustávem Husákem“) – takový ironický refrén.
+- **Scénografie a symbolika:** mezi epizodami se vrací stylizované scénky s **červenými vlajkami, srpy a kladivy, lampionovým průvodem, komunistickými hvězdami nad Ničínem, pliváním na terč, dupáním**. Tyhle obrazy fungují jako ironický kontrast k tomu, co Helenka zrovna prožívá.
+- **Hrátková předehra** rovnou promluví na diváky: dítě může být super, ale musí se stát součástí socialistického režimu. Padne datum **20. 8. 1964** (Helenčino narození) a hned se otvírá motiv Freisteinová × Součková („soudružko Součková, co to máte – dopis od JFK – to je problém“).
+- **Klíčové scény, které je dobré znát:**
+    - úvod s **básničkou ve školním rozhlase** o Hrdém Budžesovi + smrt **Olinky Hlubinové** „od srdce“ a družinářky **Olgy Jeřábkové** (vybuchla s plynem celý barák) – hned v první scéně se mísí dětský humor a smrt.
+    - **zájezd do Čáslavi** – Zkrocení zlé ženy, pan Dusil, pan Vorel s mladou milenkou, hospodský záchod s veršíky („horší nežli rusák je ten čůrák Husák“).
+    - **jiskřičky a výlet 9. 5.** – oddíl **Veselí lumíci**, slečna Anděla, pan Vladimír „specialista na partyzány“ (vypadá jako Ježíšek z kříže). Hledání kosti partyzána v lese (ve skutečnosti prasečí), slečnu Andělu mezitím pan Vladimír „vytáhne“ pryč. Hodně groteskní scéna.
+    - **Berenčičová** přijde zbitá s krví na svetříku z Maďarské lidové republiky: „zmlátily mě Kroupová s Panýrkovou, ať podepíšu to jejich SSM“. Naplno se ukáže, jak ideologický tlak v divadle reálně funguje.
+    - **zkouška hry Rozbřesk na dole Karel** + Seckého otázka „je tohle komédie nebo tragédie?“ – režisér neodpoví, jen Kačence řekne „že si nedáte pokoj, já se vám teda divim“.
+    - **Kačenka degradovaná** z hlavních rolí přes komornou až po „paní, co přejde zleva doprava“, zatímco Andrea Kroupová hraje samé hlavní role.
+    - **trám z lešení** spadne Kačence na hlavu cestou do divadla – Helenka se děsí, že o mámu přijde.
+    - **soud s divadlem v Praze** dopadne špatně, panu Dusilovi se udělá nevolno a ráno umře. Dědeček František píše dopis prezidentovi Husákovi (který „je na to určitě tak zvědavej“).
+    - **dopis od Freisteina** ve dvou polohách – jednou ho najde Helenka v babiččině nočním stolku (tajná korespondence) a roztrhá ho do záchodu; podruhé na konci přijde balíček s **nejkrásnějšími fixami na světě**.
+    - **závěr s fixami** – Helenka si lehne na chodník před barákem a všechny fixy hodí do kanálu. Hořký, vizuálně silný finální obraz hry, hned po objevu „a hrdý buď, žes“.
+- **Co hra zvýrazňuje oproti knížce:** přímější oslovování diváků, výraznější scénické symboly normalizace, ironické budovatelské popěvky mezi epizodami. Kdyby padla otázka na rozdíl, stačí říct, že hra **akcentuje grotesku a scénickou symboliku normalizace**, zatímco kniha víc rozvíjí Helenčin dětský vnitřní monolog. Jednotlivé epizody jsou v dramatizaci místy zkrácené nebo prohozené, ale hlavní linka (Hrdý Budžes, Freistein, divadlo, stěhování do Prahy) je stejná.
+
 ## Mini „poznávačka“ (úryvky)
 
 - dětské vyprávění, doslovné chápání frází, komické omyly kolem ideologie → **Hrdý Budžes**.
