@@ -18,8 +18,7 @@ const sectionLabels = new Map<string, string>([
   ['SWI', 'SWI'],
   ['DAT', 'DAT'],
   ['ANJ', 'ANJ'],
-  ['CJL', 'CJL'],
-  ['obhajoba', 'Obhajoba']
+  ['CJL', 'CJL']
 ])
 
 function ensureSectionIndexes(): void {
