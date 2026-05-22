@@ -1,6 +1,4 @@
-# dat-14-git-github
-
-# DAT 14 • Verzovací systémy: Git a GitHub
+# 14 • Verzovací systémy: Git a GitHub
 
 > Verzovací systémy (Git & GitHub), commit, branch, merge, konflikty, remote, workflow
 > 
