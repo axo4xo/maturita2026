@@ -8,11 +8,11 @@ import './style.css'
 export default {
   extends: DefaultTheme,
   Layout() {
-    const { page } = useData()
+    const { frontmatter } = useData()
     return h(DefaultTheme.Layout, null, {
       'doc-before': () => h(DownloadMd),
-      'doc-after': () =>
-        page.value.relativePath === 'CJL/index.md' ? h(CJLBookCards) : null
+      'doc-footer-before': () =>
+        frontmatter.value?.cjlCards ? h(CJLBookCards) : null
     })
   }
 }
