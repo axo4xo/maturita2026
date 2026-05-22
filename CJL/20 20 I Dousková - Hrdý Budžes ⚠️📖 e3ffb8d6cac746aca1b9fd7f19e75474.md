@@ -2,7 +2,7 @@
 audio: /CJL/audio/Hrdy_Budzes-NotebookLM.m4a
 ---
 
-# 20/20: I. Dousková - Hrdý Budžes ⚠️
+# 20/20: I. Dousková - Hrdý Budžes ⚠️📖
 
 ## Druh a žánr
 
