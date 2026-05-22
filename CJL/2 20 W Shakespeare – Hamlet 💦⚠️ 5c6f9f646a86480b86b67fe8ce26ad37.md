@@ -133,6 +133,10 @@ Druhá silná věc je, že hra není jen rodinná tragédie, ale i **tragédie s
 
 ⚠️ **Důležité odlišení – nezaměňovat:** Shakespeare = **anglická renesance, přelom 16./17. století** (alžbětinské a jakubovské divadlo, blankvers, ignorování antických pravidel jednoty). **Klasicistní** Corneille a Racine jsou o století později a píší jinak (jednoty místa, času, děje). Hamlet **není baroko ani romantismus** – tato období přijdou až po něm.
 
+## Vlastní názor
+
+Hamlet je pro mě jedna z těch her, u kterých chápu, proč o ní lidi pořád píšou nové eseje, i když má přes čtyři sta let. Nejvíc mě baví, že Hamlet není akční hrdina, který by hned běžel mstít otce – místo toho přemýšlí, pochybuje, váhá, a tím se z něj stává postava, ve které se snadno najdu, protože sám taky věci radši dvakrát rozebírám, než abych jednal hned. Co mi z Hamleta dnes přijde nejaktuálnější, je ten obraz prohnilého dvora, kde se všichni navzájem špehují a říkají si do očí něco jiného než za zády – to klidně sedí na ledasjakou současnou firmu, politickou stranu nebo i partu na sociálních sítích, kde se za úsměvem profilovky řeší nože do zad. „Být či nebýt" je sice klišé, ale pořád to funguje jako legitimní úvaha o tom, jestli má smysl něco vůbec dělat, když se svět rozpadá. Hlavní pointou je pro mě to, že přemýšlivý člověk je v prohnilém systému vždycky odsouzený k tragédii – buď ho systém pohltí, nebo ho zničí dřív, než stihne něco změnit.
+
 ## Mezilitarální paralely (přes maturitní seznam)
 
 - **Krysař (Dyk)** – sdílí motiv **osamělého mstitele v prohnilém světě**. Výjimečný, přemýšlivý jedinec se štítí morální hniloby okolí, má v rukou moc trestat, ale dlouho váhá. Hamlet vidí, že „je něco shnilého ve státě dánském“, Krysař vidí pokrytectví, malost a falešnou důstojnost měšťáků v Hammelnu. U obou pak nástroj pomsty (čin / píšťala) přinese **masovou smrt** mimo původní cíl.

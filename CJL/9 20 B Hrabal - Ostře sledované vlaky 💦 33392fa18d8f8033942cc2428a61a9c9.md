@@ -180,6 +180,10 @@ A jo, přesně to je ten hrabalovský trik, kdy se mezi razítka, zadky, vlakov�
 
 “ostře sledovaný vlak" - vojenské vlaky (s municí, technikou atd.), které měly na železnici absolutní přednost před vším ostatním a železničáři je museli bedlivě střežit a hlásit jejich průjezd ze stanice do stanice
 
+## Vlastní názor
+
+Na Ostře sledovaných vlacích mě baví hlavně to, jak Hrabal odmítá patos. Miloš Hrma není žádný hrdina z plakátu, je to nejistý kluk řešící vlastní stud a osobní trapasy, a teprve potom dělá něco „velkého". Působí to lidsky mnohem uvěřitelněji než klasické vlastenecké válečné prózy, kde každý voják mluví jako z prohlášení odbojové skupiny. Hlavní pointa pro mě je, že hrdinství vyrůstá z normálnosti, ne z nějaké výjimečnosti – Miloš je obyčejný kluk, kterému dějiny prostě nasadily situaci, ve které musí jednat. Dnes mi to přijde aktuální hlavně proto, že nám válka v Evropě zase ukazuje, jak rychle se z obyčejných kluků dokážou stát vojáci, kteří umírají za věci, kterým úplně nerozumí – a to bez ohledu na to, jestli mluvíme o 40. letech, nebo o současné Ukrajině. Kontrast obyčejných trapasů a smrti je tak ostrý, že místy působí trochu nesourodě, ale celkově to funguje skvěle. Každopádně mi je sympatické, že hrdinství tu vyrůstá z normálnosti, ne z nadřazenosti.
+
 ## Mezilitarální paralely (přes maturitní seznam)
 
 - **České nebe (Svěrák/Smoljak/Cimrman)** – obě díla **zničí český „mramorový“ obraz hrdinství**. Češi u nás nikdy nejsou pateticky velcí hrdinové – velké dějiny zakopávají o obyčejnou lidskou malost a trapnost. Cimrmani uzemňují Husa, Havlíčka, Komenského do role hádajících se úředníků; Hrabal vzal téma odboje a války, ale jeho hrdina Miloš Hrma je nevyzrálý kluk, co řeší předčasnou ejakulaci, ne vlastenectví. **Obě díla z nás dělají hrdiny navzdory směšnosti, ne díky dokonalosti.**

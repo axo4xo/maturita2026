@@ -165,6 +165,10 @@ Takže **nejde jen o proměnu vzhledu a řeči**, ale o otázku, **co s člověk
 
 [https://youtu.be/62Vt-NH2Frs](https://youtu.be/62Vt-NH2Frs)
 
+## Vlastní názor
+
+Pygmalion mě bavil hlavně proto, že Shaw odmítl udělat z toho romantickou pohádku, i když k tomu měl všechny ingredience po ruce. Higgins je vlastně dost protivný typ – chytrý, ale strašně sebestředný a k Líze se chová jako k pokusnému objektu, takže když se nakonec vzbouří, fandil jsem jí. Co mi přijde dnes pořád aktuální, je ten princip „mluvíš špatně = nepatříš mezi nás" – funguje úplně stejně, jen místo cockney máme přízvuk z Ostravy, nespisovnou češtinu v práci nebo třeba zápas „pražská bublina vs. zbytek republiky" na sociálních sítích, a lidi tě podle toho zařadí dřív, než dořekneš větu. Co mi přišlo trochu zdlouhavé, jsou Shawovy nekonečné scénické poznámky a doslov, kde divákovi až moc lopatkovitě vysvětluje, jak má hru chápat – kdyby trochu víc důvěřoval čtenáři, bylo by to silnější. Hlavní pointou je pro mě otázka, jestli má někdo právo „přerobit" jiného člověka jen proto, že má víc moci, peněz nebo vzdělání – a to je úplně stejně palčivé dneska, ve světě sebezlepšovacích kurzů a influencerských „glow-upů".
+
 ## Mezilitarální paralely (přes maturitní seznam)
 
 Společný princip: **systém (nebo jednotlivec) tě redukuje jen na tvoji užitečnost / projekt.**

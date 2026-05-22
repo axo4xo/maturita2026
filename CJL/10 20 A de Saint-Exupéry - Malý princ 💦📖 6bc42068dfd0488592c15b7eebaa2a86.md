@@ -180,9 +180,12 @@ Druhý den ráno **letec jeho tělo nenajde** – „nebylo tak těžké". Letec
 
 ⚠️ **Pro maturitu:** *Malý princ* je **filozofická pohádka / alegorie**, ne fantasy ani klasická dětská pohádka. Vznikl **v New Yorku roku 1943 během 2. světové války**, kdy byl Saint-Exupéry v americkém exilu, a vyšel **nejprve v USA** (anglicky i francouzsky). Saint-Exupéry zemřel jako **válečný pilot** (mise nad Středozemním mořem 31. 7. 1944) – jeho život i smrt jsou neoddělitelně spojené s létáním, což se odráží i v rámcovém příběhu letce. Konec **není pohádkově šťastný** – Malý princ se nechá uštknout hadem, aby mohl opustit těžké tělo a vrátit se k růži; jde o **symbolickou smrt podanou jako návrat**.
 
+## Vlastní názor
+
+Filozofická pohádka. Neskutečně emocionální. Asi nejlepší příklad alegorie / symboliky co jsem kdy četl. Zároveň úžasně versatilní dílo. Pro většinu dospělých nepochopitelná blbost, pro většinu dětí hezká pohádka, ale i ta filozofická hloubka tu je (přesněji pasáž s ochočením - hromada růží, ale jen jedna je mi ochočením vlastně ta podstatná) a i ta nejasná smrt/odchod na konci. Některé pasáže jsem napoprvé nepochopil, ale pak jsem je pochopil. Archetypy (pijan, byznysmen, král) stále nadčasové.
+
+Něco jsem si musel číst víckrát, abych pochopil filozofickou pointu.
 ## Mezilitarální paralely (přes maturitní seznam)
 
 - **Hrdý Budžes (Dousková)** – obě díla pracují s **naivní dětskou optikou, která demaskuje prázdnotu a pokrytectví světa dospělých**. Malý princ nechápe dospěláckou posedlost čísly, majetkem a mocí (byznysmen, král, opilec); Helenka Součková doslova interpretuje normalizační rituály a komunistické fráze. Dítě v obou příbězích funguje jako **reflektor**: protože nechápe „pravidla hry", naplno odhaluje, jak absurdní a vylhaný je dospělý svět.
-- **Cizinec (Camus)** – stejný rok (Cizinec 1942, Malý princ 1943), oba autoři Francouzi za války, oba se ptají po smyslu života a po samotě člověka ve světě. Camusova odpověď je **absurdita a revolta**, Saint-Exupéryho je **vztah, péče a odpovědnost** – v rámci maturity je to ukázkový kontrast dvou existenciálních postojů.
-- **Stařec a moře (Hemingway, 1952)** – obě díla jsou krátké, parabolické prózy s minimem postav, kde **starý a mladý / dospělý a dítě** prožívají něco, co je v jádru duchovní zkušenost (osamělost, vytrvalost, vztah). U obou je rozsah malý, ale významový přesah filozofický.
 - **Bylo nás pět (Poláček)** – dětská optika a humor, ale bez existenciální tíhy; ukázat jako **kontrast** – Poláček zůstává v idyle, Saint-Exupéry pracuje s dětským pohledem k těžké melancholii a smrti.

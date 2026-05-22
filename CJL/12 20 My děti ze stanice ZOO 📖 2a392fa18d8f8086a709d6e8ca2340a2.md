@@ -98,6 +98,12 @@ A druhá dobrá věc: monotónnost návratů k heroinu není chyba knihy, ale so
 - **Memento (Radek John, 1986) ↔ My děti ze stanice ZOO (1978):** dvě středoevropské knihy o heroinové generaci, obě s dokumentárním přesahem, obě varovné. Rozdíl: ZOO je novinářský přepis výpovědi reálné dívky (ich-forma, autentický slang), Memento je beletrističtější román s reportážními prvky a hraje se v normalizační Praze 80. let. Často se uvádí, že **ZOO lépe zachycuje psychologii závislosti**, protože ho „diktovala“ sama závislá.
 - **Hrdý Budžes ↔ ZOO:** obě knihy mají **dětského/dospívajícího vypravěče v ich-formě**, který nevědomky odhaluje absurditu a brutalitu světa dospělých. U Douskové komicky, u Christiane F. tragicky.
 
+## Vlastní názor
+
+Začátek mi přišel poněkud zdlouhavý (vlastně jak se popisuje to celý její dětství, vyrůstání, domácnost)—zajímavá je ta gradace, kde se Christiane přes hašiš dostává k LSD, dalším různým práškům až po samotný heroin, kde vlastně i sama zvažuje chvíli, než se nechá přesvědčit svou vlastní tvrdohlavostí (kdo mi bude co říkat). Děsivý je samozřejmě ten věk, ve kterém se k tomu všemu Christiane dostane. Poté už je to klasická „feťácká spirála”: já se z toho dostanu, mě to chybí, potřebuju to, už je to moc, najednou to vypadá nadějně... To je bohužel drtivá většina díla—na druhou stranu to ukazuje samotnou sílu látky i té biologické závislosti, které si tělo vytváří. Konec je takový plochý, ale vzhledem k vývoji děje v průběhu díla poměrně očekávaný.
+
+Co mě na ZOO zaujalo v kontrastu s **Mementem**, je úplně jiný typ destruktivního okolí. Zatímco v Mementu Eva Michala aktivně stahuje dolů (po vojně vypadá v pohodě a do drog se vrátí spíš kvůli ní), v ZOO jsou všichni Christianini přátelé hlavně **pasivní**—žádný aktivní „tahač", spíš Detlefova nekonečná pasivita, kde mu bylo vlastně všechno jedno. Christiane se v podstatě hroutí ve společnosti lidí, kteří jen mlčky padají vedle ní.
+
 ## Filmové zpracování
 
 - **Christiane F. – Wir Kinder vom Bahnhof Zoo** (1981), režie **Uli Edel**, hl. role **Natja Brunckhorst**. Kultovní film, který získal status filmu generace.

@@ -149,6 +149,10 @@ Druhá chytrá věc je, že hra není od začátku jen temná. Naopak první č�
 
 ⚠️ **Důležité odlišení – nezaměňovat:** Shakespeare = **anglická renesance, přelom 16./17. století** (alžbětinské divadlo). **Není to baroko ani klasicismus** a neřídí se pravidly tří jednot.
 
+## Vlastní názor
+
+Přiznám se, že k Romeovi a Julii jsem šel s předsudkem, že to bude jen ta klasická slzavá love story, kterou všichni znají z filmu nebo z toho zlatého balkonu. Ve skutečnosti mě překvapilo, jak je první polovina hry vlastně vtipná a živá – Shakespeare není zdaleka tak vážný a „muzeální", jak se občas tvrdí. Co mi přijde dnes pořád silné, je hlavně pointa, že za rodovou nenávist dospělých nakonec zaplatí ti nejmladší – úplně stejnou logiku vidíme dneska v politických nebo rodinných sporech, kde děti dědí konflikty, které si nezvolily, nebo třeba v debatě o klimatu, kde nás starší generace nutí řešit jejich nepořádek. Renesanční důraz na osud a souhru náhod mi občas přijde uměle natažený, ale chápu, že pro tehdejší tragédii je osudovost prostě motor, který to musí pohánět. Hlavní pointou je pro mě selhání dospělého světa ve chvíli, kdy ho mladí potřebují nejvíc – a to platí v každé generaci znova.
+
 ## Mezilitarální paralely (přes maturitní seznam)
 
 - **Kytice (Erben)** – sdílí motiv **vášně, která poruší řád, a tragédie, která z toho plyne**. Porušení stanovených pravidel (společenských nebo přírodních) nevyhnutelně končí smrtí. V Romeovi a Julii je tím řádem stará rodová nenávist Monteků a Kapuletů, kterou se mladá prudká láska pokusí přeskočit. U Erbena postavy porušují **mravní nebo přírodní řád** (rouhavá touha po mrtvém milém ve **Svatebních košilích**, překročení hranice dvou světů ve **Vodníkovi**, vzpoura proti přirozenému řádu v **Polednici**). V obou případech za nerespektování těchto daných hranic platí nevinní tím nejvyšším trestem.

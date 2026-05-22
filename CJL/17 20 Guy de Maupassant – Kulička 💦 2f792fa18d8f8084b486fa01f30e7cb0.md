@@ -185,6 +185,10 @@ A druhá silná věc: **Kulička není jen „chudák holka“**. Je štědrá, 
 
 ---
 
+## Vlastní názor
+
+Kulička mě překvapila tím, jak je krátká a jak rychle si vás Maupassant získá – přitom v podstatě celá novela visí na jedné situaci v zaseknutém dostavníku. Nejvíc na mně zůstala ta gradace, jak „počestná" společnost prostitutku obměkčí přes vlastenectví a náboženské argumenty; není to brutální nátlak, ale chytré, ohlazené, salonní – a o to je to odpornější. Závěr, kdy se k ní stejní lidé otočí zády hned, jakmile splnila „úkol", mi přijde jako jedna z nejkrutějších scén v naturalismu vůbec. Relevantní je to dodnes – stejný princip vidíte vždycky, když „slušná většina" obětuje někoho, kdo se nemůže bránit, a omluví si to vyšším dobrem; ať už jde o dnešní politické debaty o uprchlících, o sociální menšiny, nebo o to, jak rychle se lidi v krizi otočí proti někomu, koho ještě před chvílí potřebovali. Hlavní pointou je pro mě, že pokrytectví „slušných" lidí dokáže být mnohem brutálnější než otevřené násilí, protože se navenek tváří jako mravnost.
+
 ## Mini-tahák k zápočtu / k maturitě
 
 | Položka | Odpověď |

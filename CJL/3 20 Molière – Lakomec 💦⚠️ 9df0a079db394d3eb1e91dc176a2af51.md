@@ -159,6 +159,10 @@ A druhá dobrá věc: závěr sice působí šťastně, protože mladí dostanou
 - **William Shakespeare (1564–1616)** – angl. renesance, postava lichváře **Shylocka** v **Kupci benátském** je další obraz chamtivosti, psychologicky složitější než typový Harpagon.
 - **N. V. Gogol (1809–1852)** – ruský realismus, **Revizor** – komedie typů, ostrá satira úřednické chamtivosti.
 
+## Vlastní názor
+
+Lakomec mě překvapil tím, jak je pořád vtipný, i když má skoro čtyři sta let – čekal jsem nudnou klasicistní povinnou četbu a místo toho je to docela ostrá komedie, která funguje i dneska. Když si představím dnešní svět, kde si lidi měří hodnotu vztahů přes Instagram a peněženku a kde existují celé influencerské scény typu „finfluencerů" obsedantně řešících peníze, tak Harpagon vlastně není směšný stařec z minulosti, ale docela přesný portrét každého, kdo bere svoje blízké jako položky v účetnictví. Co mi naopak přišlo trochu otravné, je pohádkově poskládaný konec, kde se najednou všechno hladce vyřeší – takový typ řešení dneska působí dost lacině. Silné mi naopak přijde, že Harpagon se vůbec nepoučí – právě to z toho dělá ostřejší satiru, než kdyby ho Molière potrestal nějakým mravoučným koncem. Hlavní pointou je pro mě, že jedna posedlost dokáže rozbít všechny vztahy kolem člověka, a u peněz to platí v každé době.
+
 ## Mezilliterární paralely (přes maturitní seznam)
 
 - **Revizor (N. V. Gogol)** – obě hry jsou **komedie o totální ztrátě lidské důstojnosti** kvůli jedné neřesti. U Molièra Harpagonova chamtivost ničí štěstí dětí a chce dceru provdat „bez věna“; u Gogola provinční úředníci ze strachu o teplá místečka uplácejí a plazí se před úplnou nulou (Chlestakov). Oba autoři používají **typizované postavy** (lakomec / podplatitelný úředník) a tvrdou **satiru měšťanské/úřednické morálky**. Závěr je u obou hořký: Harpagon utíká ke kasičce, gogolovští úředníci ztuhnou v němé scéně.

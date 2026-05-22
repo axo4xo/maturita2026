@@ -192,6 +192,10 @@ Nejdůležitější je neudělat z toho jen historku „obraz stárne místo ně
 
 Druhá chytrá věc k ústnímu: Sibyl není jen „holka, co se kvůli němu zabije“. Je důkazem, že Dorian ve skutečnosti nemiluje člověka, ale **estetický dojem**. Jakmile se z herečky stane reálná žena s citem, přestane pro něj být zajímavá. A to přesně ukazuje, co je na jeho postoji od začátku zkažené.
 
+## Vlastní názor
+
+Na Dorianu Grayovi mě nejvíc fascinuje postava Lorda Henryho. Nepřijde mi totiž jako klasický „zlosyn", ale spíš jako někdo, kdo si v salonu hraje s nebezpečnými myšlenkami a vůbec si neuvědomuje, že je někdo bere doslova. To mi přijde dost aktuální i dneska, ve světě influencerů a hot takes na sociálních sítích – někdo prohodí provokativní názor a pak se diví, že se podle toho lidi začnou chovat. Trochu mi vadí, že Dorian je dost pasivní postava: spíš se mu věci „dějí", než aby si je sám volil, a to ho jako tragického hrdinu trochu oslabuje. Naopak silný mi přijde závěr s probodnutím obrazu – že snaha zničit svědomí zničí člověka samotného, to je krásně sevřená pointa.
+
 ## Mini-tahák (poslední pohled před zkoušením)
 
 - **Autor:** Oscar Wilde (1854–1900), **Ir**, britská **dekadence + estetismus**, „l'art pour l'art“.

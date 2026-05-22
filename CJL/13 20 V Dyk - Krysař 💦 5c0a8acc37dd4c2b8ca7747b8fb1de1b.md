@@ -138,6 +138,10 @@ Nejdůležitější je nevylíčit **Krysaře** jen jako příběh o pomstě za 
 
 ⚠️ **Důležité pro maturitu:** Dyk = **česká moderna, generace 1900 (buřiči)**, přelom 19./20. století. **Krysař** kompozičně i jazykem patří k **symbolismu a novoromantismu**, NIKOLIV k realismu. Není to ani modernistická psychologická próza jako Kafka.
 
+## Vlastní názor
+
+Krysař na mě zapůsobil hlavně tím, jak rychle se z příběhu o nezaplacené odměně stane něco mnohem temnějšího. Dykova obžaloba měšťácké vypočítavosti a malosti je podle mě dnes ještě aktuálnější než v roce 1915 – pořád vidíme, jak se obyčejná lakota schovává za právnické vytáčky a „dohody", ať už mluvíme o firemních smlouvách, nebo o tom, jak stát zachází s nejslabšími. Nejsilnější mi přijde finální obrat, kdy obyčejná lidskost a péče o nevinné nakonec přebije svod „jiného světa" a velké ideologie útěku – to je překvapivě nesentimentální pointa pro tehdejší dekadenci. Lyrizovaná próza a archaizující jazyk se mi nečtou úplně lehce, ale jako symbolický příběh o tom, jak snadno dav podlehne hypnotickému svodu, to funguje pořád výborně – stačí se podívat, jak fungují dnešní davové vlny na sociálních sítích nebo různá konspirační hnutí, kde stačí jeden charismatický „pištec" a lidi jdou za ním klidně i do propasti.
+
 ## Mezilitarální paralely (přes maturitní seznam)
 
 - **Hamlet (Shakespeare)** – sdílí motiv **osamělého mstitele v prohnilém světě**. Výjimečný, přemýšlivý jedinec se štítí morální hniloby okolí, má v rukou moc trestat, ale dlouho váhá. Hamlet vidí „něco shnilého ve státě dánském", Krysař vidí pokrytectví a malost měšťáků v Hammelnu. U obou nakonec nástroj pomsty (čin / píšťala) přinese **masovou smrt** mimo původní cíl – ne jen viníky, ale i nevinné.

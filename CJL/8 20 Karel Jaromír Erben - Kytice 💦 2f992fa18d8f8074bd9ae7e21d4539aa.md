@@ -352,6 +352,10 @@ Závěrečná skladba už není rodinná balada v úzkém smyslu, ale široce ro
 
 ⚠️ **Důležité odlišení – nezaměňovat:** Erben = **česká folklórní větev romantismu, polovina 19. století (sbírka 1853)**. Není to obrozenecký „budovatel jazyka“ jako Jungmann nebo Dobrovský – ti jsou o generaci starší a působí jinak. Není to ani „velký romantik“ v máchovském smyslu (individualistický cit), ale **kolektivní hlas lidové tradice**.
 
+## Vlastní názor
+
+Na Kytici mě nejvíc zaujalo, jak brutální dokáže Erben být – hlavně Polednice a Vodník mi přijdou skoro jako horor, ne jako „klasická česká poezie pro děti", jak to občas učitelé prezentují. Líbí se mi, že nadpřirozeno tu není samoúčelná dekorace, ale slouží jako zhmotnění viny nebo nezvládnuté emoce, což je psychologicky překvapivě moderní. Co mi naopak trochu vadí, je ten až úzkostlivý moralismus: za každé porušení pravidla okamžitě přichází nepřiměřeně tvrdý trest, většinou na nevinném dítěti. Dnešnímu čtenáři to může přijít přepjaté, ale na druhou stranu právě to ukazuje, jak silně byla tehdejší společnost svázaná strachem z osudu a božího trestu.
+
 ## Mezilitarální paralely (přes maturitní seznam)
 
 - **Romeo a Julie (Shakespeare)** – sdílí motiv **vášně, která poruší řád, a tragédie, která z toho plyne**. U Shakespeara je řádem stará rodová nenávist, kterou se mladá láska pokusí přeskočit. U Erbena postavy porušují **mravní nebo přírodní řád** (rouhavá touha po mrtvém milém ve Svatebních košilích, překročení hranice světů ve Vodníkovi, vzpoura proti řádu v Polednici). V obou případech za nerespektování stanovených hranic platí nevinní tím nejvyšším trestem.

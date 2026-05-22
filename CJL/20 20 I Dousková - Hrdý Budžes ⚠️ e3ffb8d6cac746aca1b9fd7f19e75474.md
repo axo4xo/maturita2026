@@ -119,6 +119,10 @@ A druhá chytrá věc: **Hrdý Budžes** není jen legrační zkomolenina. Je to
 - **Michal Viewegh – Báječná léta pod psa** (1992) – tematicky nejbližší česká próza: dětsko-mladistvý pohled na normalizaci, otec problémový vůči režimu, podobná tragikomika.
 - **Bohumil Hrabal** – obecnější paralela: tragikomický pohled na obyčejné lidi v dějinách, spojení banality a velkých dějin, „pábitelská“ poetika.
 
+## Vlastní názor
+
+Hrdý Budžes mi přišel jako kniha, která vypadá nevinně a vtipně, ale když ji dočtete, máte spíš divný pocit než dobrou náladu. Nejvíc na mně zůstal princip dětského vypravěče – Helenka nechápe politiku, ale právě proto naplno odhalí, jak trapné a kruté, absurdní byly normalizační rituály a celá ta falešnost normalizace. Sedí mi, že Dousková se nesnaží Helenku vykreslit jako roztomilé dítě – je trapná, doslovná, mimo, a o to víc jí věřím. Závěrečné odhalení, že „Hrdý Budžes" je vlastně jen špatně slyšené „hrdý buď, žes", mi přijde geniální v tom, jak je to malá scéna, ale funguje jako symbol toho, jak normalizace okrádala lidi i o ty nejmenší dětské jistoty. Hlavní pointou je pro mě to, že totalita ničí lidi především v drobnostech a v jazyce, i přes to, jak absurdní dokáže být.
+
 ## Souhrn pro rychlou orientaci
 
 | Položka | Hodnota |

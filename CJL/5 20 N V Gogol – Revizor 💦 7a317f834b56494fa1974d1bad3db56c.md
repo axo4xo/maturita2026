@@ -190,6 +190,10 @@ A druhá chytrá věc: **Chlestakov není rafinovaný manipulátor**. Gogol výs
 
 kritika dobových mravů a dobové společnosti
 
+## Vlastní názor
+
+Revizor je možná nejvtipnější věc ze seznamu četby a zároveň překvapivě nepříjemně přesná i po skoro dvou stech letech. Nejostřejší pointa je podle mě ta, že se město neusvědčí kvůli Chlestakovovi, ale samo ze sebe – všichni mají něco za ušima, a jakmile zacítí strach, začnou se okamžitě navzájem udávat. Když to čtu dnes, vidím v tom vlastně každou kauzu, kde se vyšetřuje korupce na úřadech nebo v politice – chování postav se za 190 let nezměnilo ani trochu, jen místo carských úředníků máme krajské hejtmany a místo Chlestakova nějakého „experta z ministerstva". Trochu mě iritovalo množství vedlejších postav s ruskými jmény, ze začátku jsem se v nich ztrácel, ale jakmile to naskočí, drží to skvělé tempo. Hlavní pointou je pro mě, že nejnebezpečnější není padouch zvenčí, ale to, že si systém zkažený zevnitř sám diktuje, kdy mu má někdo nahnat strach.
+
 ## Mezilitarální paralely (přes maturitní seznam)
 
 - **Kulička (Maupassant)** – stejné jádro: **strach o vlastní pohodlí a postavení vede skupinu k obětování morálních zásad a k sebeklamu**. V Revizoru úředníci zradí jeden druhého, aby si zachránili koryta; v Kuličce „počestná“ elita obětuje prostitutku, aby mohla pohodlně odjet. V obou dílech maska slušnosti padá ve chvíli krize – a skutečné zlo přichází zevnitř společnosti, ne zvenčí.

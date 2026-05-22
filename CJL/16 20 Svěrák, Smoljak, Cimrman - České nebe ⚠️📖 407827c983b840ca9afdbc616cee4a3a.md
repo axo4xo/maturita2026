@@ -201,6 +201,10 @@ Hra končí slavnostním zakončením: Tyrš rozdá kolíky s **červenobílými
 
 A druhá chytrá věc: hra premiérovala přesně **28. 10. 2008**, tedy na 90. výročí vzniku ČSR, a sám Smoljak ji označil za **„Cimrmanův dramatický kšaft“**. Není to tedy jen další hra, ale **rozloučení s divadelní tradicí**, která vznikla v roce 1967.
 
+## Vlastní názor
+
+Vtipné. Plné referencí na českou kulturu. Tady tomu ale dodávají tu energii za mě samotní herci, maršál Radecký je zahrán dost autenticky. Naopak hlášky jako "ticho blbci" už jsou za mě lehce přepoužívané a po x-té už ztrácí ten ráz... Dost zajímavý a pozoruhodný detail je, jak se komise neshodne na Boženě Němcové a vezmou radši do komise její babičku (kvůli známým vztazím s muži apod.), přičemž samotná babička Boženy Němcové se v komise snaží spárovat nejprve s Praotcem Čechem a poté s Komenským — ukazuje to, že geny se nezapřou...
+
 ## Mezilliterární paralely (přes maturitní seznam)
 
 ### Hašek – Osudy dobrého vojáka Švejka (přímý předchůdce!)
