@@ -182,7 +182,7 @@ Druhý den ráno **letec jeho tělo nenajde** – „nebylo tak těžké". Letec
 
 ## Vlastní názor
 
-Filozofická pohádka. Neskutečně emocionální. Asi nejlepší příklad alegorie / symboliky co jsem kdy četl. Zároveň úžasně versatilní dílo. Pro většinu dospělých nepochopitelná blbost, pro většinu dětí hezká pohádka, ale i ta filozofická hloubka tu je (přesněji pasáž s ochočením - hromada růží, ale jen jedna je mi ochočením vlastně ta podstatná) a i ta nejasná smrt/odchod na konci. Některé pasáže jsem napoprvé nepochopil, ale pak jsem je pochopil. Archetypy (pijan, byznysmen, král) stále nadčasové.
+Filozofická pohádka. Neskutečně emocionální. Asi nejlepší příklad alegorie / symboliky co jsem kdy četl. Zároveň úžasně versatilní dílo. Pro většinu dospělých nepochopitelná blbost, pro většinu dětí hezká pohádka, ale i ta filozofická hloubka tu je (přesněji pasáž s ochočením - hromada růží, ale jen jedna je mi ochočením vlastně ta podstatná) a i ten návrat na asteroid na konci (dvojsmysl - osvobození/skutečně smrt). Některé pasáže jsem napoprvé nepochopil, ale pak jsem je pochopil. Archetypy (pijan, byznysmen, král) stále nadčasové.
 
 Něco jsem si musel číst víckrát, abych pochopil filozofickou pointu.
 ## Mezilitarální paralely (přes maturitní seznam)

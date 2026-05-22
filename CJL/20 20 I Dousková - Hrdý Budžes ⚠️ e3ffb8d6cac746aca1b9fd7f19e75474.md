@@ -66,7 +66,7 @@ Ke konci se začnou jednotlivé linky uzavírat. Oba rodiče jsou pod tlakem re�
 4. **Tragikomika** – čtenář se směje, ale zároveň ví, že za humorem je smutek, strach a ponižování. To je nejtypičtější účinek celé knihy. Ostatně i autorka na svém webu mluví o ironii a naivitě, které tíživou dobu odlehčují, ale nezjednodušují.
 5. **Epizodická výstavba** – kapitoly mají výrazné názvy a fungují jako samostatné historky, ale zároveň posouvají Helenčinu psychiku i celkovou situaci rodiny k závěrečnému odchodu z Ničína.
 
-## Divadelní zpracování (monodrama, Divadlo v Dlouhé)
+## Divadelní zpracování (monodrama, Divadlo Příbram)
 
 - **Premiéra 2003**, v hlavní (a v podstatě jediné) roli **Bára Hrzánová**, která hraje Helenku i všechny ostatní postavy. Inscenace je kultovní a dodnes se hraje. Pokud u zkoušení padne otázka „znáte nějaké zpracování?“, tohle je odpověď.
 - **Struktura:** hra má **dvě části** s přestávkou. První část končí scénou, kdy k nim domů přijde **Robert Čušek** (manžel Andrey Kroupové), zařve „tyvole to je dost, jsem se tady málem poblil“ a opravdu se v chodbě poblije. Druhá část začíná blokem normalizačních hesel („my čeští umělci ÚV KSČ, ÚV NF ČSSR k volbám, nové vedení strany v čele s Gustávem Husákem“) – takový ironický refrén.
@@ -125,14 +125,14 @@ Hrdý Budžes mi přišel jako kniha, která vypadá nevinně a vtipně, ale kdy
 
 ## Souhrn pro rychlou orientaci
 
-| Položka | Hodnota |
-|---|---|
-| Autor | Irena Dousková (* 1964) |
-| Rok vydání | 1998 |
-| Druh / žánr | epika, novela / kratší román, tragikomická próza |
-| Forma vyprávění | ich-forma, osmiletá Helenka Součková |
-| Doba děje | normalizační 70. léta, cca jeden školní rok |
-| Místo děje | fiktivní město **Ničín** (inspirováno Příbramí), Zákopy, závěr Praha |
-| Hlavní téma | dětský pohled na normalizační absurditu; tragikomika |
-| Pokračování | Oněgin byl Rusák (2006), Darda (2011) |
-| Slavné zpracování | monodrama s Bárou Hrzánovou (Divadlo v Dlouhé) |
+| Položka           | Hodnota                                                              |
+| ----------------- | -------------------------------------------------------------------- |
+| Autor             | Irena Dousková (* 1964)                                              |
+| Rok vydání        | 1998                                                                 |
+| Druh / žánr       | epika, novela / kratší román, tragikomická próza                     |
+| Forma vyprávění   | ich-forma, osmiletá Helenka Součková                                 |
+| Doba děje         | normalizační 70. léta, cca jeden školní rok                          |
+| Místo děje        | fiktivní město **Ničín** (inspirováno Příbramí), Zákopy, závěr Praha |
+| Hlavní téma       | dětský pohled na normalizační absurditu; tragikomika                 |
+| Pokračování       | Oněgin byl Rusák (2006), Darda (2011)                                |
+| Slavné zpracování | monodrama s Bárou Hrzánovou (Divadlo Příbram)                        |
