@@ -9,7 +9,7 @@ audio: /CJL/audio/Ostre_sledovane_vlaky-NotebookLM.m4a
 - **Literární druh:** epika
 - **Žánr:** **novela** s prvky **válečné prózy, dospívání, grotesky a tragikomedie**
 - **Forma:** próza, vyprávění v ich-formě, souvislý děj, ale s odbočkami a vzpomínkami
-- **Kompozice:** kratší prozaický útvar, děj je převážně **chronologický**, občas přerušený vzpomínkami a epizodami
+- **Kompozice:** kratší prozaický útvar **bez čísel kapitol** – text plyne v souvislém proudu, jen graficky oddělený mezerami a oddíly; děj je převážně **chronologický**, občas přerušený vzpomínkami a epizodami (rozsahem cca **90–100 stran**, tedy klasická novelistická délka)
 - Typické je spojení **obyčejného, komického a tragického**: vedle erotických a absurdních situací stojí válka a smrt
 - Patří do **české prózy 2. poloviny 20. století**, výrazně do atmosféry 60. let
 

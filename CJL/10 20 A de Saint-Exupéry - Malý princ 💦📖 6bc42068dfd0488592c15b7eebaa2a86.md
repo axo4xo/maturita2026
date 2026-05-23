@@ -4,6 +4,7 @@
 
 - **Literární druh:** epika
 - **Žánr:** **filozofická pohádka** / **alegorická novela** (někdy řazeno i jako poetická próza pro dospělé)
+- **Kompozice:** **27 krátkých kapitol** + **věnování Léonu Werthovi**; rámcové vyprávění (vnější rámec letec na Sahaře, vnitřní princova cesta po planetkách)
 - Dílo je vystavěné jako jednoduchý dětský příběh, ale nese silnou **symboliku, alegorii a filozofický přesah** – proto se mluví o „pohádce pro dospělé".
 - Součástí knihy jsou **autorské akvarelové ilustrace**, které jsou nedílnou součástí významu (např. „kresba č. 1" – hroznýš se slonem vs. klobouk).
 

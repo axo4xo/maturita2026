@@ -76,13 +76,27 @@
 
 ### Kompozice
 
+- **13 skladeb** v pevně daném pořadí (12 v 1. vydání 1853 + **Lilie** dopsána do 2. vydání 1861):
+    1. **Kytice** (rámec)
+    2. **Poklad** (členěna na **5 zpěvů I–V**)
+    3. **Svatební košile**
+    4. **Polednice**
+    5. **Zlatý kolovrat** (členěn na **6 zpěvů I–VI**)
+    6. **Štědrý den** (členěn na **5 zpěvů I–V**)
+    7. **Holoubek**
+    8. **Záhořovo lože** (členěno na **5 zpěvů I–V**)
+    9. **Vodník**
+    10. **Vrba**
+    11. **Lilie**
+    12. **Dceřina kletba**
+    13. **Věštkyně (úlomky)** (rámec)
 - sbírka bývá vykládána jako **promyšleně komponovaný celek**
 - některé skladby se tematicky **zrcadlí nebo doplňují**:
     - matka–dítě
     - návrat mrtvého
     - vina a svědomí
     - zásah nadpřirozena
-- úvodní **Kytice** a závěrečná **Věštkyně** bývají chápány jako **rámec sbírky**
+- úvodní **Kytice** a závěrečná **Věštkyně** bývají chápány jako **rámec sbírky** (národní/vlastenecký tón)
 - sbírka tak nepůsobí jen jako soubor jednotlivých balad, ale jako celek propojený motivy a významy
 
 ---

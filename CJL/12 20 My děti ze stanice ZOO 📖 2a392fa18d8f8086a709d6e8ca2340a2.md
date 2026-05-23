@@ -4,6 +4,7 @@
 
 - **Literární druh:** epika
 - **Žánr:** nejpřesněji **dokumentární / reportážně zpracovaná próza**, literatura faktu s výraznou **autobiografickou stylizací v ich-formě**
+- **Kompozice:** souvislé vyprávění v **ich-formě**, členěné na **nečíslované kapitoly** s titulky (volně tematicky, jak vznikalo z magnetofonových protokolů); chronologické s drobnými retrospektivami. Knihu rámují **předmluva matky Christiane** a **doslov** (rozhovor / dodatek o dalším osudu); v některých vydáních také reportážní vsuvky novinářů Hermanna a Riecka.
 - Originální podtitul knihy zní v překladu zhruba **„autobiografie 14leté drogově závislé prostitutky“** – už podtitul tedy přiznává dokumentární, nikoli románový charakter.
 - Není úplně přesné mluvit o „čistém autobiografickém románu“, protože kniha vznikla **na základě magnetofonových nahrávek a rozhovorů** s Christiane F., které literárně zpracovali novináři **Kai Hermann a Horst Rieck**. Carlsen i archivní metadata anglického vydání to uvádějí výslovně.
 - V němčině žánrově **„Tatsachenbericht“ / „Tonbandprotokoll“** (reportáž, magnetofonový protokol), česky bychom řekli **literatura faktu / non-fiction novela**.

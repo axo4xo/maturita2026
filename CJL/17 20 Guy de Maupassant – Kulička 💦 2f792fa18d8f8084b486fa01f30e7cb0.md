@@ -6,7 +6,7 @@
 - **Forma:** próza
 - **Žánr:** **povídka / novela** (delší povídka s jedním dějovým jádrem a pointou); je to **naturalisticko-realistická** próza s výraznou **společenskou satirou** a syrovými, tělesnými detaily (hlad, špína, otylost, pot, sex „v zákulisí“)
 - **Literární směr:** **francouzský naturalismus** (pozdější fáze realismu) – snaha o vědecky přesné, „experimentální“ zobrazení člověka, který je determinován prostředím, biologií a společenskou třídou; Maupassant je řazen do okruhu **Émila Zoly**
-- **Kompozice:** převážně **chronologická**, sevřená do **uzavřeného rámce dostavníku** (zavřený prostor = společenský mikrokosmos); s důrazem na jednu hlavní situaci a postupné odhalování charakteru postav
+- **Kompozice:** **delší povídka / novela bez vnitřního dělení na kapitoly** (souvislý text, oddělený jen odstavci); převážně **chronologická**, sevřená do **uzavřeného rámce dostavníku** (zavřený prostor = společenský mikrokosmos); s důrazem na jednu hlavní situaci a postupné odhalování charakteru postav
 - Důležité není jen „co se stane“, ale **jak se skupina chová pod tlakem** a jak rychle se její morálka ohne, když jde o pohodlí.
 
 ## Autor a literárněhistorický kontext
