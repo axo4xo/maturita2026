@@ -12,7 +12,7 @@
 
 ## Autor a literárněhistorický kontext
 
-- **Molière**, vlastním jménem **Jean-Baptiste Poquelin** (*1622 Paříž – †1673 Paříž*), byl francouzský dramatik, herec a vedoucí divadelní společnosti (působil i jako její principál a režisér), považovaný za největšího autora francouzské klasicistní komedie.
+- **Molière**, vlastním jménem **Jean-Baptiste Poquelin** *[poklén]* (*1622 Paříž – †1673 Paříž*), byl francouzský dramatik, herec a vedoucí divadelní společnosti (působil i jako její principál a režisér), považovaný za největšího autora francouzské klasicistní komedie.
 - Pocházel z měšťanské rodiny dvorního čalouníka. Místo právnické dráhy zvolil divadlo: dvanáct let s kočovnou společností brázdil Francii, roku 1658 se vrátil do Paříže a získal **přízeň krále Ludvíka XIV.** („krále Slunce“). Hrál pak hlavně v divadle **Palais-Royal**.
 - Zemřel **17. února 1673** krátce po čtvrtém představení *Zdravého nemocného*, ve kterém sám hrál hlavní roli (chrlení krve). Pro divadelnické povolání mu kněží zprvu odepřeli i řádný církevní pohřeb.
 - Patří k vrcholům **francouzského klasicismu 17. století**, vedle tragiků **Pierra Corneilla** (*Cid*) a **Jeana Racina** (*Faidra*, *Britannicus*). Ve svých hrách kritizuje **pokrytectví, snobství, přetvářku, fanatismus, učenost na efekt a lakotu** – vždy přes jednu povahovou vadu dovedenou do extrému (komedie charakteru).
